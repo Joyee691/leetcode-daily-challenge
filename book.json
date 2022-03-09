@@ -1,0 +1,31 @@
+{
+	"title": "LeetCode Daily Challenge",
+	"author": "Joyee691",
+	"description": "一个记录 LeetCode 每日一题的仓库",
+	"language": "zh-hans",
+	"gitbook": "3.2.3",
+	"plugins": [
+		"github-buttons",
+		"chapter-fold",
+		"code",
+		"prism",
+		"search-plus",
+		"-lunr",
+		"-search",
+		"-sharing",
+		"theme-comscore",
+		"splitter"
+	],
+	"pluginsConfig": {
+		"github-buttons": {
+			"buttons": [
+				{
+					"user": "Joyee691",
+					"repo": "leetcode-daily-challenge",
+					"type": "star",
+					"size": "small"
+				}
+			]
+		}
+	}
+}
