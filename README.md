@@ -29,7 +29,7 @@
 5. 这个时候应该能在当前路径下看到多了一个`_book`目录
 6. 安装 serve ：`npm install -g serve`
 7. 使用 serve 启动：`serve _book`
-8. 然后就能在 cli 看到对应的端口打开就好
+8. 然后就能在 cli 看到对应的路径打开就好
 
 ## 特别鸣谢
 
