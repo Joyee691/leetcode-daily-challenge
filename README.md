@@ -2,7 +2,7 @@
 
 > 一个记录 leetcode 每日一题的仓库
 
-[线上观看地址]()
+[线上观看地址](https://joyee691.github.io/leetcode-daily-challenge/)
 
 ## 汇总（按题目序号排列）
 
@@ -10,7 +10,7 @@
 
 ## 使用说明
 
-**对于不想折腾的朋友，建议直接[线上观看]()**
+**对于不想折腾的朋友，建议直接[线上观看](https://joyee691.github.io/leetcode-daily-challenge/)**
 
 ### 本地运行伺服器
 
