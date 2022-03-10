@@ -6,4 +6,4 @@
 
 ## 汇总（按题目顺序排列）
 
-- [1.Two Sum(easy)](./easy/1.md)
+- [2.Add Two Numbers(medium)](./medium/2.md)
