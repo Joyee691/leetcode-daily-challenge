@@ -1,4 +1,4 @@
 # gitbook serve dir
-_book
+book_sources/_book
 
-node_modules
+book_sources/node_modules
