@@ -15,6 +15,8 @@ const plugins = [
 	'-lunr',
 	// 默认搜索插件的前端
 	'-search',
+	// 数学公式
+	'latex-codecogs',
 	// 默认分享
 	'-sharing',
 	// 给 md 加点颜色
@@ -57,7 +59,6 @@ const pluginsConfig = {
 if (process.env.NODE_ENV === 'dev') {
 	// 添加热更新
 	plugins.push('livereload');
-	console.log(plugins);
 	// 打印其他插件的报错 log
 	pluginsConfig['anchor-navigation-ex'].printLog = true;
 }

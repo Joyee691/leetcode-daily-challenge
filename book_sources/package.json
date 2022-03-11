@@ -9,6 +9,7 @@
 		"gitbook-plugin-code": "^0.1.0",
 		"gitbook-plugin-github": "^2.0.0",
 		"gitbook-plugin-github-buttons": "^3.0.0",
+		"gitbook-plugin-latex-codecogs": "^1.0.1",
 		"gitbook-plugin-livereload": "0.0.1",
 		"gitbook-plugin-prism": "^2.4.0",
 		"gitbook-plugin-search-plus": "^1.0.3",
