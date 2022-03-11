@@ -6,7 +6,8 @@
 
 ## 汇总（按题目序号排列）
 
-- [2.Add Two Numbers(medium)](./medium/2.md)
+- [2.Add Two Numbers(medium)](./book_sources//medium/2.md)
+- [61. Rotate List(medium)](./book_sources/medium/61.md)
 
 ## 使用说明
 
