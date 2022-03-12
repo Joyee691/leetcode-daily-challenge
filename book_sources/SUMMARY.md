@@ -6,4 +6,5 @@
 - [Meduim](medium/README.md)
   - [2. Add Two Numbers](./medium/2.md)
   - [61. Rotate List(medium)](./medium/61.md)
+  - [138. Copy List with Random Pointer(medium)](./medium/138.md)
 - [Hard](hard/README.md)
