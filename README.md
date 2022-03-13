@@ -8,6 +8,7 @@
 
 - [1. Two Sum(easy)](./book_sources/easy/1.md)
 - [2. Add Two Numbers(medium)](./book_sources/medium/2.md)
+- [20. Valid Parentheses(easy)](./book_sources/easy/20.md)
 - [61. Rotate List(medium)](./book_sources/medium/61.md)
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 
