@@ -8,4 +8,5 @@
   - [2. Add Two Numbers](./medium/2.md)
   - [61. Rotate List(medium)](./medium/61.md)
   - [138. Copy List with Random Pointer(medium)](./medium/138.md)
+  - [1029. Two City Scheduling(medium)](./medium/1029.md)
 - [Hard](hard/README.md)
