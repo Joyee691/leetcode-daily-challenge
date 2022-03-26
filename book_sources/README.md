@@ -9,4 +9,5 @@
 - [20. Valid Parentheses(easy)](./easy/20.md)
 - [61. Rotate List(medium)](./medium/61.md)
 - [138. Copy List with Random Pointer(medium)](./medium/138.md)
+- [704. Binary Search(easy)](./easy/704.md)
 - [1029. Two City Scheduling(medium)](./medium/1029.md)

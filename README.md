@@ -11,6 +11,7 @@
 - [20. Valid Parentheses(easy)](./book_sources/easy/20.md)
 - [61. Rotate List(medium)](./book_sources/medium/61.md)
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
+- [704. Binary Search(easy)](./book_sources/easy/704.md)
 - [1029. Two City Scheduling(medium)](./book_sources/medium/1029.md)
 
 ## 使用说明
