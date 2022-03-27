@@ -11,3 +11,5 @@
 - [138. Copy List with Random Pointer(medium)](./medium/138.md)
 - [704. Binary Search(easy)](./easy/704.md)
 - [1029. Two City Scheduling(medium)](./medium/1029.md)
+- [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)
+
