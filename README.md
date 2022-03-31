@@ -14,6 +14,7 @@
 - [81. Search in Rotated Sorted Array II(medium)](./book_sources/medium/81.md)
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 - [287. Find the Duplicate Number(medium)](./book_sources/medium/287.md)
+- [410. Split Array Largest Sum(hard)](./book_sources/hard/410.md)
 - [704. Binary Search(easy)](./book_sources/easy/704.md)
 - [1029. Two City Scheduling(medium)](./book_sources/medium/1029.md)
 - [1337. The K Weakest Rows in a Matrix(easy)](./book_sources/easy/1337.md)

@@ -15,3 +15,4 @@
   - [287. Find the Duplicate Number(medium)](./medium/287.md)
   - [1029. Two City Scheduling(medium)](./medium/1029.md)
 - [Hard](hard/README.md)
+  - [410. Split Array Largest Sum(hard)](./hard/410.md)
