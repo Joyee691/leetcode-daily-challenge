@@ -9,6 +9,7 @@
 - [1. Two Sum(easy)](./book_sources/easy/1.md)
 - [2. Add Two Numbers(medium)](./book_sources/medium/2.md)
 - [20. Valid Parentheses(easy)](./book_sources/easy/20.md)
+- [31. Next Permutation(medium)](./book_sources/medium/31.md)
 - [61. Rotate List(medium)](./book_sources/medium/61.md)
 - [74. Search a 2D Matrix(medium)](./book_sources/medium/74.md)
 - [81. Search in Rotated Sorted Array II(medium)](./book_sources/medium/81.md)

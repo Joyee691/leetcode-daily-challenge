@@ -7,6 +7,7 @@
 - [1. Two Sum(easy)](./easy/1.md)
 - [2. Add Two Numbers(medium)](./medium/2.md)
 - [20. Valid Parentheses(easy)](./easy/20.md)
+- [31. Next Permutation(medium)](./medium/31.md)
 - [61. Rotate List(medium)](./medium/61.md)
 - [74. Search a 2D Matrix(medium)](./medium/74.md)
 - [81. Search in Rotated Sorted Array II(medium)](./medium/81.md)
