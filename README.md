@@ -21,6 +21,7 @@
 - [704. Binary Search(easy)](./book_sources/easy/704.md)
 - [1029. Two City Scheduling(medium)](./book_sources/medium/1029.md)
 - [1337. The K Weakest Rows in a Matrix(easy)](./book_sources/easy/1337.md)
+- [1721. Swapping Nodes in a Linked List(medium)](./book_sources/medium/1721.md)
 
 ## 使用说明
 

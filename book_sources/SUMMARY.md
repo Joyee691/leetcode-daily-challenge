@@ -17,5 +17,6 @@
   - [138. Copy List with Random Pointer(medium)](./medium/138.md)
   - [287. Find the Duplicate Number(medium)](./medium/287.md)
   - [1029. Two City Scheduling(medium)](./medium/1029.md)
+  - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
 - [Hard](hard/README.md)
   - [410. Split Array Largest Sum(hard)](./hard/410.md)
