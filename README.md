@@ -17,6 +17,7 @@
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 - [287. Find the Duplicate Number(medium)](./book_sources/medium/287.md)
 - [344. Reverse String(easy)](./book_sources/easy/344.md)
+- [347. Top K Frequent Elements(medium)](./book_sources/medium/347.md)
 - [410. Split Array Largest Sum(hard)](./book_sources/hard/410.md)
 - [680. Valid Palindrome II(easy)](./book_sources/easy/680.md)
 - [703. Kth Largest Element in a Stream(easy)](./book_sources/easy/703.md)
