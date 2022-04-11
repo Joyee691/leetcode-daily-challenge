@@ -24,6 +24,7 @@
 - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
 - [1029. Two City Scheduling(medium)](./medium/1029.md)
 - [1046. Last Stone Weight(easy)](./easy/1046.md)
+- [1260. Shift 2D Grid(easy)](./easy/1260.md)
 - [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
 
