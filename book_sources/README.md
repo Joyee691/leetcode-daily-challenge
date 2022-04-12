@@ -14,6 +14,7 @@
 - [81. Search in Rotated Sorted Array II(medium)](./medium/81.md)
 - [138. Copy List with Random Pointer(medium)](./medium/138.md)
 - [287. Find the Duplicate Number(medium)](./medium/287.md)
+- [289. Game of Life(medium)](./medium/289.md)
 - [344. Reverse String(easy)](./easy/344.md)
 - [347. Top K Frequent Elements(medium)](./medium/347.md)
 - [410. Split Array Largest Sum(hard)](./hard/410.md)
