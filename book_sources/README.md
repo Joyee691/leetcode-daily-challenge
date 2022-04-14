@@ -21,6 +21,7 @@
 - [410. Split Array Largest Sum(hard)](./hard/410.md)
 - [680. Valid Palindrome II(easy)](./easy/680.md)
 - [682. Baseball Game(easy)](./easy/682.md)
+- [700. Search in a Binary Search Tree(easy)](./easy/700.md)
 - [703. Kth Largest Element in a Stream(easy)](./easy/703.md)
 - [704. Binary Search(easy)](./easy/704.md)
 - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
