@@ -25,6 +25,7 @@
   - [287. Find the Duplicate Number(medium)](./medium/287.md)
   - [289. Game of Life(medium)](./medium/289.md)
   - [347. Top K Frequent Elements(medium)](./medium/347.md)
+  - [538. Convert BST to Greater Tree(medium)](./medium/538.md)
   - [669. Trim a Binary Search Tree(medium)](./medium/669.md)
   - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
   - [1029. Two City Scheduling(medium)](./medium/1029.md)
