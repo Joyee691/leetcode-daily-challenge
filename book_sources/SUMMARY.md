@@ -10,6 +10,7 @@
   - [700. Search in a Binary Search Tree(easy)](./easy/700.md)
   - [703. Kth Largest Element in a Stream(easy)](./easy/703.md)
   - [704. Binary Search(easy)](./easy/704.md)
+  - [897. Increasing Order Search Tree(easy)](./easy/897.md)
   - [1046. Last Stone Weight(easy)](./easy/1046.md)
   - [1260. Shift 2D Grid(easy)](./easy/1260.md)
   - [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)

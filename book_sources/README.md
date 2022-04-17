@@ -26,6 +26,7 @@
 - [700. Search in a Binary Search Tree(easy)](./easy/700.md)
 - [703. Kth Largest Element in a Stream(easy)](./easy/703.md)
 - [704. Binary Search(easy)](./easy/704.md)
+- [897. Increasing Order Search Tree(easy)](./easy/897.md)
 - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
 - [1029. Two City Scheduling(medium)](./medium/1029.md)
 - [1046. Last Stone Weight(easy)](./easy/1046.md)
