@@ -23,6 +23,7 @@
   - [74. Search a 2D Matrix(medium)](./medium/74.md)
   - [81. Search in Rotated Sorted Array II(medium)](./medium/81.md)
   - [138. Copy List with Random Pointer(medium)](./medium/138.md)
+  - [230. Kth Smallest Element in a BST(medium)](./medium/230.md)
   - [287. Find the Duplicate Number(medium)](./medium/287.md)
   - [289. Game of Life(medium)](./medium/289.md)
   - [347. Top K Frequent Elements(medium)](./medium/347.md)
