@@ -15,6 +15,7 @@
 - [61. Rotate List(medium)](./book_sources/medium/61.md)
 - [74. Search a 2D Matrix(medium)](./book_sources/medium/74.md)
 - [81. Search in Rotated Sorted Array II(medium)](./book_sources/medium/81.md)
+- [99. Recover Binary Search Tree(medium)](./book_sources/medium/99.md)
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 - [230. Kth Smallest Element in a BST(medium)](./book_sources/medium/230.md)
 - [287. Find the Duplicate Number(medium)](./book_sources/medium/287.md)
