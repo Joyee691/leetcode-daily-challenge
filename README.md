@@ -31,6 +31,7 @@
 - [700. Search in a Binary Search Tree(easy)](./book_sources/easy/700.md)
 - [703. Kth Largest Element in a Stream(easy)](./book_sources/easy/703.md)
 - [704. Binary Search(easy)](./book_sources/easy/704.md)
+- [705. Design HashSet(easy)](./book_sources/easy/705.md)
 - [897. Increasing Order Search Tree(easy)](./book_sources/easy/897.md)
 - [923. 3Sum With Multiplicity(medium)](./book_sources/medium/923.md)
 - [1029. Two City Scheduling(medium)](./book_sources/medium/1029.md)
