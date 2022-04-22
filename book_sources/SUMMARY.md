@@ -11,6 +11,7 @@
   - [703. Kth Largest Element in a Stream(easy)](./easy/703.md)
   - [704. Binary Search(easy)](./easy/704.md)
   - [705. Design HashSet(easy)](./easy/705.md)
+  - [706. Design HashMap(easy)](./easy/706.md)
   - [897. Increasing Order Search Tree(easy)](./easy/897.md)
   - [1046. Last Stone Weight(easy)](./easy/1046.md)
   - [1260. Shift 2D Grid(easy)](./easy/1260.md)
