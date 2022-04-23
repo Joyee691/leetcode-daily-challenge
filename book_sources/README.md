@@ -22,6 +22,7 @@
 - [344. Reverse String(easy)](./easy/344.md)
 - [347. Top K Frequent Elements(medium)](./medium/347.md)
 - [410. Split Array Largest Sum(hard)](./hard/410.md)
+- [535. Encode and Decode TinyURL(medium)](./medium/535.md)
 - [538. Convert BST to Greater Tree(medium)](./medium/538.md)
 - [669. Trim a Binary Search Tree(medium)](./medium/669.md)
 - [680. Valid Palindrome II(easy)](./easy/680.md)
