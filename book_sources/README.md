@@ -38,5 +38,6 @@
 - [1046. Last Stone Weight(easy)](./easy/1046.md)
 - [1260. Shift 2D Grid(easy)](./easy/1260.md)
 - [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)
+- [1396. Design Underground System(medium)](./medium/1396.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
 
