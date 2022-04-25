@@ -19,6 +19,7 @@
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 - [173. Binary Search Tree Iterator(medium)](./book_sources/medium/173.md)
 - [230. Kth Smallest Element in a BST(medium)](./book_sources/medium/230.md)
+- [284. Peeking Iterator(medium)](./book_sources/medium/284.md)
 - [287. Find the Duplicate Number(medium)](./book_sources/medium/287.md)
 - [289. Game of Life(medium)](./book_sourcesmedium/289.md)
 - [344. Reverse String(easy)](./book_sources/easy/344.md)
