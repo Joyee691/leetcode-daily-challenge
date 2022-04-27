@@ -37,6 +37,7 @@
   - [669. Trim a Binary Search Tree(medium)](./medium/669.md)
   - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
   - [1029. Two City Scheduling(medium)](./medium/1029.md)
+  - [1202. Smallest String With Swaps(medium)](./medium/1202.md)
   - [1396. Design Underground System(medium)](./medium/1396.md)
   - [1584. Min Cost to Connect All Points(medium)](./medium/1584.md)
   - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
