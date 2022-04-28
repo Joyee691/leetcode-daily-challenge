@@ -40,6 +40,7 @@
   - [1202. Smallest String With Swaps(medium)](./medium/1202.md)
   - [1396. Design Underground System(medium)](./medium/1396.md)
   - [1584. Min Cost to Connect All Points(medium)](./medium/1584.md)
+  - [1631. Path With Minimum Effort(medium)](./medium/1631.md)
   - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
 - [Hard](hard/README.md)
   - [410. Split Array Largest Sum(hard)](./hard/410.md)

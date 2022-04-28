@@ -42,5 +42,6 @@
 - [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)
 - [1396. Design Underground System(medium)](./medium/1396.md)
 - [1584. Min Cost to Connect All Points(medium)](./medium/1584.md)
+- [1631. Path With Minimum Effort(medium)](./medium/1631.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
 
