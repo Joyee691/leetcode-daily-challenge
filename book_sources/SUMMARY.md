@@ -26,6 +26,7 @@
   - [81. Search in Rotated Sorted Array II(medium)](./medium/81.md)
   - [99. Recover Binary Search Tree(medium)](./medium/99.md)
   - [138. Copy List with Random Pointer(medium)](./medium/138.md)
+  - [152. Maximum Product Subarray(medium)](./medium/152.md)
   - [173. Binary Search Tree Iterator(medium)](./medium/173.md)
   - [230. Kth Smallest Element in a BST(medium)](./medium/230.md)
   - [284. Peeking Iterator(medium)](./medium/284.md)
