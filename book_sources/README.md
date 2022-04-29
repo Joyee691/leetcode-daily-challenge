@@ -35,6 +35,7 @@
 - [705. Design HashSet(easy)](./easy/705.md)
 - [706. Design HashMap(easy)](./easy/706.md)
 - [897. Increasing Order Search Tree(easy)](./easy/897.md)
+- [785. Is Graph Bipartite?(medium)](./medium/785.md)
 - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
 - [1029. Two City Scheduling(medium)](./medium/1029.md)
 - [1046. Last Stone Weight(easy)](./easy/1046.md)
