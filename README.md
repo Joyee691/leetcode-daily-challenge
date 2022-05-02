@@ -40,6 +40,7 @@
 - [785. Is Graph Bipartite?(medium)](./book_sources/medium/785.md)
 - [844. Backspace String Compare(easy)](./book_sources/easy/844.md)
 - [897. Increasing Order Search Tree(easy)](./book_sources/easy/897.md)
+- [905. Sort Array By Parity(easy)](./book_sources/easy/905.md)
 - [923. 3Sum With Multiplicity(medium)](./book_sources/medium/923.md)
 - [1029. Two City Scheduling(medium)](./book_sources/medium/1029.md)
 - [1046. Last Stone Weight(easy)](./book_sources/easy/1046.md)

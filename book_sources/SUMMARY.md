@@ -14,6 +14,7 @@
   - [706. Design HashMap(easy)](./easy/706.md)
   - [844. Backspace String Compare(easy)](./easy/844.md)
   - [897. Increasing Order Search Tree(easy)](./easy/897.md)
+  - [905. Sort Array By Parity(easy)](./easy/905.md)
   - [1046. Last Stone Weight(easy)](./easy/1046.md)
   - [1260. Shift 2D Grid(easy)](./easy/1260.md)
   - [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)

@@ -37,6 +37,7 @@
 - [706. Design HashMap(easy)](./easy/706.md)
 - [844. Backspace String Compare(easy)](./easy/844.md)
 - [897. Increasing Order Search Tree(easy)](./easy/897.md)
+- [905. Sort Array By Parity(easy)](./easy/905.md)
 - [785. Is Graph Bipartite?(medium)](./medium/785.md)
 - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
 - [1029. Two City Scheduling(medium)](./medium/1029.md)
