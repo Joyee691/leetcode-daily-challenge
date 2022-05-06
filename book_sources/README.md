@@ -45,6 +45,7 @@
 - [1029. Two City Scheduling(medium)](./medium/1029.md)
 - [1046. Last Stone Weight(easy)](./easy/1046.md)
 - [1202. Smallest String With Swaps(medium)](./medium/1202.md)
+- [1209. Remove All Adjacent Duplicates in String II(medium)](./medium/1209.md)
 - [1260. Shift 2D Grid(easy)](./easy/1260.md)
 - [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)
 - [1396. Design Underground System(medium)](./medium/1396.md)
