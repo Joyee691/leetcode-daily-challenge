@@ -37,6 +37,7 @@
   - [289. Game of Life(medium)](./medium/289.md)
   - [347. Top K Frequent Elements(medium)](./medium/347.md)
   - [399. Evaluate Division(medium)](./medium/399.md)
+  - [456. 132 Pattern(medium)](./medium/456.md)
   - [535. Encode and Decode TinyURL(medium)](./medium/535.md)
   - [538. Convert BST to Greater Tree(medium)](./medium/538.md)
   - [581. Shortest Unsorted Continuous Subarray(medium)](./medium/581.md)
