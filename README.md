@@ -57,6 +57,7 @@
 - [1396. Design Underground System(medium)](./book_sources/medium/1396.md)
 - [1584. Min Cost to Connect All Points(medium)](./book_sources/medium/1584.md)
 - [1631. Path With Minimum Effort(medium)](./book_sources/medium/1631.md)
+- [1641. Count Sorted Vowel Strings(medium)](./book_sources/medium/1641.md)
 - [1679. Max Number of K-Sum Pairs(medium)](./book_sources/medium/1679.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./book_sources/medium/1721.md)
 
