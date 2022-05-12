@@ -25,6 +25,7 @@
   - [17. Letter Combinations of a Phone Number(medium)](./medium/17.md)
   - [31. Next Permutation(medium)](./medium/31.md)
   - [46. Permutations(medium)](./medium/46.md)
+  - [47. Permutations II(medium)](./medium/47.md)
   - [59. Spiral Matrix II(medium)](./medium/59.md)
   - [61. Rotate List(medium)](./medium/61.md)
   - [74. Search a 2D Matrix(medium)](./medium/74.md)
