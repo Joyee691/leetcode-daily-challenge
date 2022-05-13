@@ -19,6 +19,7 @@
 - [74. Search a 2D Matrix(medium)](./book_sources/medium/74.md)
 - [81. Search in Rotated Sorted Array II(medium)](./book_sources/medium/81.md)
 - [99. Recover Binary Search Tree(medium)](./book_sources/medium/99.md)
+- [117. Populating Next Right Pointers in Each Node II(medium)](./book_sources/medium/117.md)
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 - [152. Maximum Product Subarray(medium)](./book_sources/medium/152.md)
 - [173. Binary Search Tree Iterator(medium)](./book_sources/medium/173.md)
