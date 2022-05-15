@@ -54,6 +54,7 @@
 - [1202. Smallest String With Swaps(medium)](./medium/1202.md)
 - [1209. Remove All Adjacent Duplicates in String II(medium)](./medium/1209.md)
 - [1260. Shift 2D Grid(easy)](./easy/1260.md)
+- [1302. Deepest Leaves Sum(medium)](./medium/1302.md)
 - [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)
 - [1396. Design Underground System(medium)](./medium/1396.md)
 - [1584. Min Cost to Connect All Points(medium)](./medium/1584.md)
