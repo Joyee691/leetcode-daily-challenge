@@ -53,6 +53,7 @@
 - [923. 3Sum With Multiplicity(medium)](./book_sources/medium/923.md)
 - [1029. Two City Scheduling(medium)](./book_sources/medium/1029.md)
 - [1046. Last Stone Weight(easy)](./book_sources/easy/1046.md)
+- [1091. Shortest Path in Binary Matrix(medium)](./book_sources/medium/1091.md)
 - [1202. Smallest String With Swaps(medium)](./book_sources/medium/1202.md)
 - [1209. Remove All Adjacent Duplicates in String II(medium)](./book_sources/medium/1209.md)
 - [1260. Shift 2D Grid(easy)](./book_sources/easy/1260.md)
