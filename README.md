@@ -59,6 +59,7 @@
 - [1260. Shift 2D Grid(easy)](./book_sources/easy/1260.md)
 - [1302. Deepest Leaves Sum(medium)](./book_sources/medium/1302.md)
 - [1337. The K Weakest Rows in a Matrix(easy)](./book_sources/easy/1337.md)
+- [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree(medium)](./book_sources/medium/1379.md)
 - [1396. Design Underground System(medium)](./book_sources/medium/1396.md)
 - [1584. Min Cost to Connect All Points(medium)](./book_sources/medium/1584.md)
 - [1631. Path With Minimum Effort(medium)](./book_sources/medium/1631.md)
