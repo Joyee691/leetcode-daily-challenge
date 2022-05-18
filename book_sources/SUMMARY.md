@@ -64,3 +64,4 @@
   - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
 - [Hard](hard/README.md)
   - [410. Split Array Largest Sum(hard)](./hard/410.md)
+  - [1192. Critical Connections in a Network(medium)](./hard/1192.md)
