@@ -63,5 +63,6 @@
   - [1679. Max Number of K-Sum Pairs(medium)](./medium/1679.md)
   - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
 - [Hard](hard/README.md)
+  - [329. Longest Increasing Path in a Matrix(hard)](./hard/329.md)
   - [410. Split Array Largest Sum(hard)](./hard/410.md)
-  - [1192. Critical Connections in a Network(medium)](./hard/1192.md)
+  - [1192. Critical Connections in a Network(hard)](./hard/1192.md)
