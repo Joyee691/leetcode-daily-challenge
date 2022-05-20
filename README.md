@@ -16,6 +16,7 @@
 - [47. Permutations II(medium)](./book_sources/medium/47.md)
 - [59. Spiral Matrix II(medium)](./book_sources/medium/59.md)
 - [61. Rotate List(medium)](./book_sources/medium/61.md)
+- [63. Unique Paths II(medium)](./book_sources/medium/63.md)
 - [74. Search a 2D Matrix(medium)](./book_sources/medium/74.md)
 - [81. Search in Rotated Sorted Array II(medium)](./book_sources/medium/81.md)
 - [99. Recover Binary Search Tree(medium)](./book_sources/medium/99.md)
