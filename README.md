@@ -38,6 +38,7 @@
 - [399. Evaluate Division(medium)](./book_sources/medium/399.md)
 - [410. Split Array Largest Sum(hard)](./book_sources/hard/410.md)
 - [456. 132 Pattern(medium)](./book_sources/medium/456.md)
+- [474. Ones and Zeroes(medium)](./book_sources/medium/474.md)
 - [535. Encode and Decode TinyURL(medium)](./book_sources/medium/535.md)
 - [538. Convert BST to Greater Tree(medium)](./book_sources/medium/538.md)
 - [581. Shortest Unsorted Continuous Subarray(medium)](./book_sources/medium/581.md)
