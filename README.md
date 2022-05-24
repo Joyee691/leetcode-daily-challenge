@@ -12,6 +12,7 @@
 - [17. Letter Combinations of a Phone Number(medium)](./book_sources/medium/17.md)
 - [20. Valid Parentheses(easy)](./book_sources/easy/20.md)
 - [31. Next Permutation(medium)](./book_sources/medium/31.md)
+- [32. Longest Valid Parentheses(hard)](./book_sources/hard/32.md)
 - [46. Permutations(medium)](./book_sources/medium/46.md)
 - [47. Permutations II(medium)](./book_sources/medium/47.md)
 - [59. Spiral Matrix II(medium)](./book_sources/medium/59.md)
