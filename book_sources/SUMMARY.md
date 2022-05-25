@@ -69,5 +69,6 @@
 - [Hard](hard/README.md)
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)
   - [329. Longest Increasing Path in a Matrix(hard)](./hard/329.md)
+  - [354. Russian Doll Envelopes(hard)](./hard/354.md)
   - [410. Split Array Largest Sum(hard)](./hard/410.md)
   - [1192. Critical Connections in a Network(hard)](./hard/1192.md)

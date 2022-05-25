@@ -36,6 +36,7 @@
 - [341. Flatten Nested List Iterator(medium)](./book_sources/medium/341.md)
 - [344. Reverse String(easy)](./book_sources/easy/344.md)
 - [347. Top K Frequent Elements(medium)](./book_sources/medium/347.md)
+- [354. Russian Doll Envelopes(hard)](./book_sources/hard/354.md)
 - [399. Evaluate Division(medium)](./book_sources/medium/399.md)
 - [410. Split Array Largest Sum(hard)](./book_sources/hard/410.md)
 - [456. 132 Pattern(medium)](./book_sources/medium/456.md)
