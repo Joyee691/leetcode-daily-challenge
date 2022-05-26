@@ -4,6 +4,7 @@
 - [Easy](easy/README.md)
   - [1. Two Sum(easy)](./easy/1.md)
   - [20. Valid Parentheses(easy)](./easy/20.md)
+  - [191. Number of 1 Bits(easy)](./easy/191.md)
   - [225. Implement Stack using Queues(easy)](./easy/225.md)
   - [344. Reverse String(easy)](./easy/344.md)
   - [680. Valid Palindrome II(easy)](./easy/680.md)

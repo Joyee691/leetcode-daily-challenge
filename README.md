@@ -25,6 +25,7 @@
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 - [152. Maximum Product Subarray(medium)](./book_sources/medium/152.md)
 - [173. Binary Search Tree Iterator(medium)](./book_sources/medium/173.md)
+- [191. Number of 1 Bits(easy)](./book_sources/easy/191.md)
 - [216. Combination Sum III(medium)](./book_sources/medium/216.md)
 - [225. Implement Stack using Queues(easy)](./book_sources/easy/225.md)
 - [230. Kth Smallest Element in a BST(medium)](./book_sources/medium/230.md)
