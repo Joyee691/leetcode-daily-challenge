@@ -20,6 +20,7 @@
   - [1046. Last Stone Weight(easy)](./easy/1046.md)
   - [1260. Shift 2D Grid(easy)](./easy/1260.md)
   - [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)
+  - [1342. Number of Steps to Reduce a Number to Zero(easy)](./easy/1342.md)
 - [Meduim](medium/README.md)
   - [2. Add Two Numbers](./medium/2.md)
   - [11. Container With Most Water(medium)](./medium/11.md)
