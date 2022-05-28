@@ -29,6 +29,7 @@
 - [216. Combination Sum III(medium)](./book_sources/medium/216.md)
 - [225. Implement Stack using Queues(easy)](./book_sources/easy/225.md)
 - [230. Kth Smallest Element in a BST(medium)](./book_sources/medium/230.md)
+- [268. Missing Number(easy)](./book_sources/easy/268.md)
 - [284. Peeking Iterator(medium)](./book_sources/medium/284.md)
 - [287. Find the Duplicate Number(medium)](./book_sources/medium/287.md)
 - [289. Game of Life(medium)](./book_sources/medium/289.md)

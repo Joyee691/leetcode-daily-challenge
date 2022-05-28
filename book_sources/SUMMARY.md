@@ -6,6 +6,7 @@
   - [20. Valid Parentheses(easy)](./easy/20.md)
   - [191. Number of 1 Bits(easy)](./easy/191.md)
   - [225. Implement Stack using Queues(easy)](./easy/225.md)
+  - [268. Missing Number(easy)](./easy/268.md)
   - [344. Reverse String(easy)](./easy/344.md)
   - [680. Valid Palindrome II(easy)](./easy/680.md)
   - [682. Baseball Game(easy)](./easy/682.md)
