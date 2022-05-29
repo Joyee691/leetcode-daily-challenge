@@ -33,6 +33,7 @@
 - [284. Peeking Iterator(medium)](./book_sources/medium/284.md)
 - [287. Find the Duplicate Number(medium)](./book_sources/medium/287.md)
 - [289. Game of Life(medium)](./book_sources/medium/289.md)
+- [318. Maximum Product of Word Lengths(medium)](./book_sources/medium/318.md)
 - [322. Coin Change(medium)](./book_sources/medium/322.md)
 - [329. Longest Increasing Path in a Matrix(hard)](./book_sources/hard/329.md)
 - [341. Flatten Nested List Iterator(medium)](./book_sources/medium/341.md)
