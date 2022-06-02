@@ -16,6 +16,7 @@
   - [705. Design HashSet(easy)](./easy/705.md)
   - [706. Design HashMap(easy)](./easy/706.md)
   - [844. Backspace String Compare(easy)](./easy/844.md)
+  - [867. Transpose Matrix(easy)](./easy/867.md)
   - [897. Increasing Order Search Tree(easy)](./easy/897.md)
   - [905. Sort Array By Parity(easy)](./easy/905.md)
   - [1046. Last Stone Weight(easy)](./easy/1046.md)

@@ -59,6 +59,7 @@
 - [706. Design HashMap(easy)](./book_sources/easy/706.md)
 - [785. Is Graph Bipartite?(medium)](./book_sources/medium/785.md)
 - [844. Backspace String Compare(easy)](./book_sources/easy/844.md)
+- [867. Transpose Matrix(easy)](./book_sources/easy/867.md)
 - [897. Increasing Order Search Tree(easy)](./book_sources/easy/897.md)
 - [905. Sort Array By Parity(easy)](./book_sources/easy/905.md)
 - [923. 3Sum With Multiplicity(medium)](./book_sources/medium/923.md)
