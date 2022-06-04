@@ -76,6 +76,7 @@
   - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
 - [Hard](hard/README.md)
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)
+  - [51. N-Queens(hard)](./hard/51.md)
   - [329. Longest Increasing Path in a Matrix(hard)](./hard/329.md)
   - [354. Russian Doll Envelopes(hard)](./hard/354.md)
   - [410. Split Array Largest Sum(hard)](./hard/410.md)
