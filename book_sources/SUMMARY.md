@@ -4,6 +4,7 @@
 - [Easy](easy/README.md)
   - [1. Two Sum(easy)](./easy/1.md)
   - [20. Valid Parentheses(easy)](./easy/20.md)
+  - [88. Merge Sorted Array(easy)](./easy/88.md)
   - [160. Intersection of Two Linked Lists(easy)](./easy/160.md)
   - [191. Number of 1 Bits(easy)](./easy/191.md)
   - [225. Implement Stack using Queues(easy)](./easy/225.md)
