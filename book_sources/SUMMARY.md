@@ -43,6 +43,7 @@
   - [117. Populating Next Right Pointers in Each Node II(medium)](./medium/117.md)
   - [138. Copy List with Random Pointer(medium)](./medium/138.md)
   - [152. Maximum Product Subarray(medium)](./medium/152.md)
+  - [167. Two Sum II - Input Array Is Sorted(medium)](./medium/167.md)
   - [173. Binary Search Tree Iterator(medium)](./medium/173.md)
   - [216. Combination Sum III(medium)](./medium/216.md)
   - [230. Kth Smallest Element in a BST(medium)](./medium/230.md)
