@@ -8,6 +8,7 @@
 
 - [1. Two Sum(easy)](./book_sources/easy/1.md)
 - [2. Add Two Numbers(medium)](./book_sources/medium/2.md)
+- [3. Longest Substring Without Repeating Characters(medium)](./book_sources/medium/3.md)
 - [11. Container With Most Water(medium)](./book_sources/medium/11.md)
 - [17. Letter Combinations of a Phone Number(medium)](./book_sources/medium/17.md)
 - [20. Valid Parentheses(easy)](./book_sources/easy/20.md)

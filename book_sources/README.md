@@ -6,6 +6,7 @@
 
 - [1. Two Sum(easy)](./easy/1.md)
 - [2. Add Two Numbers(medium)](./medium/2.md)
+- [3. Longest Substring Without Repeating Characters(medium)](./medium/3.md)
 - [11. Container With Most Water(medium)](./medium/11.md)
 - [17. Letter Combinations of a Phone Number(medium)](./medium/17.md)
 - [20. Valid Parentheses(easy)](./easy/20.md)
