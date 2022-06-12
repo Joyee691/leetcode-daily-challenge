@@ -87,5 +87,6 @@
 - [1641. Count Sorted Vowel Strings(medium)](./medium/1641.md)
 - [1658. Minimum Operations to Reduce X to Zero(medium)](./medium/1658.md)
 - [1679. Max Number of K-Sum Pairs(medium)](./medium/1679.md)
+- [1695. Maximum Erasure Value(medium)](./medium/1695.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
 
