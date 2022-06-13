@@ -27,6 +27,7 @@
 - [88. Merge Sorted Array(easy)](./book_sources/easy/88.md)
 - [99. Recover Binary Search Tree(medium)](./book_sources/medium/99.md)
 - [117. Populating Next Right Pointers in Each Node II(medium)](./book_sources/medium/117.md)
+- [120. Triangle(medium)](./book_sources/medium/120.md)
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 - [152. Maximum Product Subarray(medium)](./book_sources/medium/152.md)
 - [160. Intersection of Two Linked Lists(easy)](./book_sources/easy/160.md)
