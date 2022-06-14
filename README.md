@@ -56,6 +56,7 @@
 - [535. Encode and Decode TinyURL(medium)](./book_sources/medium/535.md)
 - [538. Convert BST to Greater Tree(medium)](./book_sources/medium/538.md)
 - [581. Shortest Unsorted Continuous Subarray(medium)](./book_sources/medium/581.md)
+- [583. Delete Operation for Two Strings(medium)](./book_sources/medium/583.md)
 - [647. Palindromic Substrings(medium)](./book_sources/medium/647.md)
 - [669. Trim a Binary Search Tree(medium)](./book_sources/medium/669.md)
 - [680. Valid Palindrome II(easy)](./book_sources/easy/680.md)

@@ -63,6 +63,7 @@
   - [535. Encode and Decode TinyURL(medium)](./medium/535.md)
   - [538. Convert BST to Greater Tree(medium)](./medium/538.md)
   - [581. Shortest Unsorted Continuous Subarray(medium)](./medium/581.md)
+  - [583. Delete Operation for Two Strings(medium)](./medium/583.md)
   - [647. Palindromic Substrings(medium)](./medium/647.md)
   - [669. Trim a Binary Search Tree(medium)](./medium/669.md)
   - [785. Is Graph Bipartite?(medium)](./medium/785.md)
