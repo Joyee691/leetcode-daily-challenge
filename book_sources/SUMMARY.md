@@ -69,6 +69,7 @@
   - [785. Is Graph Bipartite?(medium)](./medium/785.md)
   - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
   - [1029. Two City Scheduling(medium)](./medium/1029.md)
+  - [1048. Longest String Chain(medium)](./medium/1048.md)
   - [1091. Shortest Path in Binary Matrix(medium)](./medium/1091.md)
   - [1202. Smallest String With Swaps(medium)](./medium/1202.md)
   - [1209. Remove All Adjacent Duplicates in String II(medium)](./medium/1209.md)
