@@ -29,6 +29,7 @@
 - [Meduim](medium/README.md)
   - [2. Add Two Numbers](./medium/2.md)
   - [3. Longest Substring Without Repeating Characters(medium)](./medium/3.md)
+  - [5. Longest Palindromic Substring(medium)](./medium/5.md)
   - [11. Container With Most Water(medium)](./medium/11.md)
   - [17. Letter Combinations of a Phone Number(medium)](./medium/17.md)
   - [29. Divide Two Integers(medium)](./medium/29.md)
