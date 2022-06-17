@@ -73,6 +73,7 @@
 - [897. Increasing Order Search Tree(easy)](./book_sources/easy/897.md)
 - [905. Sort Array By Parity(easy)](./book_sources/easy/905.md)
 - [923. 3Sum With Multiplicity(medium)](./book_sources/medium/923.md)
+- [968. Binary Tree Cameras(hard)](./book_sources/hard/968.md)
 - [1029. Two City Scheduling(medium)](./book_sources/medium/1029.md)
 - [1046. Last Stone Weight(easy)](./book_sources/easy/1046.md)
 - [1048. Longest String Chain(medium)](./book_sources/medium/1048.md)
