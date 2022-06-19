@@ -74,6 +74,7 @@
   - [1091. Shortest Path in Binary Matrix(medium)](./medium/1091.md)
   - [1202. Smallest String With Swaps(medium)](./medium/1202.md)
   - [1209. Remove All Adjacent Duplicates in String II(medium)](./medium/1209.md)
+  - [1268. Search Suggestions System(medium)](./medium/1268.md)
   - [1302. Deepest Leaves Sum(medium)](./medium/1302.md)
   - [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree(medium)](./medium/1379.md)
   - [1396. Design Underground System(medium)](./medium/1396.md)
