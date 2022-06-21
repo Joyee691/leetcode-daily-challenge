@@ -94,6 +94,7 @@
 - [1584. Min Cost to Connect All Points(medium)](./book_sources/medium/1584.md)
 - [1631. Path With Minimum Effort(medium)](./book_sources/medium/1631.md)
 - [1641. Count Sorted Vowel Strings(medium)](./book_sources/medium/1641.md)
+- [1642. Furthest Building You Can Reach(medium)](./book_sources/medium/1642.md)
 - [1658. Minimum Operations to Reduce X to Zero(medium)](./book_sources/medium/1658.md)
 - [1679. Max Number of K-Sum Pairs(medium)](./book_sources/medium/1679.md)
 - [1695. Maximum Erasure Value(medium)](./book_sources/medium/1695.md)
