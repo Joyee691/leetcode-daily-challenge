@@ -100,6 +100,7 @@
 - [1642. Furthest Building You Can Reach(medium)](./book_sources/medium/1642.md)
 - [1658. Minimum Operations to Reduce X to Zero(medium)](./book_sources/medium/1658.md)
 - [1679. Max Number of K-Sum Pairs(medium)](./book_sources/medium/1679.md)
+- [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers(medium)](./book_sources/medium/1689.md)
 - [1695. Maximum Erasure Value(medium)](./book_sources/medium/1695.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./book_sources/medium/1721.md)
 
