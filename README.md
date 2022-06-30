@@ -55,6 +55,7 @@
 - [406. Queue Reconstruction by Height(medium)](./book_sources/medium/406.md)
 - [410. Split Array Largest Sum(hard)](./book_sources/hard/410.md)
 - [456. 132 Pattern(medium)](./book_sources/medium/456.md)
+- [462. Minimum Moves to Equal Array Elements II(medium)](./book_sources/medium/462.md)
 - [474. Ones and Zeroes(medium)](./book_sources/medium/474.md)
 - [535. Encode and Decode TinyURL(medium)](./book_sources/medium/535.md)
 - [538. Convert BST to Greater Tree(medium)](./book_sources/medium/538.md)
