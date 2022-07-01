@@ -26,6 +26,7 @@
   - [1332. Remove Palindromic Subsequences(easy)](./easy/1332.md)
   - [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)
   - [1342. Number of Steps to Reduce a Number to Zero(easy)](./easy/1342.md)
+  - [1710. Maximum Units on a Truck(medium)](./easy/1710.md)
 - [Meduim](medium/README.md)
   - [2. Add Two Numbers](./medium/2.md)
   - [3. Longest Substring Without Repeating Characters(medium)](./medium/3.md)
