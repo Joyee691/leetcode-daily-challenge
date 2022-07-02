@@ -93,6 +93,7 @@
 - [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree(medium)](./medium/1379.md)
 - [1396. Design Underground System(medium)](./medium/1396.md)
 - [1461. Check If a String Contains All Binary Codes of Size K(medium)](./medium/1461.md)
+- [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts(medium)](./medium/1465.md)
 - [1423. Maximum Points You Can Obtain from Cards(medium)](./medium/1423.md)
 - [1584. Min Cost to Connect All Points(medium)](./medium/1584.md)
 - [1631. Path With Minimum Effort(medium)](./medium/1631.md)
