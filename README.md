@@ -51,6 +51,7 @@
 - [344. Reverse String(easy)](./book_sources/easy/344.md)
 - [347. Top K Frequent Elements(medium)](./book_sources/medium/347.md)
 - [354. Russian Doll Envelopes(hard)](./book_sources/hard/354.md)
+- [376. Wiggle Subsequence(medium)](./book_sources/medium/376.md)
 - [399. Evaluate Division(medium)](./book_sources/medium/399.md)
 - [406. Queue Reconstruction by Height(medium)](./book_sources/medium/406.md)
 - [410. Split Array Largest Sum(hard)](./book_sources/hard/410.md)
