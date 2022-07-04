@@ -101,6 +101,7 @@
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)
   - [51. N-Queens(hard)](./hard/51.md)
   - [52. N-Queens II(hard)](./hard/52.md)
+  - [135. Candy(hard)](./hard/135.md)
   - [329. Longest Increasing Path in a Matrix(hard)](./hard/329.md)
   - [354. Russian Doll Envelopes(hard)](./hard/354.md)
   - [410. Split Array Largest Sum(hard)](./hard/410.md)

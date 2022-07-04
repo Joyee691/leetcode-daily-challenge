@@ -27,6 +27,7 @@
 - [99. Recover Binary Search Tree(medium)](./medium/99.md)
 - [117. Populating Next Right Pointers in Each Node II(medium)](./medium/117.md)
 - [120. Triangle(medium)](./medium/120.md)
+- [135. Candy(hard)](./hard/135.md)
 - [138. Copy List with Random Pointer(medium)](./medium/138.md)
 - [152. Maximum Product Subarray(medium)](./medium/152.md)
 - [160. Intersection of Two Linked Lists(easy)](./easy/160.md)
