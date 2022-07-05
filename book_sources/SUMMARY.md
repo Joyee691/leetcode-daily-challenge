@@ -45,6 +45,7 @@
   - [99. Recover Binary Search Tree(medium)](./medium/99.md)
   - [117. Populating Next Right Pointers in Each Node II(medium)](./medium/117.md)
   - [120. Triangle(medium)](./medium/120.md)
+  - [128. Longest Consecutive Sequence(medium)](./medium/128.md)
   - [138. Copy List with Random Pointer(medium)](./medium/138.md)
   - [152. Maximum Product Subarray(medium)](./medium/152.md)
   - [167. Two Sum II - Input Array Is Sorted(medium)](./medium/167.md)
