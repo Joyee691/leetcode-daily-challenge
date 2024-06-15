@@ -3,6 +3,7 @@
 - [Introduction](README.md)
 - [Easy](easy/README.md)
   - [1. Two Sum(easy)](./easy/1.md)
+  - [9. Palindrome Number(easy)](./easy/9.md)
   - [20. Valid Parentheses(easy)](./easy/20.md)
   - [88. Merge Sorted Array(easy)](./easy/88.md)
   - [119. Pascal's Triangle II(easy)](./easy/119.md)
