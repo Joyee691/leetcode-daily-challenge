@@ -51,6 +51,7 @@
 - [318. Maximum Product of Word Lengths(medium)](./book_sources/medium/318.md)
 - [322. Coin Change(medium)](./book_sources/medium/322.md)
 - [329. Longest Increasing Path in a Matrix(hard)](./book_sources/hard/329.md)
+- [330. Patching Array(hard)](./book_sources/hard/330.md)
 - [341. Flatten Nested List Iterator(medium)](./book_sources/medium/341.md)
 - [344. Reverse String(easy)](./book_sources/easy/344.md)
 - [347. Top K Frequent Elements(medium)](./book_sources/medium/347.md)

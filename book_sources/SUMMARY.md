@@ -106,6 +106,7 @@
   - [52. N-Queens II(hard)](./hard/52.md)
   - [135. Candy(hard)](./hard/135.md)
   - [329. Longest Increasing Path in a Matrix(hard)](./hard/329.md)
+  - [330. Patching Array(hard)](./hard/330.md)
   - [354. Russian Doll Envelopes(hard)](./hard/354.md)
   - [410. Split Array Largest Sum(hard)](./hard/410.md)
   - [968. Binary Tree Cameras(hard)](./hard/968.md)
