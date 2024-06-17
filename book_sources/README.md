@@ -65,6 +65,7 @@
 - [538. Convert BST to Greater Tree(medium)](./medium/538.md)
 - [581. Shortest Unsorted Continuous Subarray(medium)](./medium/581.md)
 - [583. Delete Operation for Two Strings(medium)](./medium/583.md)
+- [633. Sum of Square Numbers(medium)](./medium/633.md)
 - [647. Palindromic Substrings(medium)](./medium/647.md)
 - [665. Non-decreasing Array(medium)](./medium/665.md)
 - [669. Trim a Binary Search Tree(medium)](./medium/669.md)
