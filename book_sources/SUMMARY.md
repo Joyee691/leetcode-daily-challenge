@@ -79,6 +79,7 @@
   - [669. Trim a Binary Search Tree(medium)](./medium/669.md)
   - [785. Is Graph Bipartite?(medium)](./medium/785.md)
   - [820. Short Encoding of Words(medium)](./medium/820.md)
+  - [826. Most Profit Assigning Work(medium)](./medium/826.md)
   - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
   - [1029. Two City Scheduling(medium)](./medium/1029.md)
   - [1048. Longest String Chain(medium)](./medium/1048.md)

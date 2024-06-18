@@ -78,6 +78,7 @@
 - [706. Design HashMap(easy)](./easy/706.md)
 - [785. Is Graph Bipartite?(medium)](./medium/785.md)
 - [820. Short Encoding of Words(medium)](./medium/820.md)
+- [826. Most Profit Assigning Work(medium)](./medium/826.md)
 - [844. Backspace String Compare(easy)](./easy/844.md)
 - [867. Transpose Matrix(easy)](./easy/867.md)
 - [897. Increasing Order Search Tree(easy)](./easy/897.md)
