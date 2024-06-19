@@ -93,6 +93,7 @@
   - [1423. Maximum Points You Can Obtain from Cards(medium)](./medium/1423.md)
   - [1461. Check If a String Contains All Binary Codes of Size K(medium)](./medium/1461.md)
   - [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts(medium)](./medium/1465.md)
+  - [1482. Minimum Number of Days to Make m Bouquets(medium)](./medium/1482.md)
   - [1584. Min Cost to Connect All Points(medium)](./medium/1584.md)
   - [1631. Path With Minimum Effort(medium)](./medium/1631.md)
   - [1641. Count Sorted Vowel Strings(medium)](./medium/1641.md)
