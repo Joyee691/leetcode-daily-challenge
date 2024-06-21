@@ -90,6 +90,7 @@
 - [1029. Two City Scheduling(medium)](./book_sources/medium/1029.md)
 - [1046. Last Stone Weight(easy)](./book_sources/easy/1046.md)
 - [1048. Longest String Chain(medium)](./book_sources/medium/1048.md)
+- [1052. Grumpy Bookstore Owner(medium)](./book_sources/medium/1052.md)
 - [1091. Shortest Path in Binary Matrix(medium)](./book_sources/medium/1091.md)
 - [1192. Critical Connections in a Network(hard)](./book_sources/hard/1192.md)
 - [1202. Smallest String With Swaps(medium)](./book_sources/medium/1202.md)
