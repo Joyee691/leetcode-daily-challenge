@@ -117,6 +117,7 @@
 - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers(medium)](./book_sources/medium/1689.md)
 - [1695. Maximum Erasure Value(medium)](./book_sources/medium/1695.md)
 - [1710. Maximum Units on a Truck(medium)](./book_sources/easy/1710.md)
+- [1717. Maximum Score From Removing Substrings(medium)](./book_sources/medium/1717.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./book_sources/medium/1721.md)
 
 ## 使用说明

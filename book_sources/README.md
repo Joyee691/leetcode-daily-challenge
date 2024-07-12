@@ -114,6 +114,7 @@
 - [1679. Max Number of K-Sum Pairs(medium)](./medium/1679.md)
 - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers(medium)](./medium/1689.md)
 - [1695. Maximum Erasure Value(medium)](./medium/1695.md)
-- [1710. Maximum Units on a Truck(medium)](./easy/1710.md)
+- [1710. Maximum Units on a Truck(easy)](./easy/1710.md)
+- [1717. Maximum Score From Removing Substrings(medium)](./medium/1717.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
 
