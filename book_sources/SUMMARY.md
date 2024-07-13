@@ -85,6 +85,7 @@
   - [1048. Longest String Chain(medium)](./medium/1048.md)
   - [1052. Grumpy Bookstore Owner(medium)](./medium/1052.md)
   - [1091. Shortest Path in Binary Matrix(medium)](./medium/1091.md)
+  - [1190. Reverse Substrings Between Each Pair of Parentheses(medium)](./medium/1190.md)
   - [1202. Smallest String With Swaps(medium)](./medium/1202.md)
   - [1209. Remove All Adjacent Duplicates in String II(medium)](./medium/1209.md)
   - [1268. Search Suggestions System(medium)](./medium/1268.md)
