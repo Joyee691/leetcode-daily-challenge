@@ -117,4 +117,5 @@
 - [1710. Maximum Units on a Truck(easy)](./easy/1710.md)
 - [1717. Maximum Score From Removing Substrings(medium)](./medium/1717.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
+- [2751. Robot Collisions(hard)](./hard/2751.md)
 
