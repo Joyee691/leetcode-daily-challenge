@@ -78,6 +78,7 @@
 - [704. Binary Search(easy)](./book_sources/easy/704.md)
 - [705. Design HashSet(easy)](./book_sources/easy/705.md)
 - [706. Design HashMap(easy)](./book_sources/easy/706.md)
+- [726. Number of Atoms(hard)](./book_sources/hard/726.md)
 - [785. Is Graph Bipartite?(medium)](./book_sources/medium/785.md)
 - [820. Short Encoding of Words(medium)](./book_sources/medium/820.md)
 - [826. Most Profit Assigning Work(medium)](./book_sources/medium/826.md)
