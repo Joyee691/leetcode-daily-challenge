@@ -107,6 +107,7 @@
   - [1695. Maximum Erasure Value(medium)](./medium/1695.md)
   - [1717. Maximum Score From Removing Substrings(medium)](./medium/1717.md)
   - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
+  - [2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)](./medium/2096.md)
   - [2196. Create Binary Tree From Descriptions(medium)](./medium/2196.md)
 - [Hard](hard/README.md)
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)
