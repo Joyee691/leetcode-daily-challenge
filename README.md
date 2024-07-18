@@ -110,6 +110,7 @@
 - [1461. Check If a String Contains All Binary Codes of Size K(medium)](./book_sources/medium/1461.md)
 - [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts(medium)](./book_sources/medium/1465.md)
 - [1482. Minimum Number of Days to Make m Bouquets(medium)](./book_sources/medium/1482.md)
+- [1530. Number of Good Leaf Nodes Pairs(medium)](./book_sources/medium/1530.md)
 - [1552. Magnetic Force Between Two Balls(medium)](./book_sources/medium/1552.md)
 - [1584. Min Cost to Connect All Points(medium)](./book_sources/medium/1584.md)
 - [1598. Crawler Log Folder(easy)](./book_sources/easy/1598.md)
