@@ -105,6 +105,7 @@
 - [1337. The K Weakest Rows in a Matrix(easy)](./book_sources/easy/1337.md)
 - [1342. Number of Steps to Reduce a Number to Zero(easy)](./book_sources/easy/1342.md)
 - [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree(medium)](./book_sources/medium/1379.md)
+- [1380. Lucky Numbers in a Matrix(easy)](./book_sources/easy/1380.md)
 - [1396. Design Underground System(medium)](./book_sources/medium/1396.md)
 - [1423. Maximum Points You Can Obtain from Cards(medium)](./book_sources/medium/1423.md)
 - [1461. Check If a String Contains All Binary Codes of Size K(medium)](./book_sources/medium/1461.md)
