@@ -127,6 +127,7 @@
 - [1721. Swapping Nodes in a Linked List(medium)](./book_sources/medium/1721.md)
 - [2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)](./book_sources/medium/2096.md)
 - [2196. Create Binary Tree From Descriptions(medium)](./book_sources/medium/2196.md)
+- [2418. Sort the People(easy)](./book_sources/easy/2418.md)
 - [2751. Robot Collisions(hard)](./book_sources/hard/2751.md)
 
 ## 使用说明
