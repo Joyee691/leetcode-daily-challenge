@@ -116,6 +116,7 @@
 - [1584. Min Cost to Connect All Points(medium)](./book_sources/medium/1584.md)
 - [1598. Crawler Log Folder(easy)](./book_sources/easy/1598.md)
 - [1631. Path With Minimum Effort(medium)](./book_sources/medium/1631.md)
+- [1636. Sort Array by Increasing Frequency(easy)](./book_sources/easy/1636.md)
 - [1641. Count Sorted Vowel Strings(medium)](./book_sources/medium/1641.md)
 - [1642. Furthest Building You Can Reach(medium)](./book_sources/medium/1642.md)
 - [1658. Minimum Operations to Reduce X to Zero(medium)](./book_sources/medium/1658.md)

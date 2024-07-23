@@ -30,6 +30,7 @@
   - [1342. Number of Steps to Reduce a Number to Zero(easy)](./easy/1342.md)
   - [1380. Lucky Numbers in a Matrix(easy)](./easy/1380.md)
   - [1598. Crawler Log Folder(easy)](./easy/1598.md)
+  - [1636. Sort Array by Increasing Frequency(easy)](./easy/1636.md)
   - [1710. Maximum Units on a Truck(easy)](./easy/1710.md)
   - [2418. Sort the People(easy)](./easy/2418.md)
 - [Meduim](medium/README.md)
