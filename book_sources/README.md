@@ -84,6 +84,7 @@
 - [867. Transpose Matrix(easy)](./easy/867.md)
 - [897. Increasing Order Search Tree(easy)](./easy/897.md)
 - [905. Sort Array By Parity(easy)](./easy/905.md)
+- [912. Sort an Array(medium)](./medium/912.md)
 - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
 - [968. Binary Tree Cameras(hard)](./hard/968.md)
 - [1029. Two City Scheduling(medium)](./medium/1029.md)
