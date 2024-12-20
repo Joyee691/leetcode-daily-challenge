@@ -120,6 +120,7 @@
   - [2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)](./medium/2096.md)
   - [2191. Sort the Jumbled Numbers(medium)](./medium/2191.md)
   - [2196. Create Binary Tree From Descriptions(medium)](./medium/2196.md)
+  - [2415. Reverse Odd Levels of Binary Tree(medium)](./medium/2415.md)
 - [Hard](hard/README.md)
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)
   - [51. N-Queens(hard)](./hard/51.md)
