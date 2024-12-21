@@ -121,6 +121,7 @@
   - [2191. Sort the Jumbled Numbers(medium)](./medium/2191.md)
   - [2196. Create Binary Tree From Descriptions(medium)](./medium/2196.md)
   - [2415. Reverse Odd Levels of Binary Tree(medium)](./medium/2415.md)
+  - [3264. Final Array State After K Multiplication Operations I(easy)](./easy/3264.md)
 - [Hard](hard/README.md)
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)
   - [51. N-Queens(hard)](./hard/51.md)
@@ -134,3 +135,4 @@
   - [968. Binary Tree Cameras(hard)](./hard/968.md)
   - [1192. Critical Connections in a Network(hard)](./hard/1192.md)
   - [2751. Robot Collisions(hard)](./hard/2751.md)
+  - [2872. Maximum Number of K-Divisible Components(hard)](./hard/2872.md)

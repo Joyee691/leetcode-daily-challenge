@@ -134,4 +134,6 @@
 - [2415. Reverse Odd Levels of Binary Tree(medium)](./medium/2415.md)
 - [2418. Sort the People(easy)](./easy/2418.md)
 - [2751. Robot Collisions(hard)](./hard/2751.md)
+- [2872. Maximum Number of K-Divisible Components(hard)](./hard/2872.md)
+- [3264. Final Array State After K Multiplication Operations I(easy)](./easy/3264.md)
 
