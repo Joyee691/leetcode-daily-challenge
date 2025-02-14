@@ -107,6 +107,7 @@
 - [1332. Remove Palindromic Subsequences(easy)](./book_sources/easy/1332.md)
 - [1337. The K Weakest Rows in a Matrix(easy)](./book_sources/easy/1337.md)
 - [1342. Number of Steps to Reduce a Number to Zero(easy)](./book_sources/easy/1342.md)
+- [1352. Product of the Last K Numbers(medium)](./book_sources/medium/1352.md)
 - [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree(medium)](./book_sources/medium/1379.md)
 - [1380. Lucky Numbers in a Matrix(easy)](./book_sources/easy/1380.md)
 - [1396. Design Underground System(medium)](./book_sources/medium/1396.md)

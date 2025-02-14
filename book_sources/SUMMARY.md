@@ -99,6 +99,7 @@
   - [1209. Remove All Adjacent Duplicates in String II(medium)](./medium/1209.md)
   - [1268. Search Suggestions System(medium)](./medium/1268.md)
   - [1302. Deepest Leaves Sum(medium)](./medium/1302.md)
+  - [1352. Product of the Last K Numbers(medium)](./medium/1352.md)
   - [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree(medium)](./medium/1379.md)
   - [1396. Design Underground System(medium)](./medium/1396.md)
   - [1423. Maximum Points You Can Obtain from Cards(medium)](./medium/1423.md)
