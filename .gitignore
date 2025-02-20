@@ -6,3 +6,5 @@ book_sources/node_modules
 update_reminders.md
 
 node_modules
+
+yarn-error.log

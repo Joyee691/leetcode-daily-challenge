@@ -22,9 +22,9 @@ function getUntrackedFiles() {
 }
 
 // Step 2: Get the path to the README.md files in the root and book_sources/ directories
-const rootReadmePath = path.join(__dirname, 'README.md');
-const bookSourcesReadmePath = path.join(__dirname, 'book_sources', 'README.md');
-const summaryFilePath = path.join(__dirname, 'book_sources', 'SUMMARY.md');
+const rootReadmePath = path.join(__dirname, '..', 'README.md'); // Adjusted path
+const bookSourcesReadmePath = path.join(__dirname, '..', 'book_sources', 'README.md'); // Adjusted path
+const summaryFilePath = path.join(__dirname, '..', 'book_sources', 'SUMMARY.md'); // Adjusted path
 
 // Helper function to extract the title and difficulty from the file content and path
 function extractFileDetails(filePath) {
@@ -52,7 +52,7 @@ function insertFilePathAndSort(fileDetails, fileContent) {
 
   if (sectionIndex !== -1) {
     // Format: [Title (C)](D)
-    const newFilePath = `- [${title} (${difficulty})](./${filePath})`; // Removed extra space before '-'
+    const newFilePath = `- [${title}(${difficulty})](./${filePath})`; // Removed extra space before '-'
 
     // Find the starting point for the list items
     let listStartIndex = lines.findIndex((line, index) => index > sectionIndex && line.trim().startsWith('-'));
@@ -115,8 +115,8 @@ function updateSummary(newFilePath) {
 
       // Create the new entry for the file to be inserted
       const { title, difficulty, filePath } = extractFileDetails(newFilePath);
-      const relativeFilePath = path.relative(path.join(__dirname, 'book_sources'), filePath);  // Use relative path here
-      const newListItem = `  - [${title} (${difficulty})](./${relativeFilePath})`; // Added './' to the relative path
+      const relativeFilePath = path.relative(path.join(__dirname, '..', 'book_sources'), filePath);  // Adjusted relative path
+      const newListItem = `  - [${title}(${difficulty})](./${relativeFilePath})`; // Added './' to the relative path
 
       // Insert the new file entry into the sorted list
       const sortedListItems = [...listItems, newListItem].sort((a, b) => {
@@ -158,8 +158,8 @@ function main() {
   untrackedFiles.forEach(file => {
     const newFilePath = file.trim();
     const fileDetails = extractFileDetails(newFilePath);
-    const relativeFilePathForRoot = path.relative(__dirname, newFilePath);
-    const relativeFilePathForBookSources = path.relative(path.join(__dirname, 'book_sources'), newFilePath);
+    const relativeFilePathForRoot = path.relative(path.join(__dirname, '..'), newFilePath); // Adjusted relative path
+    const relativeFilePathForBookSources = path.relative(path.join(__dirname, '..', 'book_sources'), newFilePath);
 
     // Update README.md in the root directory
     updateReadme(rootReadmePath, { ...fileDetails, filePath: relativeFilePathForRoot });

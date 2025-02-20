@@ -11,6 +11,6 @@
     "readline-sync": "^1.4.10"
   },
   "scripts": {
-    "start": "node ./scripts/start.js"
+    "start": "node ./scripts/start.js && node ./scripts/update.js"
   }
 }
