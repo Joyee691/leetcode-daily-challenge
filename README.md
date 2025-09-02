@@ -140,6 +140,7 @@
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level(medium)](./book_sources/medium/2471.md)
 - [2751. Robot Collisions(hard)](./book_sources/hard/2751.md)
 - [2872. Maximum Number of K-Divisible Components(hard)](./book_sources/hard/2872.md)
+- [3025. Find the Number of Ways to Place People I(medium)](./book_sources/medium/3025.md)
 - [3264. Final Array State After K Multiplication Operations I(easy)](./book_sources/easy/3264.md)
 
 ## 使用说明
