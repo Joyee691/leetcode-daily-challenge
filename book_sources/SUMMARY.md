@@ -140,3 +140,4 @@
   - [1192. Critical Connections in a Network(hard)](./hard/1192.md)
   - [2751. Robot Collisions(hard)](./hard/2751.md)
   - [2872. Maximum Number of K-Divisible Components(hard)](./hard/2872.md)
+  - [3027. Find the Number of Ways to Place People II(hard)](./hard/3027.md)
