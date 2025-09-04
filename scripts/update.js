@@ -169,7 +169,11 @@ function main() {
 
     // Update SUMMARY.md in the book_sources/ directory using newFilePath
     updateSummary(newFilePath);
+
+    // open new file
+    execSync(`open -a Typora ${newFilePath}`);
   });
+
 }
 
 // Execute the script
