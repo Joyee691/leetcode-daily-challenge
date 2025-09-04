@@ -143,6 +143,7 @@
 - [3025. Find the Number of Ways to Place People I(medium)](./book_sources/medium/3025.md)
 - [3027. Find the Number of Ways to Place People II(hard)](./book_sources/hard/3027.md)
 - [3264. Final Array State After K Multiplication Operations I(easy)](./book_sources/easy/3264.md)
+- [3516. Find Closest Person(easy)](./book_sources/easy/3516.md)
 
 ## 使用说明
 

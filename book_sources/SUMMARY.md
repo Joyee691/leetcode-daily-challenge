@@ -34,6 +34,7 @@
   - [1636. Sort Array by Increasing Frequency(easy)](./easy/1636.md)
   - [1710. Maximum Units on a Truck(easy)](./easy/1710.md)
   - [2418. Sort the People(easy)](./easy/2418.md)
+  - [3516. Find Closest Person(easy)](./easy/3516.md)
 - [Medium](medium/README.md)
   - [2. Add Two Numbers](./medium/2.md)
   - [3. Longest Substring Without Repeating Characters(medium)](./medium/3.md)
