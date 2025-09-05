@@ -136,6 +136,7 @@
 - [2415. Reverse Odd Levels of Binary Tree(medium)](./medium/2415.md)
 - [2418. Sort the People(easy)](./easy/2418.md)
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level(medium)](./medium/2471.md)
+- [2749. Minimum Operations to Make the Integer Zero(medium)](./medium/2749.md)
 - [2751. Robot Collisions(hard)](./hard/2751.md)
 - [2872. Maximum Number of K-Divisible Components(hard)](./hard/2872.md)
 - [3025. Find the Number of Ways to Place People I(medium)](./medium/3025.md)
