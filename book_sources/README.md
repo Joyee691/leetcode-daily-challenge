@@ -142,5 +142,6 @@
 - [3025. Find the Number of Ways to Place People I(medium)](./medium/3025.md)
 - [3027. Find the Number of Ways to Place People II(hard)](./hard/3027.md)
 - [3264. Final Array State After K Multiplication Operations I(easy)](./easy/3264.md)
+- [3495. Minimum Operations to Make Array Elements Zero(hard)](./hard/3495.md)
 - [3516. Find Closest Person(easy)](./easy/3516.md)
 
