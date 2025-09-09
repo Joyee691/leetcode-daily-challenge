@@ -137,6 +137,7 @@
 - [2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)](./book_sources/medium/2096.md)
 - [2191. Sort the Jumbled Numbers(medium)](./book_sources/medium/2191.md)
 - [2196. Create Binary Tree From Descriptions(medium)](./book_sources/medium/2196.md)
+- [2327. Number of People Aware of a Secret(medium)](./book_sources/medium/2327.md)
 - [2415. Reverse Odd Levels of Binary Tree(medium)](./book_sources/medium/2415.md)
 - [2418. Sort the People(easy)](./book_sources/easy/2418.md)
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level(medium)](./book_sources/medium/2471.md)
