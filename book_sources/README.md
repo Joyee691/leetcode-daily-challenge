@@ -132,6 +132,7 @@
 - [1710. Maximum Units on a Truck(easy)](./easy/1710.md)
 - [1717. Maximum Score From Removing Substrings(medium)](./medium/1717.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
+- [1733. Minimum Number of People to Teach(medium)](./medium/1733.md)
 - [2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)](./medium/2096.md)
 - [2191. Sort the Jumbled Numbers(medium)](./medium/2191.md)
 - [2196. Create Binary Tree From Descriptions(medium)](./medium/2196.md)
