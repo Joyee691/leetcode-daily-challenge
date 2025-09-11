@@ -130,6 +130,7 @@
   - [2415. Reverse Odd Levels of Binary Tree(medium)](./medium/2415.md)
   - [2471. Minimum Number of Operations to Sort a Binary Tree by Level(medium)](./medium/2471.md)
   - [2749. Minimum Operations to Make the Integer Zero(medium)](./medium/2749.md)
+  - [2785. Sort Vowels in a String(medium)](./medium/2785.md)
   - [3025. Find the Number of Ways to Place People I(medium)](./medium/3025.md)
   - [3264. Final Array State After K Multiplication Operations I(easy)](./easy/3264.md)
 - [Hard](hard/README.md)

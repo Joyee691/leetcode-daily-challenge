@@ -144,6 +144,7 @@
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level(medium)](./book_sources/medium/2471.md)
 - [2749. Minimum Operations to Make the Integer Zero(medium)](./book_sources/medium/2749.md)
 - [2751. Robot Collisions(hard)](./book_sources/hard/2751.md)
+- [2785. Sort Vowels in a String(medium)](./book_sources/medium/2785.md)
 - [2872. Maximum Number of K-Divisible Components(hard)](./book_sources/hard/2872.md)
 - [3025. Find the Number of Ways to Place People I(medium)](./book_sources/medium/3025.md)
 - [3027. Find the Number of Ways to Place People II(hard)](./book_sources/hard/3027.md)
