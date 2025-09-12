@@ -132,6 +132,7 @@
   - [2749. Minimum Operations to Make the Integer Zero(medium)](./medium/2749.md)
   - [2785. Sort Vowels in a String(medium)](./medium/2785.md)
   - [3025. Find the Number of Ways to Place People I(medium)](./medium/3025.md)
+  - [3227. Vowels Game in a String(medium)](./medium/3227.md)
   - [3264. Final Array State After K Multiplication Operations I(easy)](./easy/3264.md)
 - [Hard](hard/README.md)
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)

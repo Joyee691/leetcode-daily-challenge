@@ -148,6 +148,7 @@
 - [2872. Maximum Number of K-Divisible Components(hard)](./book_sources/hard/2872.md)
 - [3025. Find the Number of Ways to Place People I(medium)](./book_sources/medium/3025.md)
 - [3027. Find the Number of Ways to Place People II(hard)](./book_sources/hard/3027.md)
+- [3227. Vowels Game in a String(medium)](./book_sources/medium/3227.md)
 - [3264. Final Array State After K Multiplication Operations I(easy)](./book_sources/easy/3264.md)
 - [3495. Minimum Operations to Make Array Elements Zero(hard)](./book_sources/hard/3495.md)
 - [3516. Find Closest Person(easy)](./book_sources/easy/3516.md)
