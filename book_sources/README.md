@@ -150,4 +150,5 @@
 - [3264. Final Array State After K Multiplication Operations I(easy)](./easy/3264.md)
 - [3495. Minimum Operations to Make Array Elements Zero(hard)](./hard/3495.md)
 - [3516. Find Closest Person(easy)](./easy/3516.md)
+- [3541. Find Most Frequent Vowel and Consonant(easy)](./easy/3541.md)
 
