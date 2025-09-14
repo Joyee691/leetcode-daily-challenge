@@ -88,6 +88,7 @@
 - [905. Sort Array By Parity(easy)](./easy/905.md)
 - [912. Sort an Array(medium)](./medium/912.md)
 - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
+- [966. Vowel Spellchecker(medium)](./medium/966.md)
 - [968. Binary Tree Cameras(hard)](./hard/968.md)
 - [1029. Two City Scheduling(medium)](./medium/1029.md)
 - [1046. Last Stone Weight(easy)](./easy/1046.md)
