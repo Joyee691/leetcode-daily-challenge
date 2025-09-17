@@ -140,6 +140,7 @@
 - [2196. Create Binary Tree From Descriptions(medium)](./medium/2196.md)
 - [2197. Replace Non-Coprime Numbers in Array(hard)](./hard/2197.md)
 - [2327. Number of People Aware of a Secret(medium)](./medium/2327.md)
+- [2353. Design a Food Rating System(medium)](./medium/2353.md)
 - [2415. Reverse Odd Levels of Binary Tree(medium)](./medium/2415.md)
 - [2418. Sort the People(easy)](./easy/2418.md)
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level(medium)](./medium/2471.md)
