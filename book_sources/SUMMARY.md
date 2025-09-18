@@ -138,6 +138,7 @@
   - [3025. Find the Number of Ways to Place People I(medium)](./medium/3025.md)
   - [3227. Vowels Game in a String(medium)](./medium/3227.md)
   - [3264. Final Array State After K Multiplication Operations I(easy)](./easy/3264.md)
+  - [3408. Design Task Manager(medium)](./medium/3408.md)
 - [Hard](hard/README.md)
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)
   - [51. N-Queens(hard)](./hard/51.md)
