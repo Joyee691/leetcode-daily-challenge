@@ -7,7 +7,8 @@ async function fetchLeetCodeDetails(url) {
   try {
     // Extract the problem slug from the URL
     const urlParts = url.split('/');
-    const titleSlug = urlParts[urlParts.length - 1];
+    const problemIndex = urlParts.indexOf('problems')
+    const titleSlug = urlParts[problemIndex + 1];
 
     // Define the GraphQL query
     const query = `
