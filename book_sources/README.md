@@ -155,6 +155,7 @@
 - [3408. Design Task Manager(medium)](./medium/3408.md)
 - [3484. Design Spreadsheet(medium)](./medium/3484.md)
 - [3495. Minimum Operations to Make Array Elements Zero(hard)](./hard/3495.md)
+- [3508. Implement Router(medium)](./medium/3508.md)
 - [3516. Find Closest Person(easy)](./easy/3516.md)
 - [3541. Find Most Frequent Vowel and Consonant(easy)](./easy/3541.md)
 
