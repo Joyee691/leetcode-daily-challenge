@@ -153,6 +153,7 @@
   - [726. Number of Atoms(hard)](./hard/726.md)
   - [968. Binary Tree Cameras(hard)](./hard/968.md)
   - [1192. Critical Connections in a Network(hard)](./hard/1192.md)
+  - [1912. Design Movie Rental System(hard)](./hard/1912.md)
   - [2197. Replace Non-Coprime Numbers in Array(hard)](./hard/2197.md)
   - [2751. Robot Collisions(hard)](./hard/2751.md)
   - [2872. Maximum Number of K-Divisible Components(hard)](./hard/2872.md)
