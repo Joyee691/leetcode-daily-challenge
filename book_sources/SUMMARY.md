@@ -37,6 +37,7 @@
   - [1710. Maximum Units on a Truck(easy)](./easy/1710.md)
   - [1935. Maximum Number of Words You Can Type(easy)](./easy/1935.md)
   - [2418. Sort the People(easy)](./easy/2418.md)
+  - [3005. Count Elements With Maximum Frequency(easy)](./easy/3005.md)
   - [3516. Find Closest Person(easy)](./easy/3516.md)
   - [3541. Find Most Frequent Vowel and Consonant(easy)](./easy/3541.md)
 - [Medium](medium/README.md)

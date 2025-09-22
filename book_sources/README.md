@@ -149,6 +149,7 @@
 - [2751. Robot Collisions(hard)](./hard/2751.md)
 - [2785. Sort Vowels in a String(medium)](./medium/2785.md)
 - [2872. Maximum Number of K-Divisible Components(hard)](./hard/2872.md)
+- [3005. Count Elements With Maximum Frequency(easy)](./easy/3005.md)
 - [3025. Find the Number of Ways to Place People I(medium)](./medium/3025.md)
 - [3027. Find the Number of Ways to Place People II(hard)](./hard/3027.md)
 - [3227. Vowels Game in a String(medium)](./medium/3227.md)
