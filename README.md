@@ -38,6 +38,7 @@
 - [152. Maximum Product Subarray(medium)](./book_sources/medium/152.md)
 - [160. Intersection of Two Linked Lists(easy)](./book_sources/easy/160.md)
 - [165. Compare Version Numbers(medium)](./book_sources/medium/165.md)
+- [166. Fraction to Recurring Decimal(medium)](./book_sources/medium/166.md)
 - [167. Two Sum II - Input Array Is Sorted(medium)](./book_sources/medium/167.md)
 - [173. Binary Search Tree Iterator(medium)](./book_sources/medium/173.md)
 - [191. Number of 1 Bits(easy)](./book_sources/easy/191.md)
