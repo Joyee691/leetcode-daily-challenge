@@ -84,6 +84,7 @@ function updateReadme(filePath, fileDetails) {
     const content = fs.readFileSync(filePath, 'utf8');
     const updatedContent = insertFilePathAndSort(fileDetails, content);
     fs.writeFileSync(filePath, updatedContent, 'utf8');
+    console.log('✅ Successfully update the README.md file')
   } catch (error) {
     console.error('Error updating README file:', error);
   }
@@ -129,6 +130,8 @@ function updateSummary(newFilePath) {
 
       // Save the updated content back to the file
       fs.writeFileSync(summaryFilePath, lines.join('\n'), 'utf8');
+
+      console.log('✅ Successfully update the SUMMARY.md file')
     }
   } catch (error) {
     console.error('Error updating SUMMARY file:', error);
@@ -141,6 +144,8 @@ function updateBookSourcesReadme(filePath, fileDetails) {
     const content = fs.readFileSync(filePath, 'utf8');
     const updatedContent = insertFilePathAndSort(fileDetails, content);
     fs.writeFileSync(filePath, updatedContent, 'utf8');
+
+    console.log('✅ Successfully update the book_sources/README.md file')
   } catch (error) {
     console.error('Error updating book_sources README file:', error);
   }
@@ -148,9 +153,10 @@ function updateBookSourcesReadme(filePath, fileDetails) {
 
 // Main function to execute the automation
 function main() {
+  console.log('Start updating new file...')
   const untrackedFiles = getUntrackedFiles();
   if (untrackedFiles.length === 0) {
-    console.log('No untracked files found.');
+    console.log('🤯🤯🤯 No untracked files found.');
     return;
   }
 
@@ -173,7 +179,6 @@ function main() {
     // open new file
     execSync(`open -a Typora ${newFilePath}`);
   });
-
 }
 
 // Execute the script
