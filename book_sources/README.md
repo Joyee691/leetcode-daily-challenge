@@ -83,6 +83,7 @@
 - [726. Number of Atoms(hard)](./hard/726.md)
 - [769. Max Chunks To Make Sorted(medium)](./medium/769.md)
 - [785. Is Graph Bipartite?(medium)](./medium/785.md)
+- [812. Largest Triangle Area(easy)](./easy/812.md)
 - [820. Short Encoding of Words(medium)](./medium/820.md)
 - [826. Most Profit Assigning Work(medium)](./medium/826.md)
 - [844. Backspace String Compare(easy)](./easy/844.md)
