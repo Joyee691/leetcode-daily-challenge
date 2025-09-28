@@ -96,6 +96,7 @@
 - [923. 3Sum With Multiplicity(medium)](./book_sources/medium/923.md)
 - [966. Vowel Spellchecker(medium)](./book_sources/medium/966.md)
 - [968. Binary Tree Cameras(hard)](./book_sources/hard/968.md)
+- [976. Largest Perimeter Triangle(easy)](./book_sources/easy/976.md)
 - [1029. Two City Scheduling(medium)](./book_sources/medium/1029.md)
 - [1046. Last Stone Weight(easy)](./book_sources/easy/1046.md)
 - [1048. Longest String Chain(medium)](./book_sources/medium/1048.md)
