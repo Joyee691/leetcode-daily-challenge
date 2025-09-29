@@ -102,6 +102,7 @@
   - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
   - [966. Vowel Spellchecker(medium)](./medium/966.md)
   - [1029. Two City Scheduling(medium)](./medium/1029.md)
+  - [1039. Minimum Score Triangulation of Polygon(medium)](./medium/1039.md)
   - [1048. Longest String Chain(medium)](./medium/1048.md)
   - [1052. Grumpy Bookstore Owner(medium)](./medium/1052.md)
   - [1091. Shortest Path in Binary Matrix(medium)](./medium/1091.md)

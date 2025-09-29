@@ -98,6 +98,7 @@
 - [968. Binary Tree Cameras(hard)](./book_sources/hard/968.md)
 - [976. Largest Perimeter Triangle(easy)](./book_sources/easy/976.md)
 - [1029. Two City Scheduling(medium)](./book_sources/medium/1029.md)
+- [1039. Minimum Score Triangulation of Polygon(medium)](./book_sources/medium/1039.md)
 - [1046. Last Stone Weight(easy)](./book_sources/easy/1046.md)
 - [1048. Longest String Chain(medium)](./book_sources/medium/1048.md)
 - [1052. Grumpy Bookstore Owner(medium)](./book_sources/medium/1052.md)
