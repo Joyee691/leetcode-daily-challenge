@@ -148,6 +148,7 @@
 - [2191. Sort the Jumbled Numbers(medium)](./book_sources/medium/2191.md)
 - [2196. Create Binary Tree From Descriptions(medium)](./book_sources/medium/2196.md)
 - [2197. Replace Non-Coprime Numbers in Array(hard)](./book_sources/hard/2197.md)
+- [2221. Find Triangular Sum of an Array(medium)](./book_sources/medium/2221.md)
 - [2327. Number of People Aware of a Secret(medium)](./book_sources/medium/2327.md)
 - [2353. Design a Food Rating System(medium)](./book_sources/medium/2353.md)
 - [2415. Reverse Odd Levels of Binary Tree(medium)](./book_sources/medium/2415.md)
