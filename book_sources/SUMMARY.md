@@ -34,6 +34,7 @@
   - [1342. Number of Steps to Reduce a Number to Zero(easy)](./easy/1342.md)
   - [1380. Lucky Numbers in a Matrix(easy)](./easy/1380.md)
   - [1475. Final Prices With a Special Discount in a Shop(easy)](./easy/1475.md)
+  - [1518. Water Bottles(easy)](./easy/1518.md)
   - [1598. Crawler Log Folder(easy)](./easy/1598.md)
   - [1636. Sort Array by Increasing Frequency(easy)](./easy/1636.md)
   - [1710. Maximum Units on a Truck(easy)](./easy/1710.md)
