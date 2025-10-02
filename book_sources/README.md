@@ -160,6 +160,7 @@
 - [3005. Count Elements With Maximum Frequency(easy)](./easy/3005.md)
 - [3025. Find the Number of Ways to Place People I(medium)](./medium/3025.md)
 - [3027. Find the Number of Ways to Place People II(hard)](./hard/3027.md)
+- [3100. Water Bottles II(medium)](./medium/3100.md)
 - [3227. Vowels Game in a String(medium)](./medium/3227.md)
 - [3264. Final Array State After K Multiplication Operations I(easy)](./easy/3264.md)
 - [3408. Design Task Manager(medium)](./medium/3408.md)
