@@ -159,6 +159,7 @@
   - [329. Longest Increasing Path in a Matrix(hard)](./hard/329.md)
   - [330. Patching Array(hard)](./hard/330.md)
   - [354. Russian Doll Envelopes(hard)](./hard/354.md)
+  - [407. Trapping Rain Water II(hard)](./hard/407.md)
   - [410. Split Array Largest Sum(hard)](./hard/410.md)
   - [726. Number of Atoms(hard)](./hard/726.md)
   - [968. Binary Tree Cameras(hard)](./hard/968.md)
