@@ -86,6 +86,7 @@
 - [706. Design HashMap(easy)](./book_sources/easy/706.md)
 - [726. Number of Atoms(hard)](./book_sources/hard/726.md)
 - [769. Max Chunks To Make Sorted(medium)](./book_sources/medium/769.md)
+- [778. Swim in Rising Water(hard)](./book_sources/hard/778.md)
 - [785. Is Graph Bipartite?(medium)](./book_sources/medium/785.md)
 - [812. Largest Triangle Area(easy)](./book_sources/easy/812.md)
 - [820. Short Encoding of Words(medium)](./book_sources/medium/820.md)

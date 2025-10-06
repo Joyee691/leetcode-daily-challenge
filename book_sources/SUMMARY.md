@@ -163,6 +163,7 @@
   - [407. Trapping Rain Water II(hard)](./hard/407.md)
   - [410. Split Array Largest Sum(hard)](./hard/410.md)
   - [726. Number of Atoms(hard)](./hard/726.md)
+  - [778. Swim in Rising Water(hard)](./hard/778.md)
   - [968. Binary Tree Cameras(hard)](./hard/968.md)
   - [1192. Critical Connections in a Network(hard)](./hard/1192.md)
   - [1912. Design Movie Rental System(hard)](./hard/1912.md)
