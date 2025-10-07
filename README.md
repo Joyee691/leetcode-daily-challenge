@@ -128,6 +128,7 @@
 - [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts(medium)](./book_sources/medium/1465.md)
 - [1475. Final Prices With a Special Discount in a Shop(easy)](./book_sources/easy/1475.md)
 - [1482. Minimum Number of Days to Make m Bouquets(medium)](./book_sources/medium/1482.md)
+- [1488. Avoid Flood in The City(medium)](./book_sources/medium/1488.md)
 - [1518. Water Bottles(easy)](./book_sources/easy/1518.md)
 - [1530. Number of Good Leaf Nodes Pairs(medium)](./book_sources/medium/1530.md)
 - [1552. Magnetic Force Between Two Balls(medium)](./book_sources/medium/1552.md)
