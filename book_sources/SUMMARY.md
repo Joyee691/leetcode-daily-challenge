@@ -49,6 +49,7 @@
   - [5. Longest Palindromic Substring(medium)](./medium/5.md)
   - [6. Zigzag Conversion(medium)](./medium/6.md)
   - [7. Reverse Integer(medium)](./medium/7.md)
+  - [8. String to Integer (atoi)(medium)](./medium/8.md)
   - [11. Container With Most Water(medium)](./medium/11.md)
   - [17. Letter Combinations of a Phone Number(medium)](./medium/17.md)
   - [29. Divide Two Integers(medium)](./medium/29.md)

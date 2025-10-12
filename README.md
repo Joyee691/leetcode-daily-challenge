@@ -12,6 +12,7 @@
 - [5. Longest Palindromic Substring(medium)](./book_sources/medium/5.md)
 - [6. Zigzag Conversion(medium)](./book_sources/medium/6.md)
 - [7. Reverse Integer(medium)](./book_sources/medium/7.md)
+- [8. String to Integer (atoi)(medium)](./book_sources/medium/8.md)
 - [9. Palindrome Number(easy)](./book_sources/easy/9.md)
 - [11. Container With Most Water(medium)](./book_sources/medium/11.md)
 - [17. Letter Combinations of a Phone Number(medium)](./book_sources/medium/17.md)
