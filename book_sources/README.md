@@ -154,6 +154,7 @@
 - [2196. Create Binary Tree From Descriptions(medium)](./medium/2196.md)
 - [2197. Replace Non-Coprime Numbers in Array(hard)](./hard/2197.md)
 - [2221. Find Triangular Sum of an Array(medium)](./medium/2221.md)
+- [2273. Find Resultant Array After Removing Anagrams(easy)](./easy/2273.md)
 - [2300. Successful Pairs of Spells and Potions(medium)](./medium/2300.md)
 - [2327. Number of People Aware of a Secret(medium)](./medium/2327.md)
 - [2353. Design a Food Rating System(medium)](./medium/2353.md)
