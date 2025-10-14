@@ -42,6 +42,7 @@
   - [2273. Find Resultant Array After Removing Anagrams(easy)](./easy/2273.md)
   - [2418. Sort the People(easy)](./easy/2418.md)
   - [3005. Count Elements With Maximum Frequency(easy)](./easy/3005.md)
+  - [3349. Adjacent Increasing Subarrays Detection I(easy)](./easy/3349.md)
   - [3516. Find Closest Person(easy)](./easy/3516.md)
   - [3541. Find Most Frequent Vowel and Consonant(easy)](./easy/3541.md)
 - [Medium](medium/README.md)
