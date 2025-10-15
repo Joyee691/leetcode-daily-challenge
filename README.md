@@ -177,6 +177,7 @@
 - [3227. Vowels Game in a String(medium)](./book_sources/medium/3227.md)
 - [3264. Final Array State After K Multiplication Operations I(easy)](./book_sources/easy/3264.md)
 - [3349. Adjacent Increasing Subarrays Detection I(easy)](./book_sources/easy/3349.md)
+- [3350. Adjacent Increasing Subarrays Detection II(medium)](./book_sources/medium/3350.md)
 - [3408. Design Task Manager(medium)](./book_sources/medium/3408.md)
 - [3484. Design Spreadsheet(medium)](./book_sources/medium/3484.md)
 - [3495. Minimum Operations to Make Array Elements Zero(hard)](./book_sources/hard/3495.md)
