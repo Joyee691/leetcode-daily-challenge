@@ -150,6 +150,7 @@
   - [2353. Design a Food Rating System(medium)](./medium/2353.md)
   - [2415. Reverse Odd Levels of Binary Tree(medium)](./medium/2415.md)
   - [2471. Minimum Number of Operations to Sort a Binary Tree by Level(medium)](./medium/2471.md)
+  - [2598. Smallest Missing Non-negative Integer After Operations(medium)](./medium/2598.md)
   - [2749. Minimum Operations to Make the Integer Zero(medium)](./medium/2749.md)
   - [2785. Sort Vowels in a String(medium)](./medium/2785.md)
   - [3025. Find the Number of Ways to Place People I(medium)](./medium/3025.md)
