@@ -18,6 +18,7 @@
 - [12. Integer to Roman(medium)](./book_sources/medium/12.md)
 - [14. Longest Common Prefix(easy)](./book_sources/easy/14.md)
 - [15. 3Sum(medium)](./book_sources/medium/15.md)
+- [16. 3Sum Closest(medium)](./book_sources/medium/16.md)
 - [17. Letter Combinations of a Phone Number(medium)](./book_sources/medium/17.md)
 - [20. Valid Parentheses(easy)](./book_sources/easy/20.md)
 - [29. Divide Two Integers(medium)](./book_sources/medium/29.md)
