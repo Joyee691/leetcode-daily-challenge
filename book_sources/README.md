@@ -14,6 +14,7 @@
 - [9. Palindrome Number(easy)](./easy/9.md)
 - [11. Container With Most Water(medium)](./medium/11.md)
 - [12. Integer to Roman(medium)](./medium/12.md)
+- [14. Longest Common Prefix(easy)](./easy/14.md)
 - [17. Letter Combinations of a Phone Number(medium)](./medium/17.md)
 - [20. Valid Parentheses(easy)](./easy/20.md)
 - [29. Divide Two Integers(medium)](./medium/29.md)
