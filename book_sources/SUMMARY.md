@@ -58,6 +58,7 @@
   - [15. 3Sum(medium)](./medium/15.md)
   - [16. 3Sum Closest(medium)](./medium/16.md)
   - [17. Letter Combinations of a Phone Number(medium)](./medium/17.md)
+  - [18. 4Sum(medium)](./medium/18.md)
   - [29. Divide Two Integers(medium)](./medium/29.md)
   - [31. Next Permutation(medium)](./medium/31.md)
   - [46. Permutations(medium)](./medium/46.md)
