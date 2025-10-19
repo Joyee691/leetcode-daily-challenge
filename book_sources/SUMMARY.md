@@ -134,6 +134,7 @@
   - [1530. Number of Good Leaf Nodes Pairs(medium)](./medium/1530.md)
   - [1552. Magnetic Force Between Two Balls(medium)](./medium/1552.md)
   - [1584. Min Cost to Connect All Points(medium)](./medium/1584.md)
+  - [1625. Lexicographically Smallest String After Applying Operations(medium)](./medium/1625.md)
   - [1631. Path With Minimum Effort(medium)](./medium/1631.md)
   - [1641. Count Sorted Vowel Strings(medium)](./medium/1641.md)
   - [1642. Furthest Building You Can Reach(medium)](./medium/1642.md)
