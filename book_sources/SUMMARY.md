@@ -40,6 +40,7 @@
   - [1636. Sort Array by Increasing Frequency(easy)](./easy/1636.md)
   - [1710. Maximum Units on a Truck(easy)](./easy/1710.md)
   - [1935. Maximum Number of Words You Can Type(easy)](./easy/1935.md)
+  - [2011. Final Value of Variable After Performing Operations(easy)](./easy/2011.md)
   - [2273. Find Resultant Array After Removing Anagrams(easy)](./easy/2273.md)
   - [2418. Sort the People(easy)](./easy/2418.md)
   - [3005. Count Elements With Maximum Frequency(easy)](./easy/3005.md)
