@@ -191,4 +191,5 @@
   - [2751. Robot Collisions(hard)](./hard/2751.md)
   - [2872. Maximum Number of K-Divisible Components(hard)](./hard/2872.md)
   - [3027. Find the Number of Ways to Place People II(hard)](./hard/3027.md)
+  - [3347. Maximum Frequency of an Element After Performing Operations II(hard)](./hard/3347.md)
   - [3495. Minimum Operations to Make Array Elements Zero(hard)](./hard/3495.md)

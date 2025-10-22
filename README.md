@@ -185,6 +185,7 @@
 - [3227. Vowels Game in a String(medium)](./book_sources/medium/3227.md)
 - [3264. Final Array State After K Multiplication Operations I(easy)](./book_sources/easy/3264.md)
 - [3346. Maximum Frequency of an Element After Performing Operations I(medium)](./book_sources/medium/3346.md)
+- [3347. Maximum Frequency of an Element After Performing Operations II(hard)](./book_sources/hard/3347.md)
 - [3349. Adjacent Increasing Subarrays Detection I(easy)](./book_sources/easy/3349.md)
 - [3350. Adjacent Increasing Subarrays Detection II(medium)](./book_sources/medium/3350.md)
 - [3397. Maximum Number of Distinct Elements After Operations(medium)](./book_sources/medium/3397.md)
