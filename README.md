@@ -190,6 +190,7 @@
 - [3350. Adjacent Increasing Subarrays Detection II(medium)](./book_sources/medium/3350.md)
 - [3397. Maximum Number of Distinct Elements After Operations(medium)](./book_sources/medium/3397.md)
 - [3408. Design Task Manager(medium)](./book_sources/medium/3408.md)
+- [3461. Check If Digits Are Equal in String After Operations I(easy)](./book_sources/easy/3461.md)
 - [3484. Design Spreadsheet(medium)](./book_sources/medium/3484.md)
 - [3495. Minimum Operations to Make Array Elements Zero(hard)](./book_sources/hard/3495.md)
 - [3508. Implement Router(medium)](./book_sources/medium/3508.md)
