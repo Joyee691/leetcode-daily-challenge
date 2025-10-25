@@ -39,6 +39,7 @@
   - [1598. Crawler Log Folder(easy)](./easy/1598.md)
   - [1636. Sort Array by Increasing Frequency(easy)](./easy/1636.md)
   - [1710. Maximum Units on a Truck(easy)](./easy/1710.md)
+  - [1716. Calculate Money in Leetcode Bank(easy)](./easy/1716.md)
   - [1935. Maximum Number of Words You Can Type(easy)](./easy/1935.md)
   - [2011. Final Value of Variable After Performing Operations(easy)](./easy/2011.md)
   - [2273. Find Resultant Array After Removing Anagrams(easy)](./easy/2273.md)
