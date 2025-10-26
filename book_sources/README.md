@@ -158,6 +158,7 @@
 - [1912. Design Movie Rental System(hard)](./hard/1912.md)
 - [1935. Maximum Number of Words You Can Type(easy)](./easy/1935.md)
 - [2011. Final Value of Variable After Performing Operations(easy)](./easy/2011.md)
+- [2043. Simple Bank System(medium)](./medium/2043.md)
 - [2048. Next Greater Numerically Balanced Number(medium)](./medium/2048.md)
 - [2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)](./medium/2096.md)
 - [2191. Sort the Jumbled Numbers(medium)](./medium/2191.md)

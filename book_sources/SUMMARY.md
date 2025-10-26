@@ -150,6 +150,7 @@
   - [1717. Maximum Score From Removing Substrings(medium)](./medium/1717.md)
   - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
   - [1733. Minimum Number of People to Teach(medium)](./medium/1733.md)
+  - [2043. Simple Bank System(medium)](./medium/2043.md)
   - [2048. Next Greater Numerically Balanced Number(medium)](./medium/2048.md)
   - [2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)](./medium/2096.md)
   - [2191. Sort the Jumbled Numbers(medium)](./medium/2191.md)
