@@ -153,6 +153,7 @@
   - [2043. Simple Bank System(medium)](./medium/2043.md)
   - [2048. Next Greater Numerically Balanced Number(medium)](./medium/2048.md)
   - [2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)](./medium/2096.md)
+  - [2125. Number of Laser Beams in a Bank(medium)](./medium/2125.md)
   - [2191. Sort the Jumbled Numbers(medium)](./medium/2191.md)
   - [2196. Create Binary Tree From Descriptions(medium)](./medium/2196.md)
   - [2221. Find Triangular Sum of an Array(medium)](./medium/2221.md)
