@@ -190,6 +190,7 @@
 - [3347. Maximum Frequency of an Element After Performing Operations II(hard)](./hard/3347.md)
 - [3349. Adjacent Increasing Subarrays Detection I(easy)](./easy/3349.md)
 - [3350. Adjacent Increasing Subarrays Detection II(medium)](./medium/3350.md)
+- [3354. Make Array Elements Equal to Zero(easy)](./easy/3354.md)
 - [3397. Maximum Number of Distinct Elements After Operations(medium)](./medium/3397.md)
 - [3408. Design Task Manager(medium)](./medium/3408.md)
 - [3461. Check If Digits Are Equal in String After Operations I(easy)](./easy/3461.md)
