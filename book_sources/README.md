@@ -191,6 +191,7 @@
 - [3349. Adjacent Increasing Subarrays Detection I(easy)](./easy/3349.md)
 - [3350. Adjacent Increasing Subarrays Detection II(medium)](./medium/3350.md)
 - [3354. Make Array Elements Equal to Zero(easy)](./easy/3354.md)
+- [3370. Smallest Number With All Set Bits(easy)](./easy/3370.md)
 - [3397. Maximum Number of Distinct Elements After Operations(medium)](./medium/3397.md)
 - [3408. Design Task Manager(medium)](./medium/3408.md)
 - [3461. Check If Digits Are Equal in String After Operations I(easy)](./easy/3461.md)
