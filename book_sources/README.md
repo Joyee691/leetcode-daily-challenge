@@ -136,6 +136,7 @@
 - [1482. Minimum Number of Days to Make m Bouquets(medium)](./medium/1482.md)
 - [1488. Avoid Flood in The City(medium)](./medium/1488.md)
 - [1518. Water Bottles(easy)](./easy/1518.md)
+- [1526. Minimum Number of Increments on Subarrays to Form a Target Array(hard)](./hard/1526.md)
 - [1530. Number of Good Leaf Nodes Pairs(medium)](./medium/1530.md)
 - [1552. Magnetic Force Between Two Balls(medium)](./medium/1552.md)
 - [1584. Min Cost to Connect All Points(medium)](./medium/1584.md)

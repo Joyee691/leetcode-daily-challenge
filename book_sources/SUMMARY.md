@@ -193,6 +193,7 @@
   - [778. Swim in Rising Water(hard)](./hard/778.md)
   - [968. Binary Tree Cameras(hard)](./hard/968.md)
   - [1192. Critical Connections in a Network(hard)](./hard/1192.md)
+  - [1526. Minimum Number of Increments on Subarrays to Form a Target Array(hard)](./hard/1526.md)
   - [1912. Design Movie Rental System(hard)](./hard/1912.md)
   - [2197. Replace Non-Coprime Numbers in Array(hard)](./hard/2197.md)
   - [2751. Robot Collisions(hard)](./hard/2751.md)
