@@ -187,6 +187,7 @@
 - [3186. Maximum Total Damage With Spell Casting(medium)](./medium/3186.md)
 - [3227. Vowels Game in a String(medium)](./medium/3227.md)
 - [3264. Final Array State After K Multiplication Operations I(easy)](./easy/3264.md)
+- [3289. The Two Sneaky Numbers of Digitville(easy)](./easy/3289.md)
 - [3346. Maximum Frequency of an Element After Performing Operations I(medium)](./medium/3346.md)
 - [3347. Maximum Frequency of an Element After Performing Operations II(hard)](./hard/3347.md)
 - [3349. Adjacent Increasing Subarrays Detection I(easy)](./easy/3349.md)
