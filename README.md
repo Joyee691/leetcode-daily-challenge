@@ -187,6 +187,7 @@
 - [3100. Water Bottles II(medium)](./book_sources/medium/3100.md)
 - [3147. Taking Maximum Energy From the Mystic Dungeon(medium)](./book_sources/medium/3147.md)
 - [3186. Maximum Total Damage With Spell Casting(medium)](./book_sources/medium/3186.md)
+- [3217. Delete Nodes From Linked List Present in Array(medium)](./book_sources/medium/3217.md)
 - [3227. Vowels Game in a String(medium)](./book_sources/medium/3227.md)
 - [3264. Final Array State After K Multiplication Operations I(easy)](./book_sources/easy/3264.md)
 - [3289. The Two Sneaky Numbers of Digitville(easy)](./book_sources/easy/3289.md)

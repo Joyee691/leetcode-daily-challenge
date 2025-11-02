@@ -172,6 +172,7 @@
   - [3100. Water Bottles II(medium)](./medium/3100.md)
   - [3147. Taking Maximum Energy From the Mystic Dungeon(medium)](./medium/3147.md)
   - [3186. Maximum Total Damage With Spell Casting(medium)](./medium/3186.md)
+  - [3217. Delete Nodes From Linked List Present in Array(medium)](./medium/3217.md)
   - [3227. Vowels Game in a String(medium)](./medium/3227.md)
   - [3264. Final Array State After K Multiplication Operations I(easy)](./easy/3264.md)
   - [3346. Maximum Frequency of an Element After Performing Operations I(medium)](./medium/3346.md)
