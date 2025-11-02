@@ -160,6 +160,7 @@
   - [2191. Sort the Jumbled Numbers(medium)](./medium/2191.md)
   - [2196. Create Binary Tree From Descriptions(medium)](./medium/2196.md)
   - [2221. Find Triangular Sum of an Array(medium)](./medium/2221.md)
+  - [2257. Count Unguarded Cells in the Grid(medium)](./medium/2257.md)
   - [2300. Successful Pairs of Spells and Potions(medium)](./medium/2300.md)
   - [2327. Number of People Aware of a Secret(medium)](./medium/2327.md)
   - [2353. Design a Food Rating System(medium)](./medium/2353.md)
