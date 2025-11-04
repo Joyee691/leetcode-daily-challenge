@@ -194,6 +194,7 @@
 - [3227. Vowels Game in a String(medium)](./book_sources/medium/3227.md)
 - [3264. Final Array State After K Multiplication Operations I(easy)](./book_sources/easy/3264.md)
 - [3289. The Two Sneaky Numbers of Digitville(easy)](./book_sources/easy/3289.md)
+- [3318. Find X-Sum of All K-Long Subarrays I(easy)](./book_sources/easy/3318.md)
 - [3346. Maximum Frequency of an Element After Performing Operations I(medium)](./book_sources/medium/3346.md)
 - [3347. Maximum Frequency of an Element After Performing Operations II(hard)](./book_sources/hard/3347.md)
 - [3349. Adjacent Increasing Subarrays Detection I(easy)](./book_sources/easy/3349.md)
