@@ -25,6 +25,7 @@
 - [20. Valid Parentheses(easy)](./book_sources/easy/20.md)
 - [22. Generate Parentheses(medium)](./book_sources/medium/22.md)
 - [26. Remove Duplicates from Sorted Array(easy)](./book_sources/easy/26.md)
+- [27. Remove Element(easy)](./book_sources/easy/27.md)
 - [29. Divide Two Integers(medium)](./book_sources/medium/29.md)
 - [31. Next Permutation(medium)](./book_sources/medium/31.md)
 - [32. Longest Valid Parentheses(hard)](./book_sources/hard/32.md)
