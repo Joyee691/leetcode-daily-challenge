@@ -8,6 +8,7 @@
   - [20. Valid Parentheses(easy)](./easy/20.md)
   - [26. Remove Duplicates from Sorted Array(easy)](./easy/26.md)
   - [27. Remove Element(easy)](./easy/27.md)
+  - [28. Find the Index of the First Occurrence in a String(easy)](./easy/28.md)
   - [88. Merge Sorted Array(easy)](./easy/88.md)
   - [119. Pascal's Triangle II(easy)](./easy/119.md)
   - [160. Intersection of Two Linked Lists(easy)](./easy/160.md)

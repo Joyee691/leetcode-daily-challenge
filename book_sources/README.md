@@ -24,6 +24,7 @@
 - [22. Generate Parentheses(medium)](./medium/22.md)
 - [26. Remove Duplicates from Sorted Array(easy)](./easy/26.md)
 - [27. Remove Element(easy)](./easy/27.md)
+- [28. Find the Index of the First Occurrence in a String(easy)](./easy/28.md)
 - [29. Divide Two Integers(medium)](./medium/29.md)
 - [31. Next Permutation(medium)](./medium/31.md)
 - [32. Longest Valid Parentheses(hard)](./hard/32.md)
