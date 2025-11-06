@@ -212,6 +212,7 @@
 - [3508. Implement Router(medium)](./book_sources/medium/3508.md)
 - [3516. Find Closest Person(easy)](./book_sources/easy/3516.md)
 - [3541. Find Most Frequent Vowel and Consonant(easy)](./book_sources/easy/3541.md)
+- [3607. Power Grid Maintenance(medium)](./book_sources/medium/3607.md)
 
 ## 使用说明
 
