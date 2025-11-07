@@ -30,6 +30,7 @@
 - [29. Divide Two Integers(medium)](./book_sources/medium/29.md)
 - [31. Next Permutation(medium)](./book_sources/medium/31.md)
 - [32. Longest Valid Parentheses(hard)](./book_sources/hard/32.md)
+- [33. Search in Rotated Sorted Array(medium)](./book_sources/medium/33.md)
 - [46. Permutations(medium)](./book_sources/medium/46.md)
 - [47. Permutations II(medium)](./book_sources/medium/47.md)
 - [51. N-Queens(hard)](./book_sources/hard/51.md)

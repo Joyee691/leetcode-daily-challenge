@@ -73,6 +73,7 @@
   - [22. Generate Parentheses(medium)](./medium/22.md)
   - [29. Divide Two Integers(medium)](./medium/29.md)
   - [31. Next Permutation(medium)](./medium/31.md)
+  - [33. Search in Rotated Sorted Array(medium)](./medium/33.md)
   - [46. Permutations(medium)](./medium/46.md)
   - [47. Permutations II(medium)](./medium/47.md)
   - [59. Spiral Matrix II(medium)](./medium/59.md)
