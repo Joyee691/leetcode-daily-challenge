@@ -170,6 +170,7 @@
 - [2048. Next Greater Numerically Balanced Number(medium)](./medium/2048.md)
 - [2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)](./medium/2096.md)
 - [2125. Number of Laser Beams in a Bank(medium)](./medium/2125.md)
+- [2169. Count Operations to Obtain Zero(easy)](./easy/2169.md)
 - [2191. Sort the Jumbled Numbers(medium)](./medium/2191.md)
 - [2196. Create Binary Tree From Descriptions(medium)](./medium/2196.md)
 - [2197. Replace Non-Coprime Numbers in Array(hard)](./hard/2197.md)
