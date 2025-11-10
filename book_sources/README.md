@@ -213,5 +213,6 @@
 - [3508. Implement Router(medium)](./medium/3508.md)
 - [3516. Find Closest Person(easy)](./easy/3516.md)
 - [3541. Find Most Frequent Vowel and Consonant(easy)](./easy/3541.md)
+- [3542. Minimum Operations to Convert All Elements to Zero(medium)](./medium/3542.md)
 - [3607. Power Grid Maintenance(medium)](./medium/3607.md)
 
