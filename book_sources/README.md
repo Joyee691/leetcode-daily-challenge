@@ -30,6 +30,7 @@
 - [32. Longest Valid Parentheses(hard)](./hard/32.md)
 - [33. Search in Rotated Sorted Array(medium)](./medium/33.md)
 - [34. Find First and Last Position of Element in Sorted Array(medium)](./medium/34.md)
+- [35. Search Insert Position(easy)](./easy/35.md)
 - [46. Permutations(medium)](./medium/46.md)
 - [47. Permutations II(medium)](./medium/47.md)
 - [51. N-Queens(hard)](./hard/51.md)
