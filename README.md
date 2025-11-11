@@ -33,6 +33,7 @@
 - [33. Search in Rotated Sorted Array(medium)](./book_sources/medium/33.md)
 - [34. Find First and Last Position of Element in Sorted Array(medium)](./book_sources/medium/34.md)
 - [35. Search Insert Position(easy)](./book_sources/easy/35.md)
+- [36. Valid Sudoku(medium)](./book_sources/medium/36.md)
 - [46. Permutations(medium)](./book_sources/medium/46.md)
 - [47. Permutations II(medium)](./book_sources/medium/47.md)
 - [51. N-Queens(hard)](./book_sources/hard/51.md)
