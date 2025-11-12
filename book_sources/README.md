@@ -186,6 +186,7 @@
 - [2418. Sort the People(easy)](./easy/2418.md)
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level(medium)](./medium/2471.md)
 - [2598. Smallest Missing Non-negative Integer After Operations(medium)](./medium/2598.md)
+- [2654. Minimum Number of Operations to Make All Array Elements Equal to 1(medium)](./medium/2654.md)
 - [2749. Minimum Operations to Make the Integer Zero(medium)](./medium/2749.md)
 - [2751. Robot Collisions(hard)](./hard/2751.md)
 - [2785. Sort Vowels in a String(medium)](./medium/2785.md)
