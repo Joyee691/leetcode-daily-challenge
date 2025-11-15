@@ -78,6 +78,7 @@
   - [33. Search in Rotated Sorted Array(medium)](./medium/33.md)
   - [34. Find First and Last Position of Element in Sorted Array(medium)](./medium/34.md)
   - [36. Valid Sudoku(medium)](./medium/36.md)
+  - [40. Combination Sum II(medium)](./medium/40.md)
   - [46. Permutations(medium)](./medium/46.md)
   - [47. Permutations II(medium)](./medium/47.md)
   - [59. Spiral Matrix II(medium)](./medium/59.md)
