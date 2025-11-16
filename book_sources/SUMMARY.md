@@ -149,6 +149,7 @@
   - [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts(medium)](./medium/1465.md)
   - [1482. Minimum Number of Days to Make m Bouquets(medium)](./medium/1482.md)
   - [1488. Avoid Flood in The City(medium)](./medium/1488.md)
+  - [1513. Number of Substrings With Only 1s(medium)](./medium/1513.md)
   - [1530. Number of Good Leaf Nodes Pairs(medium)](./medium/1530.md)
   - [1552. Magnetic Force Between Two Balls(medium)](./medium/1552.md)
   - [1578. Minimum Time to Make Rope Colorful(medium)](./medium/1578.md)
