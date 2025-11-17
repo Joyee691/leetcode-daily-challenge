@@ -141,6 +141,7 @@
 - [1380. Lucky Numbers in a Matrix(easy)](./book_sources/easy/1380.md)
 - [1396. Design Underground System(medium)](./book_sources/medium/1396.md)
 - [1423. Maximum Points You Can Obtain from Cards(medium)](./book_sources/medium/1423.md)
+- [1437. Check If All 1's Are at Least Length K Places Away(easy)](./book_sources/easy/1437.md)
 - [1461. Check If a String Contains All Binary Codes of Size K(medium)](./book_sources/medium/1461.md)
 - [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts(medium)](./book_sources/medium/1465.md)
 - [1475. Final Prices With a Special Discount in a Shop(easy)](./book_sources/easy/1475.md)
