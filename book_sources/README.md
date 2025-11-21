@@ -170,6 +170,7 @@
 - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
 - [1733. Minimum Number of People to Teach(medium)](./medium/1733.md)
 - [1912. Design Movie Rental System(hard)](./hard/1912.md)
+- [1930. Unique Length-3 Palindromic Subsequences(medium)](./medium/1930.md)
 - [1935. Maximum Number of Words You Can Type(easy)](./easy/1935.md)
 - [2011. Final Value of Variable After Performing Operations(easy)](./easy/2011.md)
 - [2043. Simple Bank System(medium)](./medium/2043.md)
