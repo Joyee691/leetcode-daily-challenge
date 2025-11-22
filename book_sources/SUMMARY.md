@@ -53,6 +53,7 @@
   - [2273. Find Resultant Array After Removing Anagrams(easy)](./easy/2273.md)
   - [2418. Sort the People(easy)](./easy/2418.md)
   - [3005. Count Elements With Maximum Frequency(easy)](./easy/3005.md)
+  - [3190. Find Minimum Operations to Make All Elements Divisible by Three(easy)](./easy/3190.md)
   - [3289. The Two Sneaky Numbers of Digitville(easy)](./easy/3289.md)
   - [3318. Find X-Sum of All K-Long Subarrays I(easy)](./easy/3318.md)
   - [3349. Adjacent Increasing Subarrays Detection I(easy)](./easy/3349.md)
