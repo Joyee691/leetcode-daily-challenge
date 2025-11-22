@@ -95,6 +95,7 @@
   - [120. Triangle(medium)](./medium/120.md)
   - [128. Longest Consecutive Sequence(medium)](./medium/128.md)
   - [138. Copy List with Random Pointer(medium)](./medium/138.md)
+  - [146. LRU Cache(medium)](./medium/146.md)
   - [152. Maximum Product Subarray(medium)](./medium/152.md)
   - [165. Compare Version Numbers(medium)](./medium/165.md)
   - [166. Fraction to Recurring Decimal(medium)](./medium/166.md)

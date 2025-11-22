@@ -52,6 +52,7 @@
 - [128. Longest Consecutive Sequence(medium)](./book_sources/medium/128.md)
 - [135. Candy(hard)](./book_sources/hard/135.md)
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
+- [146. LRU Cache(medium)](./book_sources/medium/146.md)
 - [152. Maximum Product Subarray(medium)](./book_sources/medium/152.md)
 - [160. Intersection of Two Linked Lists(easy)](./book_sources/easy/160.md)
 - [165. Compare Version Numbers(medium)](./book_sources/medium/165.md)
