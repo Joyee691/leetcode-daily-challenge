@@ -130,6 +130,7 @@
 - [1202. Smallest String With Swaps(medium)](./medium/1202.md)
 - [1209. Remove All Adjacent Duplicates in String II(medium)](./medium/1209.md)
 - [1260. Shift 2D Grid(easy)](./easy/1260.md)
+- [1262. Greatest Sum Divisible by Three(medium)](./medium/1262.md)
 - [1268. Search Suggestions System(medium)](./medium/1268.md)
 - [1302. Deepest Leaves Sum(medium)](./medium/1302.md)
 - [1304. Find N Unique Integers Sum up to Zero(easy)](./easy/1304.md)

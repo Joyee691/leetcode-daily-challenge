@@ -145,6 +145,7 @@
   - [1190. Reverse Substrings Between Each Pair of Parentheses(medium)](./medium/1190.md)
   - [1202. Smallest String With Swaps(medium)](./medium/1202.md)
   - [1209. Remove All Adjacent Duplicates in String II(medium)](./medium/1209.md)
+  - [1262. Greatest Sum Divisible by Three(medium)](./medium/1262.md)
   - [1268. Search Suggestions System(medium)](./medium/1268.md)
   - [1302. Deepest Leaves Sum(medium)](./medium/1302.md)
   - [1352. Product of the Last K Numbers(medium)](./medium/1352.md)
