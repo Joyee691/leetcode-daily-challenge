@@ -31,6 +31,7 @@
   - [897. Increasing Order Search Tree(easy)](./easy/897.md)
   - [905. Sort Array By Parity(easy)](./easy/905.md)
   - [976. Largest Perimeter Triangle(easy)](./easy/976.md)
+  - [1018. Binary Prefix Divisible By 5(easy)](./easy/1018.md)
   - [1046. Last Stone Weight(easy)](./easy/1046.md)
   - [1260. Shift 2D Grid(easy)](./easy/1260.md)
   - [1304. Find N Unique Integers Sum up to Zero(easy)](./easy/1304.md)
