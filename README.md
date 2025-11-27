@@ -225,6 +225,7 @@
 - [3350. Adjacent Increasing Subarrays Detection II(medium)](./book_sources/medium/3350.md)
 - [3354. Make Array Elements Equal to Zero(easy)](./book_sources/easy/3354.md)
 - [3370. Smallest Number With All Set Bits(easy)](./book_sources/easy/3370.md)
+- [3381. Maximum Subarray Sum With Length Divisible by K(medium)](./book_sources/medium/3381.md)
 - [3397. Maximum Number of Distinct Elements After Operations(medium)](./book_sources/medium/3397.md)
 - [3408. Design Task Manager(medium)](./book_sources/medium/3408.md)
 - [3461. Check If Digits Are Equal in String After Operations I(easy)](./book_sources/easy/3461.md)

@@ -205,6 +205,7 @@
   - [3264. Final Array State After K Multiplication Operations I(easy)](./easy/3264.md)
   - [3346. Maximum Frequency of an Element After Performing Operations I(medium)](./medium/3346.md)
   - [3350. Adjacent Increasing Subarrays Detection II(medium)](./medium/3350.md)
+  - [3381. Maximum Subarray Sum With Length Divisible by K(medium)](./medium/3381.md)
   - [3397. Maximum Number of Distinct Elements After Operations(medium)](./medium/3397.md)
   - [3408. Design Task Manager(medium)](./medium/3408.md)
   - [3484. Design Spreadsheet(medium)](./medium/3484.md)
