@@ -232,6 +232,7 @@
 - [3484. Design Spreadsheet(medium)](./book_sources/medium/3484.md)
 - [3495. Minimum Operations to Make Array Elements Zero(hard)](./book_sources/hard/3495.md)
 - [3508. Implement Router(medium)](./book_sources/medium/3508.md)
+- [3512. Minimum Operations to Make Array Sum Divisible by K(easy)](./book_sources/easy/3512.md)
 - [3516. Find Closest Person(easy)](./book_sources/easy/3516.md)
 - [3541. Find Most Frequent Vowel and Consonant(easy)](./book_sources/easy/3541.md)
 - [3542. Minimum Operations to Convert All Elements to Zero(medium)](./book_sources/medium/3542.md)

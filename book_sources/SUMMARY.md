@@ -61,6 +61,7 @@
   - [3354. Make Array Elements Equal to Zero(easy)](./easy/3354.md)
   - [3370. Smallest Number With All Set Bits(easy)](./easy/3370.md)
   - [3461. Check If Digits Are Equal in String After Operations I(easy)](./easy/3461.md)
+  - [3512. Minimum Operations to Make Array Sum Divisible by K(easy)](./easy/3512.md)
   - [3516. Find Closest Person(easy)](./easy/3516.md)
   - [3541. Find Most Frequent Vowel and Consonant(easy)](./easy/3541.md)
 - [Medium](medium/README.md)
