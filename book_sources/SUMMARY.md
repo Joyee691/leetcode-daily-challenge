@@ -221,6 +221,7 @@
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)
   - [51. N-Queens(hard)](./hard/51.md)
   - [52. N-Queens II(hard)](./hard/52.md)
+  - [124. Binary Tree Maximum Path Sum(hard)](./hard/124.md)
   - [135. Candy(hard)](./hard/135.md)
   - [329. Longest Increasing Path in a Matrix(hard)](./hard/329.md)
   - [330. Patching Array(hard)](./hard/330.md)

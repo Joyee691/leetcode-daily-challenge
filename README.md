@@ -51,6 +51,7 @@
 - [117. Populating Next Right Pointers in Each Node II(medium)](./book_sources/medium/117.md)
 - [119. Pascal's Triangle II(easy)](./easy/119.md)
 - [120. Triangle(medium)](./book_sources/medium/120.md)
+- [124. Binary Tree Maximum Path Sum(hard)](./book_sources/hard/124.md)
 - [128. Longest Consecutive Sequence(medium)](./book_sources/medium/128.md)
 - [131. Palindrome Partitioning(medium)](./book_sources/medium/131.md)
 - [135. Candy(hard)](./book_sources/hard/135.md)
