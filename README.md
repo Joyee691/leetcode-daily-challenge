@@ -52,6 +52,7 @@
 - [119. Pascal's Triangle II(easy)](./easy/119.md)
 - [120. Triangle(medium)](./book_sources/medium/120.md)
 - [128. Longest Consecutive Sequence(medium)](./book_sources/medium/128.md)
+- [131. Palindrome Partitioning(medium)](./book_sources/medium/131.md)
 - [135. Candy(hard)](./book_sources/hard/135.md)
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 - [146. LRU Cache(medium)](./book_sources/medium/146.md)
