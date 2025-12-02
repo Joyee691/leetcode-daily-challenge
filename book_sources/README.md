@@ -45,6 +45,7 @@
 - [78. Subsets(medium)](./medium/78.md)
 - [81. Search in Rotated Sorted Array II(medium)](./medium/81.md)
 - [88. Merge Sorted Array(easy)](./easy/88.md)
+- [98. Validate Binary Search Tree(medium)](./medium/98.md)
 - [99. Recover Binary Search Tree(medium)](./medium/99.md)
 - [117. Populating Next Right Pointers in Each Node II(medium)](./medium/117.md)
 - [119. Pascal's Triangle II(easy)](./easy/119.md)
