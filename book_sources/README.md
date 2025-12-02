@@ -47,6 +47,7 @@
 - [88. Merge Sorted Array(easy)](./easy/88.md)
 - [98. Validate Binary Search Tree(medium)](./medium/98.md)
 - [99. Recover Binary Search Tree(medium)](./medium/99.md)
+- [101. Symmetric Tree(easy)](./easy/101.md)
 - [117. Populating Next Right Pointers in Each Node II(medium)](./medium/117.md)
 - [119. Pascal's Triangle II(easy)](./easy/119.md)
 - [120. Triangle(medium)](./medium/120.md)
