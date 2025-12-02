@@ -57,6 +57,7 @@
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 - [146. LRU Cache(medium)](./book_sources/medium/146.md)
 - [152. Maximum Product Subarray(medium)](./book_sources/medium/152.md)
+- [153. Find Minimum in Rotated Sorted Array(medium)](./book_sources/medium/153.md)
 - [160. Intersection of Two Linked Lists(easy)](./book_sources/easy/160.md)
 - [165. Compare Version Numbers(medium)](./book_sources/medium/165.md)
 - [166. Fraction to Recurring Decimal(medium)](./book_sources/medium/166.md)

@@ -102,6 +102,7 @@
   - [138. Copy List with Random Pointer(medium)](./medium/138.md)
   - [146. LRU Cache(medium)](./medium/146.md)
   - [152. Maximum Product Subarray(medium)](./medium/152.md)
+  - [153. Find Minimum in Rotated Sorted Array(medium)](./medium/153.md)
   - [165. Compare Version Numbers(medium)](./medium/165.md)
   - [166. Fraction to Recurring Decimal(medium)](./medium/166.md)
   - [167. Two Sum II - Input Array Is Sorted(medium)](./medium/167.md)
