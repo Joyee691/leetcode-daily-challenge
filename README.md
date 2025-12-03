@@ -51,6 +51,7 @@
 - [99. Recover Binary Search Tree(medium)](./book_sources/medium/99.md)
 - [101. Symmetric Tree(easy)](./book_sources/easy/101.md)
 - [102. Binary Tree Level Order Traversal(medium)](./book_sources/medium/102.md)
+- [104. Maximum Depth of Binary Tree(easy)](./book_sources/easy/104.md)
 - [117. Populating Next Right Pointers in Each Node II(medium)](./book_sources/medium/117.md)
 - [119. Pascal's Triangle II(easy)](./easy/119.md)
 - [120. Triangle(medium)](./book_sources/medium/120.md)
