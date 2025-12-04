@@ -99,6 +99,7 @@
   - [98. Validate Binary Search Tree(medium)](./medium/98.md)
   - [99. Recover Binary Search Tree(medium)](./medium/99.md)
   - [102. Binary Tree Level Order Traversal(medium)](./medium/102.md)
+  - [105. Construct Binary Tree from Preorder and Inorder Traversal(medium)](./medium/105.md)
   - [117. Populating Next Right Pointers in Each Node II(medium)](./medium/117.md)
   - [120. Triangle(medium)](./medium/120.md)
   - [128. Longest Consecutive Sequence(medium)](./medium/128.md)
