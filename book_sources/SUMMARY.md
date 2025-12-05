@@ -13,6 +13,7 @@
   - [88. Merge Sorted Array(easy)](./easy/88.md)
   - [101. Symmetric Tree(easy)](./easy/101.md)
   - [104. Maximum Depth of Binary Tree(easy)](./easy/104.md)
+  - [108. Convert Sorted Array to Binary Search Tree(easy)](./easy/108.md)
   - [119. Pascal's Triangle II(easy)](./easy/119.md)
   - [160. Intersection of Two Linked Lists(easy)](./easy/160.md)
   - [191. Number of 1 Bits(easy)](./easy/191.md)
