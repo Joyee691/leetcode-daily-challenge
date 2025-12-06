@@ -76,6 +76,7 @@
 - [225. Implement Stack using Queues(easy)](./easy/225.md)
 - [226. Invert Binary Tree(easy)](./easy/226.md)
 - [230. Kth Smallest Element in a BST(medium)](./medium/230.md)
+- [236. Lowest Common Ancestor of a Binary Tree(medium)](./medium/236.md)
 - [268. Missing Number(easy)](./easy/268.md)
 - [284. Peeking Iterator(medium)](./medium/284.md)
 - [287. Find the Duplicate Number(medium)](./medium/287.md)
