@@ -74,6 +74,7 @@
 - [215. Kth Largest Element in an Array(medium)](./medium/215.md)
 - [216. Combination Sum III(medium)](./medium/216.md)
 - [225. Implement Stack using Queues(easy)](./easy/225.md)
+- [226. Invert Binary Tree(easy)](./easy/226.md)
 - [230. Kth Smallest Element in a BST(medium)](./medium/230.md)
 - [268. Missing Number(easy)](./easy/268.md)
 - [284. Peeking Iterator(medium)](./medium/284.md)
