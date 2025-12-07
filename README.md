@@ -105,6 +105,7 @@
 - [474. Ones and Zeroes(medium)](./book_sources/medium/474.md)
 - [535. Encode and Decode TinyURL(medium)](./book_sources/medium/535.md)
 - [538. Convert BST to Greater Tree(medium)](./book_sources/medium/538.md)
+- [543. Diameter of Binary Tree(easy)](./book_sources/easy/543.md)
 - [581. Shortest Unsorted Continuous Subarray(medium)](./book_sources/medium/581.md)
 - [583. Delete Operation for Two Strings(medium)](./book_sources/medium/583.md)
 - [611. Valid Triangle Number(medium)](./book_sources/medium/611.md)
