@@ -40,6 +40,7 @@
 - [52. N-Queens II(hard)](./hard/52.md)
 - [59. Spiral Matrix II(medium)](./medium/59.md)
 - [61. Rotate List(medium)](./medium/61.md)
+- [62. Unique Paths(medium)](./medium/62.md)
 - [63. Unique Paths II(medium)](./medium/63.md)
 - [74. Search a 2D Matrix(medium)](./medium/74.md)
 - [78. Subsets(medium)](./medium/78.md)
