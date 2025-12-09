@@ -60,6 +60,7 @@
 - [108. Convert Sorted Array to Binary Search Tree(easy)](./book_sources/easy/108.md)
 - [114. Flatten Binary Tree to Linked List(medium)](./book_sources/medium/114.md)
 - [117. Populating Next Right Pointers in Each Node II(medium)](./book_sources/medium/117.md)
+- [118. Pascal's Triangle(easy)](./book_sources/easy/118.md)
 - [119. Pascal's Triangle II(easy)](./easy/119.md)
 - [120. Triangle(medium)](./book_sources/medium/120.md)
 - [124. Binary Tree Maximum Path Sum(hard)](./book_sources/hard/124.md)
