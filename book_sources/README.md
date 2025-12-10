@@ -85,6 +85,7 @@
 - [230. Kth Smallest Element in a BST(medium)](./medium/230.md)
 - [236. Lowest Common Ancestor of a Binary Tree(medium)](./medium/236.md)
 - [268. Missing Number(easy)](./easy/268.md)
+- [279. Perfect Squares(medium)](./medium/279.md)
 - [284. Peeking Iterator(medium)](./medium/284.md)
 - [287. Find the Duplicate Number(medium)](./medium/287.md)
 - [289. Game of Life(medium)](./medium/289.md)
