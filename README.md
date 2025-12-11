@@ -156,6 +156,7 @@
 - [1052. Grumpy Bookstore Owner(medium)](./book_sources/medium/1052.md)
 - [1091. Shortest Path in Binary Matrix(medium)](./book_sources/medium/1091.md)
 - [1110. Delete Nodes And Return Forest(medium)](./book_sources/medium/1110.md)
+- [1143. Longest Common Subsequence(medium)](./book_sources/medium/1143.md)
 - [1190. Reverse Substrings Between Each Pair of Parentheses(medium)](./book_sources/medium/1190.md)
 - [1192. Critical Connections in a Network(hard)](./book_sources/hard/1192.md)
 - [1202. Smallest String With Swaps(medium)](./book_sources/medium/1202.md)
