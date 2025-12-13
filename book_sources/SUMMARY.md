@@ -166,6 +166,7 @@
   - [912. Sort an Array(medium)](./medium/912.md)
   - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
   - [966. Vowel Spellchecker(medium)](./medium/966.md)
+  - [994. Rotting Oranges(medium)](./medium/994.md)
   - [1015. Smallest Integer Divisible by K(medium)](./medium/1015.md)
   - [1029. Two City Scheduling(medium)](./medium/1029.md)
   - [1039. Minimum Score Triangulation of Polygon(medium)](./medium/1039.md)

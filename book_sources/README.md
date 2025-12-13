@@ -147,6 +147,7 @@
 - [966. Vowel Spellchecker(medium)](./medium/966.md)
 - [968. Binary Tree Cameras(hard)](./hard/968.md)
 - [976. Largest Perimeter Triangle(easy)](./easy/976.md)
+- [994. Rotting Oranges(medium)](./medium/994.md)
 - [1015. Smallest Integer Divisible by K(medium)](./medium/1015.md)
 - [1018. Binary Prefix Divisible By 5(easy)](./easy/1018.md)
 - [1029. Two City Scheduling(medium)](./medium/1029.md)
