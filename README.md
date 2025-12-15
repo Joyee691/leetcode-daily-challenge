@@ -65,6 +65,7 @@
 - [118. Pascal's Triangle(easy)](./book_sources/easy/118.md)
 - [119. Pascal's Triangle II(easy)](./easy/119.md)
 - [120. Triangle(medium)](./book_sources/medium/120.md)
+- [121. Best Time to Buy and Sell Stock(easy)](./book_sources/easy/121.md)
 - [124. Binary Tree Maximum Path Sum(hard)](./book_sources/hard/124.md)
 - [128. Longest Consecutive Sequence(medium)](./book_sources/medium/128.md)
 - [131. Palindrome Partitioning(medium)](./book_sources/medium/131.md)

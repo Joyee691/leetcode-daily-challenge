@@ -63,6 +63,7 @@
 - [118. Pascal's Triangle(easy)](./easy/118.md)
 - [119. Pascal's Triangle II(easy)](./easy/119.md)
 - [120. Triangle(medium)](./medium/120.md)
+- [121. Best Time to Buy and Sell Stock(easy)](./easy/121.md)
 - [124. Binary Tree Maximum Path Sum(hard)](./hard/124.md)
 - [128. Longest Consecutive Sequence(medium)](./medium/128.md)
 - [131. Palindrome Partitioning(medium)](./medium/131.md)
