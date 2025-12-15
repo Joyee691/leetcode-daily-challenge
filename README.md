@@ -41,6 +41,7 @@
 - [47. Permutations II(medium)](./book_sources/medium/47.md)
 - [51. N-Queens(hard)](./book_sources/hard/51.md)
 - [52. N-Queens II(hard)](./book_sources/hard/52.md)
+- [55. Jump Game(medium)](./book_sources/medium/55.md)
 - [59. Spiral Matrix II(medium)](./book_sources/medium/59.md)
 - [61. Rotate List(medium)](./book_sources/medium/61.md)
 - [62. Unique Paths(medium)](./book_sources/medium/62.md)
