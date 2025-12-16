@@ -136,6 +136,7 @@
 - [706. Design HashMap(easy)](./easy/706.md)
 - [717. 1-bit and 2-bit Characters(easy)](./easy/717.md)
 - [726. Number of Atoms(hard)](./hard/726.md)
+- [763. Partition Labels(medium)](./medium/763.md)
 - [769. Max Chunks To Make Sorted(medium)](./medium/769.md)
 - [778. Swim in Rising Water(hard)](./hard/778.md)
 - [785. Is Graph Bipartite?(medium)](./medium/785.md)
