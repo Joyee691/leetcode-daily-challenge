@@ -98,6 +98,7 @@
 - [284. Peeking Iterator(medium)](./book_sources/medium/284.md)
 - [287. Find the Duplicate Number(medium)](./book_sources/medium/287.md)
 - [289. Game of Life(medium)](./book_sources/medium/289.md)
+- [295. Find Median from Data Stream(hard)](./book_sources/hard/295.md)
 - [300. Longest Increasing Subsequence(medium)](./book_sources/medium/300.md)
 - [304. Range Sum Query 2D - Immutable(medium)](./book_sources/medium/304.md)
 - [318. Maximum Product of Word Lengths(medium)](./book_sources/medium/318.md)

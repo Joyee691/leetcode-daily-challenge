@@ -256,6 +256,7 @@
   - [52. N-Queens II(hard)](./hard/52.md)
   - [124. Binary Tree Maximum Path Sum(hard)](./hard/124.md)
   - [135. Candy(hard)](./hard/135.md)
+  - [295. Find Median from Data Stream(hard)](./hard/295.md)
   - [329. Longest Increasing Path in a Matrix(hard)](./hard/329.md)
   - [330. Patching Array(hard)](./hard/330.md)
   - [354. Russian Doll Envelopes(hard)](./hard/354.md)
