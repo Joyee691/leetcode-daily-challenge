@@ -22,6 +22,7 @@
 - [19. Remove Nth Node From End of List(medium)](./medium/19.md)
 - [20. Valid Parentheses(easy)](./easy/20.md)
 - [22. Generate Parentheses(medium)](./medium/22.md)
+- [23. Merge k Sorted Lists(hard)](./hard/23.md)
 - [26. Remove Duplicates from Sorted Array(easy)](./easy/26.md)
 - [27. Remove Element(easy)](./easy/27.md)
 - [28. Find the Index of the First Occurrence in a String(easy)](./easy/28.md)

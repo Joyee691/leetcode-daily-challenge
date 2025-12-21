@@ -251,6 +251,7 @@
   - [3542. Minimum Operations to Convert All Elements to Zero(medium)](./medium/3542.md)
   - [3607. Power Grid Maintenance(medium)](./medium/3607.md)
 - [Hard](hard/README.md)
+  - [23. Merge k Sorted Lists(hard)](./hard/23.md)
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)
   - [51. N-Queens(hard)](./hard/51.md)
   - [52. N-Queens II(hard)](./hard/52.md)
