@@ -6,6 +6,7 @@
   - [9. Palindrome Number(easy)](./easy/9.md)
   - [14. Longest Common Prefix(easy)](./easy/14.md)
   - [20. Valid Parentheses(easy)](./easy/20.md)
+  - [21. Merge Two Sorted Lists(easy)](./easy/21.md)
   - [26. Remove Duplicates from Sorted Array(easy)](./easy/26.md)
   - [27. Remove Element(easy)](./easy/27.md)
   - [28. Find the Index of the First Occurrence in a String(easy)](./easy/28.md)
