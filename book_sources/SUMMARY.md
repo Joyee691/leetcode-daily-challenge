@@ -88,6 +88,7 @@
   - [18. 4Sum(medium)](./medium/18.md)
   - [19. Remove Nth Node From End of List(medium)](./medium/19.md)
   - [22. Generate Parentheses(medium)](./medium/22.md)
+  - [24. Swap Nodes in Pairs(medium)](./medium/24.md)
   - [29. Divide Two Integers(medium)](./medium/29.md)
   - [31. Next Permutation(medium)](./medium/31.md)
   - [33. Search in Rotated Sorted Array(medium)](./medium/33.md)

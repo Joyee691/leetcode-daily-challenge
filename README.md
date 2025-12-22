@@ -26,6 +26,7 @@
 - [21. Merge Two Sorted Lists(easy)](./book_sources/easy/21.md)
 - [22. Generate Parentheses(medium)](./book_sources/medium/22.md)
 - [23. Merge k Sorted Lists(hard)](./book_sources/hard/23.md)
+- [24. Swap Nodes in Pairs(medium)](./book_sources/medium/24.md)
 - [26. Remove Duplicates from Sorted Array(easy)](./book_sources/easy/26.md)
 - [27. Remove Element(easy)](./book_sources/easy/27.md)
 - [28. Find the Index of the First Occurrence in a String(easy)](./book_sources/easy/28.md)
