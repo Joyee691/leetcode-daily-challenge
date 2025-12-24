@@ -79,6 +79,7 @@
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 - [139. Word Break(medium)](./book_sources/medium/139.md)
 - [141. Linked List Cycle(easy)](./book_sources/easy/141.md)
+- [142. Linked List Cycle II(medium)](./book_sources/medium/142.md)
 - [146. LRU Cache(medium)](./book_sources/medium/146.md)
 - [152. Maximum Product Subarray(medium)](./book_sources/medium/152.md)
 - [153. Find Minimum in Rotated Sorted Array(medium)](./book_sources/medium/153.md)

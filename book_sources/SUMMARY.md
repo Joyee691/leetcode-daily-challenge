@@ -123,6 +123,7 @@
   - [131. Palindrome Partitioning(medium)](./medium/131.md)
   - [138. Copy List with Random Pointer(medium)](./medium/138.md)
   - [139. Word Break(medium)](./medium/139.md)
+  - [142. Linked List Cycle II(medium)](./medium/142.md)
   - [146. LRU Cache(medium)](./medium/146.md)
   - [152. Maximum Product Subarray(medium)](./medium/152.md)
   - [153. Find Minimum in Rotated Sorted Array(medium)](./medium/153.md)
