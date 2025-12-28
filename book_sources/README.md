@@ -90,6 +90,7 @@
 - [198. House Robber(medium)](./medium/198.md)
 - [199. Binary Tree Right Side View(medium)](./medium/199.md)
 - [200. Number of Islands(medium)](./medium/200.md)
+- [206. Reverse Linked List(easy)](./easy/206.md)
 - [207. Course Schedule(medium)](./medium/207.md)
 - [215. Kth Largest Element in an Array(medium)](./medium/215.md)
 - [216. Combination Sum III(medium)](./medium/216.md)

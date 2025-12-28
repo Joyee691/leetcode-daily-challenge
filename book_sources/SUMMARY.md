@@ -22,6 +22,7 @@
   - [141. Linked List Cycle(easy)](./easy/141.md)
   - [160. Intersection of Two Linked Lists(easy)](./easy/160.md)
   - [191. Number of 1 Bits(easy)](./easy/191.md)
+  - [206. Reverse Linked List(easy)](./easy/206.md)
   - [225. Implement Stack using Queues(easy)](./easy/225.md)
   - [226. Invert Binary Tree(easy)](./easy/226.md)
   - [268. Missing Number(easy)](./easy/268.md)
