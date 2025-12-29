@@ -99,6 +99,7 @@
 - [225. Implement Stack using Queues(easy)](./book_sources/easy/225.md)
 - [226. Invert Binary Tree(easy)](./book_sources/easy/226.md)
 - [230. Kth Smallest Element in a BST(medium)](./book_sources/medium/230.md)
+- [234. Palindrome Linked List(easy)](./book_sources/easy/234.md)
 - [236. Lowest Common Ancestor of a Binary Tree(medium)](./book_sources/medium/236.md)
 - [268. Missing Number(easy)](./book_sources/easy/268.md)
 - [279. Perfect Squares(medium)](./book_sources/medium/279.md)
