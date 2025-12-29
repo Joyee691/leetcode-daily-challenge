@@ -102,6 +102,7 @@
   - [45. Jump Game II(medium)](./medium/45.md)
   - [46. Permutations(medium)](./medium/46.md)
   - [47. Permutations II(medium)](./medium/47.md)
+  - [48. Rotate Image(medium)](./medium/48.md)
   - [49. Group Anagrams(medium)](./medium/49.md)
   - [53. Maximum Subarray(medium)](./medium/53.md)
   - [55. Jump Game(medium)](./medium/55.md)

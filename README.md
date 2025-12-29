@@ -43,6 +43,7 @@
 - [45. Jump Game II(medium)](./book_sources/medium/45.md)
 - [46. Permutations(medium)](./book_sources/medium/46.md)
 - [47. Permutations II(medium)](./book_sources/medium/47.md)
+- [48. Rotate Image(medium)](./book_sources/medium/48.md)
 - [49. Group Anagrams(medium)](./book_sources/medium/49.md)
 - [51. N-Queens(hard)](./book_sources/hard/51.md)
 - [52. N-Queens II(hard)](./book_sources/hard/52.md)
