@@ -46,6 +46,7 @@
 - [51. N-Queens(hard)](./hard/51.md)
 - [52. N-Queens II(hard)](./hard/52.md)
 - [53. Maximum Subarray(medium)](./medium/53.md)
+- [54. Spiral Matrix(medium)](./medium/54.md)
 - [55. Jump Game(medium)](./medium/55.md)
 - [59. Spiral Matrix II(medium)](./medium/59.md)
 - [61. Rotate List(medium)](./medium/61.md)
