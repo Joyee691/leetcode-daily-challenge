@@ -57,6 +57,7 @@
 - [64. Minimum Path Sum(medium)](./book_sources/medium/64.md)
 - [70. Climbing Stairs(easy)](./book_sources/easy/70.md)
 - [72. Edit Distance(medium)](./book_sources/medium/72.md)
+- [73. Set Matrix Zeroes(medium)](./book_sources/medium/73.md)
 - [74. Search a 2D Matrix(medium)](./book_sources/medium/74.md)
 - [78. Subsets(medium)](./book_sources/medium/78.md)
 - [81. Search in Rotated Sorted Array II(medium)](./book_sources/medium/81.md)

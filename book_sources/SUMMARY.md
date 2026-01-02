@@ -113,6 +113,7 @@
   - [63. Unique Paths II(medium)](./medium/63.md)
   - [64. Minimum Path Sum(medium)](./medium/64.md)
   - [72. Edit Distance(medium)](./medium/72.md)
+  - [73. Set Matrix Zeroes(medium)](./medium/73.md)
   - [74. Search a 2D Matrix(medium)](./medium/74.md)
   - [78. Subsets(medium)](./medium/78.md)
   - [81. Search in Rotated Sorted Array II(medium)](./medium/81.md)
