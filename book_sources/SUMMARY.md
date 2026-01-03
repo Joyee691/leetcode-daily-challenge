@@ -266,6 +266,7 @@
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)
   - [51. N-Queens(hard)](./hard/51.md)
   - [52. N-Queens II(hard)](./hard/52.md)
+  - [76. Minimum Window Substring(hard)](./hard/76.md)
   - [124. Binary Tree Maximum Path Sum(hard)](./hard/124.md)
   - [135. Candy(hard)](./hard/135.md)
   - [295. Find Median from Data Stream(hard)](./hard/295.md)
