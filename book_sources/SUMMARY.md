@@ -268,6 +268,7 @@
   - [51. N-Queens(hard)](./hard/51.md)
   - [52. N-Queens II(hard)](./hard/52.md)
   - [76. Minimum Window Substring(hard)](./hard/76.md)
+  - [84. Largest Rectangle in Histogram(hard)](./hard/84.md)
   - [124. Binary Tree Maximum Path Sum(hard)](./hard/124.md)
   - [135. Candy(hard)](./hard/135.md)
   - [239. Sliding Window Maximum(hard)](./hard/239.md)

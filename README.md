@@ -62,6 +62,7 @@
 - [76. Minimum Window Substring(hard)](./book_sources/hard/76.md)
 - [78. Subsets(medium)](./book_sources/medium/78.md)
 - [81. Search in Rotated Sorted Array II(medium)](./book_sources/medium/81.md)
+- [84. Largest Rectangle in Histogram(hard)](./book_sources/hard/84.md)
 - [88. Merge Sorted Array(easy)](./book_sources/easy/88.md)
 - [98. Validate Binary Search Tree(medium)](./book_sources/medium/98.md)
 - [99. Recover Binary Search Tree(medium)](./book_sources/medium/99.md)
