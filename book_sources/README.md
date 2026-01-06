@@ -124,6 +124,7 @@
 - [347. Top K Frequent Elements(medium)](./medium/347.md)
 - [354. Russian Doll Envelopes(hard)](./hard/354.md)
 - [376. Wiggle Subsequence(medium)](./medium/376.md)
+- [394. Decode String(medium)](./medium/394.md)
 - [399. Evaluate Division(medium)](./medium/399.md)
 - [406. Queue Reconstruction by Height(medium)](./medium/406.md)
 - [407. Trapping Rain Water II(hard)](./hard/407.md)
