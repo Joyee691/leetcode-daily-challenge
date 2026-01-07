@@ -178,6 +178,7 @@
   - [647. Palindromic Substrings(medium)](./medium/647.md)
   - [665. Non-decreasing Array(medium)](./medium/665.md)
   - [669. Trim a Binary Search Tree(medium)](./medium/669.md)
+  - [739. Daily Temperatures(medium)](./medium/739.md)
   - [763. Partition Labels(medium)](./medium/763.md)
   - [769. Max Chunks To Make Sorted(medium)](./medium/769.md)
   - [785. Is Graph Bipartite?(medium)](./medium/785.md)
