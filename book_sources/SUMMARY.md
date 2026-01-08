@@ -268,6 +268,7 @@
   - [23. Merge k Sorted Lists(hard)](./hard/23.md)
   - [25. Reverse Nodes in k-Group(hard)](./hard/25.md)
   - [32. Longest Valid Parentheses(hard)](./hard/32.md)
+  - [42. Trapping Rain Water(hard)](./hard/42.md)
   - [51. N-Queens(hard)](./hard/51.md)
   - [52. N-Queens II(hard)](./hard/52.md)
   - [76. Minimum Window Substring(hard)](./hard/76.md)
