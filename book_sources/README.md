@@ -110,6 +110,7 @@
 - [240. Search a 2D Matrix II(medium)](./medium/240.md)
 - [268. Missing Number(easy)](./easy/268.md)
 - [279. Perfect Squares(medium)](./medium/279.md)
+- [283. Move Zeroes(easy)](./easy/283.md)
 - [284. Peeking Iterator(medium)](./medium/284.md)
 - [287. Find the Duplicate Number(medium)](./medium/287.md)
 - [289. Game of Life(medium)](./medium/289.md)
