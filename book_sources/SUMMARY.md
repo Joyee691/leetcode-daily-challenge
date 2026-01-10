@@ -142,6 +142,7 @@
   - [199. Binary Tree Right Side View(medium)](./medium/199.md)
   - [200. Number of Islands(medium)](./medium/200.md)
   - [207. Course Schedule(medium)](./medium/207.md)
+  - [208. Implement Trie (Prefix Tree)(medium)](./medium/208.md)
   - [215. Kth Largest Element in an Array(medium)](./medium/215.md)
   - [216. Combination Sum III(medium)](./medium/216.md)
   - [230. Kth Smallest Element in a BST(medium)](./medium/230.md)
