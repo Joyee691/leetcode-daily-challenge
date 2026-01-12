@@ -40,6 +40,7 @@
 - [36. Valid Sudoku(medium)](./book_sources/medium/36.md)
 - [39. Combination Sum(medium)](./book_sources/medium/39.md)
 - [40. Combination Sum II(medium)](./book_sources/medium/40.md)
+- [41. First Missing Positive(hard)](./book_sources/hard/41.md)
 - [42. Trapping Rain Water(hard)](./book_sources/hard/42.md)
 - [45. Jump Game II(medium)](./book_sources/medium/45.md)
 - [46. Permutations(medium)](./book_sources/medium/46.md)
