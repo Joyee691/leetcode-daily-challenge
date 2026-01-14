@@ -108,6 +108,7 @@
   - [53. Maximum Subarray(medium)](./medium/53.md)
   - [54. Spiral Matrix(medium)](./medium/54.md)
   - [55. Jump Game(medium)](./medium/55.md)
+  - [56. Merge Intervals(medium)](./medium/56.md)
   - [59. Spiral Matrix II(medium)](./medium/59.md)
   - [61. Rotate List(medium)](./medium/61.md)
   - [62. Unique Paths(medium)](./medium/62.md)
