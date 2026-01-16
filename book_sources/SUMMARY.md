@@ -22,6 +22,7 @@
   - [136. Single Number(easy)](./easy/136.md)
   - [141. Linked List Cycle(easy)](./easy/141.md)
   - [160. Intersection of Two Linked Lists(easy)](./easy/160.md)
+  - [169. Majority Element(easy)](./easy/169.md)
   - [191. Number of 1 Bits(easy)](./easy/191.md)
   - [206. Reverse Linked List(easy)](./easy/206.md)
   - [225. Implement Stack using Queues(easy)](./easy/225.md)

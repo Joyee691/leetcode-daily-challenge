@@ -96,6 +96,7 @@
 - [165. Compare Version Numbers(medium)](./medium/165.md)
 - [166. Fraction to Recurring Decimal(medium)](./medium/166.md)
 - [167. Two Sum II - Input Array Is Sorted(medium)](./medium/167.md)
+- [169. Majority Element(easy)](./easy/169.md)
 - [173. Binary Search Tree Iterator(medium)](./medium/173.md)
 - [191. Number of 1 Bits(easy)](./easy/191.md)
 - [198. House Robber(medium)](./medium/198.md)
