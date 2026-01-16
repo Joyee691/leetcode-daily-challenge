@@ -85,6 +85,7 @@
 - [128. Longest Consecutive Sequence(medium)](./book_sources/medium/128.md)
 - [131. Palindrome Partitioning(medium)](./book_sources/medium/131.md)
 - [135. Candy(hard)](./book_sources/hard/135.md)
+- [136. Single Number(easy)](./book_sources/easy/136.md)
 - [138. Copy List with Random Pointer(medium)](./book_sources/medium/138.md)
 - [139. Word Break(medium)](./book_sources/medium/139.md)
 - [141. Linked List Cycle(easy)](./book_sources/easy/141.md)

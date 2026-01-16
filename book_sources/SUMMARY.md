@@ -19,6 +19,7 @@
   - [118. Pascal's Triangle(easy)](./easy/118.md)
   - [119. Pascal's Triangle II(easy)](./easy/119.md)
   - [121. Best Time to Buy and Sell Stock(easy)](./easy/121.md)
+  - [136. Single Number(easy)](./easy/136.md)
   - [141. Linked List Cycle(easy)](./easy/141.md)
   - [160. Intersection of Two Linked Lists(easy)](./easy/160.md)
   - [191. Number of 1 Bits(easy)](./easy/191.md)
