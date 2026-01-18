@@ -100,6 +100,7 @@
 - [167. Two Sum II - Input Array Is Sorted(medium)](./book_sources/medium/167.md)
 - [169. Majority Element(easy)](./book_sources/easy/169.md)
 - [173. Binary Search Tree Iterator(medium)](./book_sources/medium/173.md)
+- [189. Rotate Array(medium)](./book_sources/medium/189.md)
 - [191. Number of 1 Bits(easy)](./book_sources/easy/191.md)
 - [198. House Robber(medium)](./book_sources/medium/198.md)
 - [199. Binary Tree Right Side View(medium)](./book_sources/medium/199.md)

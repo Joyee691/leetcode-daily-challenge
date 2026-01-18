@@ -142,6 +142,7 @@
   - [166. Fraction to Recurring Decimal(medium)](./medium/166.md)
   - [167. Two Sum II - Input Array Is Sorted(medium)](./medium/167.md)
   - [173. Binary Search Tree Iterator(medium)](./medium/173.md)
+  - [189. Rotate Array(medium)](./medium/189.md)
   - [198. House Robber(medium)](./medium/198.md)
   - [199. Binary Tree Right Side View(medium)](./medium/199.md)
   - [200. Number of Islands(medium)](./medium/200.md)
