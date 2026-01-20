@@ -244,6 +244,7 @@
 - [1717. Maximum Score From Removing Substrings(medium)](./book_sources/medium/1717.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./book_sources/medium/1721.md)
 - [1733. Minimum Number of People to Teach(medium)](./book_sources/medium/1733.md)
+- [1768. Merge Strings Alternately(easy)](./book_sources/easy/1768.md)
 - [1912. Design Movie Rental System(hard)](./book_sources/hard/1912.md)
 - [1930. Unique Length-3 Palindromic Subsequences(medium)](./book_sources/medium/1930.md)
 - [1935. Maximum Number of Words You Can Type(easy)](./book_sources/easy/1935.md)
