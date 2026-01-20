@@ -192,6 +192,7 @@
 - [1046. Last Stone Weight(easy)](./easy/1046.md)
 - [1048. Longest String Chain(medium)](./medium/1048.md)
 - [1052. Grumpy Bookstore Owner(medium)](./medium/1052.md)
+- [1071. Greatest Common Divisor of Strings(easy)](./easy/1071.md)
 - [1091. Shortest Path in Binary Matrix(medium)](./medium/1091.md)
 - [1110. Delete Nodes And Return Forest(medium)](./medium/1110.md)
 - [1143. Longest Common Subsequence(medium)](./medium/1143.md)
