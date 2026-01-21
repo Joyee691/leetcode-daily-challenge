@@ -214,6 +214,7 @@
 - [1380. Lucky Numbers in a Matrix(easy)](./easy/1380.md)
 - [1396. Design Underground System(medium)](./medium/1396.md)
 - [1423. Maximum Points You Can Obtain from Cards(medium)](./medium/1423.md)
+- [1431. Kids With the Greatest Number of Candies(easy)](./easy/1431.md)
 - [1437. Check If All 1's Are at Least Length K Places Away(easy)](./easy/1437.md)
 - [1461. Check If a String Contains All Binary Codes of Size K(medium)](./medium/1461.md)
 - [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts(medium)](./medium/1465.md)
