@@ -32,6 +32,7 @@
   - [283. Move Zeroes(easy)](./easy/283.md)
   - [344. Reverse String(easy)](./easy/344.md)
   - [543. Diameter of Binary Tree(easy)](./easy/543.md)
+  - [605. Can Place Flowers(easy)](./easy/605.md)
   - [680. Valid Palindrome II(easy)](./easy/680.md)
   - [682. Baseball Game(easy)](./easy/682.md)
   - [700. Search in a Binary Search Tree(easy)](./easy/700.md)

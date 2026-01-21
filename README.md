@@ -155,6 +155,7 @@
 - [560. Subarray Sum Equals K(medium)](./book_sources/medium/560.md)
 - [581. Shortest Unsorted Continuous Subarray(medium)](./book_sources/medium/581.md)
 - [583. Delete Operation for Two Strings(medium)](./book_sources/medium/583.md)
+- [605. Can Place Flowers(easy)](./book_sources/easy/605.md)
 - [611. Valid Triangle Number(medium)](./book_sources/medium/611.md)
 - [633. Sum of Square Numbers(medium)](./book_sources/medium/633.md)
 - [647. Palindromic Substrings(medium)](./book_sources/medium/647.md)

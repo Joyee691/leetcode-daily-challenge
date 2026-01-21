@@ -153,6 +153,7 @@
 - [560. Subarray Sum Equals K(medium)](./medium/560.md)
 - [581. Shortest Unsorted Continuous Subarray(medium)](./medium/581.md)
 - [583. Delete Operation for Two Strings(medium)](./medium/583.md)
+- [605. Can Place Flowers(easy)](./easy/605.md)
 - [611. Valid Triangle Number(medium)](./medium/611.md)
 - [633. Sum of Square Numbers(medium)](./medium/633.md)
 - [647. Palindromic Substrings(medium)](./medium/647.md)
