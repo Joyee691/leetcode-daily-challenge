@@ -133,6 +133,7 @@
 - [330. Patching Array(hard)](./book_sources/hard/330.md)
 - [341. Flatten Nested List Iterator(medium)](./book_sources/medium/341.md)
 - [344. Reverse String(easy)](./book_sources/easy/344.md)
+- [345. Reverse Vowels of a String(easy)](./book_sources/easy/345.md)
 - [347. Top K Frequent Elements(medium)](./book_sources/medium/347.md)
 - [354. Russian Doll Envelopes(hard)](./book_sources/hard/354.md)
 - [376. Wiggle Subsequence(medium)](./book_sources/medium/376.md)

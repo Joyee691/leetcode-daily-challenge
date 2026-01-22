@@ -31,6 +31,7 @@
   - [268. Missing Number(easy)](./easy/268.md)
   - [283. Move Zeroes(easy)](./easy/283.md)
   - [344. Reverse String(easy)](./easy/344.md)
+  - [345. Reverse Vowels of a String(easy)](./easy/345.md)
   - [543. Diameter of Binary Tree(easy)](./easy/543.md)
   - [605. Can Place Flowers(easy)](./easy/605.md)
   - [680. Valid Palindrome II(easy)](./easy/680.md)
