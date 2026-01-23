@@ -168,6 +168,7 @@
   - [304. Range Sum Query 2D - Immutable(medium)](./medium/304.md)
   - [318. Maximum Product of Word Lengths(medium)](./medium/318.md)
   - [322. Coin Change(medium)](./medium/322.md)
+  - [334. Increasing Triplet Subsequence(medium)](./medium/334.md)
   - [341. Flatten Nested List Iterator(medium)](./medium/341.md)
   - [347. Top K Frequent Elements(medium)](./medium/347.md)
   - [376. Wiggle Subsequence(medium)](./medium/376.md)

@@ -132,6 +132,7 @@
 - [322. Coin Change(medium)](./book_sources/medium/322.md)
 - [329. Longest Increasing Path in a Matrix(hard)](./book_sources/hard/329.md)
 - [330. Patching Array(hard)](./book_sources/hard/330.md)
+- [334. Increasing Triplet Subsequence(medium)](./book_sources/medium/334.md)
 - [341. Flatten Nested List Iterator(medium)](./book_sources/medium/341.md)
 - [344. Reverse String(easy)](./book_sources/easy/344.md)
 - [345. Reverse Vowels of a String(easy)](./book_sources/easy/345.md)
