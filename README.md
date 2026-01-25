@@ -139,6 +139,7 @@
 - [347. Top K Frequent Elements(medium)](./book_sources/medium/347.md)
 - [354. Russian Doll Envelopes(hard)](./book_sources/hard/354.md)
 - [376. Wiggle Subsequence(medium)](./book_sources/medium/376.md)
+- [392. Is Subsequence(easy)](./book_sources/easy/392.md)
 - [394. Decode String(medium)](./book_sources/medium/394.md)
 - [399. Evaluate Division(medium)](./book_sources/medium/399.md)
 - [406. Queue Reconstruction by Height(medium)](./book_sources/medium/406.md)
