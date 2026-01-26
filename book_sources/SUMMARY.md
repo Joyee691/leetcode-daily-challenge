@@ -35,6 +35,7 @@
   - [392. Is Subsequence(easy)](./easy/392.md)
   - [543. Diameter of Binary Tree(easy)](./easy/543.md)
   - [605. Can Place Flowers(easy)](./easy/605.md)
+  - [643. Maximum Average Subarray I(easy)](./easy/643.md)
   - [680. Valid Palindrome II(easy)](./easy/680.md)
   - [682. Baseball Game(easy)](./easy/682.md)
   - [700. Search in a Binary Search Tree(easy)](./easy/700.md)

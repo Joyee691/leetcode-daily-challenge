@@ -163,6 +163,7 @@
 - [605. Can Place Flowers(easy)](./book_sources/easy/605.md)
 - [611. Valid Triangle Number(medium)](./book_sources/medium/611.md)
 - [633. Sum of Square Numbers(medium)](./book_sources/medium/633.md)
+- [643. Maximum Average Subarray I(easy)](./book_sources/easy/643.md)
 - [647. Palindromic Substrings(medium)](./book_sources/medium/647.md)
 - [665. Non-decreasing Array(medium)](./book_sources/medium/665.md)
 - [669. Trim a Binary Search Tree(medium)](./book_sources/medium/669.md)
