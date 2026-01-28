@@ -230,6 +230,7 @@
 - [1475. Final Prices With a Special Discount in a Shop(easy)](./easy/1475.md)
 - [1482. Minimum Number of Days to Make m Bouquets(medium)](./medium/1482.md)
 - [1488. Avoid Flood in The City(medium)](./medium/1488.md)
+- [1493. Longest Subarray of 1's After Deleting One Element(medium)](./medium/1493.md)
 - [1513. Number of Substrings With Only 1s(medium)](./medium/1513.md)
 - [1518. Water Bottles(easy)](./easy/1518.md)
 - [1526. Minimum Number of Increments on Subarrays to Form a Target Array(hard)](./hard/1526.md)
