@@ -253,6 +253,7 @@
 - [1716. Calculate Money in Leetcode Bank(easy)](./easy/1716.md)
 - [1717. Maximum Score From Removing Substrings(medium)](./medium/1717.md)
 - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
+- [1732. Find the Highest Altitude(easy)](./easy/1732.md)
 - [1733. Minimum Number of People to Teach(medium)](./medium/1733.md)
 - [1768. Merge Strings Alternately(easy)](./easy/1768.md)
 - [1912. Design Movie Rental System(hard)](./hard/1912.md)
