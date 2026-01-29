@@ -175,6 +175,7 @@
 - [705. Design HashSet(easy)](./book_sources/easy/705.md)
 - [706. Design HashMap(easy)](./book_sources/easy/706.md)
 - [717. 1-bit and 2-bit Characters(easy)](./book_sources/easy/717.md)
+- [724. Find Pivot Index(easy)](./book_sources/easy/724.md)
 - [726. Number of Atoms(hard)](./book_sources/hard/726.md)
 - [739. Daily Temperatures(medium)](./book_sources/medium/739.md)
 - [763. Partition Labels(medium)](./book_sources/medium/763.md)
