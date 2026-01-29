@@ -75,6 +75,7 @@
   - [2011. Final Value of Variable After Performing Operations(easy)](./easy/2011.md)
   - [2154. Keep Multiplying Found Values by Two(easy)](./easy/2154.md)
   - [2169. Count Operations to Obtain Zero(easy)](./easy/2169.md)
+  - [2215. Find the Difference of Two Arrays(easy)](./easy/2215.md)
   - [2273. Find Resultant Array After Removing Anagrams(easy)](./easy/2273.md)
   - [2418. Sort the People(easy)](./easy/2418.md)
   - [3005. Count Elements With Maximum Frequency(easy)](./easy/3005.md)

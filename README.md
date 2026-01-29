@@ -272,6 +272,7 @@
 - [2191. Sort the Jumbled Numbers(medium)](./book_sources/medium/2191.md)
 - [2196. Create Binary Tree From Descriptions(medium)](./book_sources/medium/2196.md)
 - [2197. Replace Non-Coprime Numbers in Array(hard)](./book_sources/hard/2197.md)
+- [2215. Find the Difference of Two Arrays(easy)](./book_sources/easy/2215.md)
 - [2221. Find Triangular Sum of an Array(medium)](./book_sources/medium/2221.md)
 - [2257. Count Unguarded Cells in the Grid(medium)](./book_sources/medium/2257.md)
 - [2273. Find Resultant Array After Removing Anagrams(easy)](./book_sources/easy/2273.md)
