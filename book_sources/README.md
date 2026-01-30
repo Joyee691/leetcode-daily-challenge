@@ -208,6 +208,7 @@
 - [1190. Reverse Substrings Between Each Pair of Parentheses(medium)](./medium/1190.md)
 - [1192. Critical Connections in a Network(hard)](./hard/1192.md)
 - [1202. Smallest String With Swaps(medium)](./medium/1202.md)
+- [1207. Unique Number of Occurrences(easy)](./easy/1207.md)
 - [1209. Remove All Adjacent Duplicates in String II(medium)](./medium/1209.md)
 - [1260. Shift 2D Grid(easy)](./easy/1260.md)
 - [1262. Greatest Sum Divisible by Three(medium)](./medium/1262.md)

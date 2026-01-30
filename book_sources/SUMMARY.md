@@ -54,6 +54,7 @@
   - [1018. Binary Prefix Divisible By 5(easy)](./easy/1018.md)
   - [1046. Last Stone Weight(easy)](./easy/1046.md)
   - [1071. Greatest Common Divisor of Strings(easy)](./easy/1071.md)
+  - [1207. Unique Number of Occurrences(easy)](./easy/1207.md)
   - [1260. Shift 2D Grid(easy)](./easy/1260.md)
   - [1304. Find N Unique Integers Sum up to Zero(easy)](./easy/1304.md)
   - [1317. Convert Integer to the Sum of Two No-Zero Integers(easy)](./easy/1317.md)
