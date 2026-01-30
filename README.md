@@ -249,6 +249,7 @@
 - [1641. Count Sorted Vowel Strings(medium)](./book_sources/medium/1641.md)
 - [1642. Furthest Building You Can Reach(medium)](./book_sources/medium/1642.md)
 - [1653. Minimum Deletions to Make String Balanced(medium)](./book_sources/medium/1653.md)
+- [1657. Determine if Two Strings Are Close(medium)](./book_sources/medium/1657.md)
 - [1658. Minimum Operations to Reduce X to Zero(medium)](./book_sources/medium/1658.md)
 - [1679. Max Number of K-Sum Pairs(medium)](./book_sources/medium/1679.md)
 - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers(medium)](./book_sources/medium/1689.md)
