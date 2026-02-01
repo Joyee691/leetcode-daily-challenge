@@ -177,6 +177,7 @@
 - [717. 1-bit and 2-bit Characters(easy)](./book_sources/easy/717.md)
 - [724. Find Pivot Index(easy)](./book_sources/easy/724.md)
 - [726. Number of Atoms(hard)](./book_sources/hard/726.md)
+- [735. Asteroid Collision(medium)](./book_sources/medium/735.md)
 - [739. Daily Temperatures(medium)](./book_sources/medium/739.md)
 - [763. Partition Labels(medium)](./book_sources/medium/763.md)
 - [769. Max Chunks To Make Sorted(medium)](./book_sources/medium/769.md)
