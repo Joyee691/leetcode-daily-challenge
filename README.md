@@ -165,6 +165,7 @@
 - [633. Sum of Square Numbers(medium)](./book_sources/medium/633.md)
 - [643. Maximum Average Subarray I(easy)](./book_sources/easy/643.md)
 - [647. Palindromic Substrings(medium)](./book_sources/medium/647.md)
+- [649. Dota2 Senate(medium)](./book_sources/medium/649.md)
 - [665. Non-decreasing Array(medium)](./book_sources/medium/665.md)
 - [669. Trim a Binary Search Tree(medium)](./book_sources/medium/669.md)
 - [680. Valid Palindrome II(easy)](./book_sources/easy/680.md)
