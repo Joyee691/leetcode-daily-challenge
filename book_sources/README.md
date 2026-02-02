@@ -190,6 +190,7 @@
 - [905. Sort Array By Parity(easy)](./easy/905.md)
 - [912. Sort an Array(medium)](./medium/912.md)
 - [923. 3Sum With Multiplicity(medium)](./medium/923.md)
+- [933. Number of Recent Calls(easy)](./easy/933.md)
 - [966. Vowel Spellchecker(medium)](./medium/966.md)
 - [968. Binary Tree Cameras(hard)](./hard/968.md)
 - [976. Largest Perimeter Triangle(easy)](./easy/976.md)

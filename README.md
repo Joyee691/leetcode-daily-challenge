@@ -192,6 +192,7 @@
 - [905. Sort Array By Parity(easy)](./book_sources/easy/905.md)
 - [912. Sort an Array(medium)](./book_sources/medium/912.md)
 - [923. 3Sum With Multiplicity(medium)](./book_sources/medium/923.md)
+- [933. Number of Recent Calls(easy)](./book_sources/easy/933.md)
 - [966. Vowel Spellchecker(medium)](./book_sources/medium/966.md)
 - [968. Binary Tree Cameras(hard)](./book_sources/hard/968.md)
 - [976. Largest Perimeter Triangle(easy)](./book_sources/easy/976.md)

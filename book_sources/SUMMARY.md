@@ -50,6 +50,7 @@
   - [867. Transpose Matrix(easy)](./easy/867.md)
   - [897. Increasing Order Search Tree(easy)](./easy/897.md)
   - [905. Sort Array By Parity(easy)](./easy/905.md)
+  - [933. Number of Recent Calls(easy)](./easy/933.md)
   - [976. Largest Perimeter Triangle(easy)](./easy/976.md)
   - [1018. Binary Prefix Divisible By 5(easy)](./easy/1018.md)
   - [1046. Last Stone Weight(easy)](./easy/1046.md)
