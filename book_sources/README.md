@@ -268,6 +268,7 @@
 - [2011. Final Value of Variable After Performing Operations(easy)](./easy/2011.md)
 - [2043. Simple Bank System(medium)](./medium/2043.md)
 - [2048. Next Greater Numerically Balanced Number(medium)](./medium/2048.md)
+- [2095. Delete the Middle Node of a Linked List(medium)](./medium/2095.md)
 - [2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)](./medium/2096.md)
 - [2125. Number of Laser Beams in a Bank(medium)](./medium/2125.md)
 - [2154. Keep Multiplying Found Values by Two(easy)](./easy/2154.md)
