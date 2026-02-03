@@ -130,6 +130,7 @@
 - [304. Range Sum Query 2D - Immutable(medium)](./book_sources/medium/304.md)
 - [318. Maximum Product of Word Lengths(medium)](./book_sources/medium/318.md)
 - [322. Coin Change(medium)](./book_sources/medium/322.md)
+- [328. Odd Even Linked List(medium)](./book_sources/medium/328.md)
 - [329. Longest Increasing Path in a Matrix(hard)](./book_sources/hard/329.md)
 - [330. Patching Array(hard)](./book_sources/hard/330.md)
 - [334. Increasing Triplet Subsequence(medium)](./book_sources/medium/334.md)
