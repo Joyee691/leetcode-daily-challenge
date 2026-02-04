@@ -272,6 +272,7 @@
 - [2095. Delete the Middle Node of a Linked List(medium)](./medium/2095.md)
 - [2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)](./medium/2096.md)
 - [2125. Number of Laser Beams in a Bank(medium)](./medium/2125.md)
+- [2130. Maximum Twin Sum of a Linked List(medium)](./medium/2130.md)
 - [2154. Keep Multiplying Found Values by Two(easy)](./easy/2154.md)
 - [2169. Count Operations to Obtain Zero(easy)](./easy/2169.md)
 - [2191. Sort the Jumbled Numbers(medium)](./medium/2191.md)
