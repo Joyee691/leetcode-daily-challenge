@@ -152,6 +152,7 @@
 - [437. Path Sum III(medium)](./book_sources/medium/437.md)
 - [438. Find All Anagrams in a String(medium)](./book_sources/medium/438.md)
 - [443. String Compression(medium)](./book_sources/medium/443.md)
+- [450. Delete Node in a BST(medium)](./book_sources/medium/450.md)
 - [456. 132 Pattern(medium)](./book_sources/medium/456.md)
 - [462. Minimum Moves to Equal Array Elements II(medium)](./book_sources/medium/462.md)
 - [474. Ones and Zeroes(medium)](./book_sources/medium/474.md)
