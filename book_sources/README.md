@@ -189,6 +189,7 @@
 - [826. Most Profit Assigning Work(medium)](./medium/826.md)
 - [844. Backspace String Compare(easy)](./easy/844.md)
 - [867. Transpose Matrix(easy)](./easy/867.md)
+- [872. Leaf-Similar Trees(easy)](./easy/872.md)
 - [897. Increasing Order Search Tree(easy)](./easy/897.md)
 - [905. Sort Array By Parity(easy)](./easy/905.md)
 - [912. Sort an Array(medium)](./medium/912.md)
