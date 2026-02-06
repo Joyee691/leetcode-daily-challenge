@@ -63,6 +63,11 @@ async function fetchLeetCodeDetails(url) {
 \`\`\`javascript
 (Add your solution code here)
 \`\`\`
+
+### 复杂度分析
+#### 时间
+
+#### 空间
 `;
 
       // Define the file path
