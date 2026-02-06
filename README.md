@@ -234,6 +234,7 @@
 - [1423. Maximum Points You Can Obtain from Cards(medium)](./book_sources/medium/1423.md)
 - [1431. Kids With the Greatest Number of Candies(easy)](./book_sources/easy/1431.md)
 - [1437. Check If All 1's Are at Least Length K Places Away(easy)](./book_sources/easy/1437.md)
+- [1448. Count Good Nodes in Binary Tree(medium)](./book_sources/medium/1448.md)
 - [1456. Maximum Number of Vowels in a Substring of Given Length(medium)](./book_sources/medium/1456.md)
 - [1461. Check If a String Contains All Binary Codes of Size K(medium)](./book_sources/medium/1461.md)
 - [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts(medium)](./book_sources/medium/1465.md)
