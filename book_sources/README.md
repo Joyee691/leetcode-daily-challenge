@@ -226,6 +226,7 @@
 - [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)
 - [1342. Number of Steps to Reduce a Number to Zero(easy)](./easy/1342.md)
 - [1352. Product of the Last K Numbers(medium)](./medium/1352.md)
+- [1372. Longest ZigZag Path in a Binary Tree(medium)](./medium/1372.md)
 - [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree(medium)](./medium/1379.md)
 - [1380. Lucky Numbers in a Matrix(easy)](./easy/1380.md)
 - [1396. Design Underground System(medium)](./medium/1396.md)
