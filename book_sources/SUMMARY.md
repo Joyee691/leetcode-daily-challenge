@@ -263,6 +263,7 @@
   - [1717. Maximum Score From Removing Substrings(medium)](./medium/1717.md)
   - [1721. Swapping Nodes in a Linked List(medium)](./medium/1721.md)
   - [1733. Minimum Number of People to Teach(medium)](./medium/1733.md)
+  - [1926. Nearest Exit from Entrance in Maze(medium)](./medium/1926.md)
   - [1930. Unique Length-3 Palindromic Subsequences(medium)](./medium/1930.md)
   - [2043. Simple Bank System(medium)](./medium/2043.md)
   - [2048. Next Greater Numerically Balanced Number(medium)](./medium/2048.md)

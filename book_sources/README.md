@@ -270,6 +270,7 @@
 - [1733. Minimum Number of People to Teach(medium)](./medium/1733.md)
 - [1768. Merge Strings Alternately(easy)](./easy/1768.md)
 - [1912. Design Movie Rental System(hard)](./hard/1912.md)
+- [1926. Nearest Exit from Entrance in Maze(medium)](./medium/1926.md)
 - [1930. Unique Length-3 Palindromic Subsequences(medium)](./medium/1930.md)
 - [1935. Maximum Number of Words You Can Type(easy)](./easy/1935.md)
 - [2011. Final Value of Variable After Performing Operations(easy)](./easy/2011.md)
