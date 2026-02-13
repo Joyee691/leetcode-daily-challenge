@@ -1,0 +1,4716 @@
+
+<!DOCTYPE HTML>
+<html lang="zh-hans" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>407. Trapping Rain Water II(hard) · LeetCode Daily Challenge</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        <meta name="author" content="Joyee691">
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-chapter-fold/chapter-fold.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-code/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-prism/prism-tomorrow.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search-plus/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-latex-codecogs/latex-codecogs.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-splitter/splitter.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-anchor-navigation-ex/style/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-theme-comscore/test.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="410.html" />
+    
+    
+    <link rel="prev" href="354.html" />
+    
+
+    <style>
+    @media only screen and (max-width: 640px) {
+        .book-header .hidden-mobile {
+            display: none;
+        }
+    }
+    </style>
+    <script>
+        window["gitbook-plugin-github-buttons"] = {"buttons":[{"user":"Joyee691","repo":"leetcode-daily-challenge","type":"star","size":"small"}]};
+    </script>
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="输入并搜索" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../easy/">
+            
+                <a href="../easy/">
+            
+                    
+                    Easy
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="../easy/1.html">
+            
+                <a href="../easy/1.html">
+            
+                    
+                    1. Two Sum(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="../easy/9.html">
+            
+                <a href="../easy/9.html">
+            
+                    
+                    9. Palindrome Number(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" data-path="../easy/14.html">
+            
+                <a href="../easy/14.html">
+            
+                    
+                    14. Longest Common Prefix(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4" data-path="../easy/20.html">
+            
+                <a href="../easy/20.html">
+            
+                    
+                    20. Valid Parentheses(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5" data-path="../easy/21.html">
+            
+                <a href="../easy/21.html">
+            
+                    
+                    21. Merge Two Sorted Lists(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.6" data-path="../easy/26.html">
+            
+                <a href="../easy/26.html">
+            
+                    
+                    26. Remove Duplicates from Sorted Array(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.7" data-path="../easy/27.html">
+            
+                <a href="../easy/27.html">
+            
+                    
+                    27. Remove Element(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.8" data-path="../easy/28.html">
+            
+                <a href="../easy/28.html">
+            
+                    
+                    28. Find the Index of the First Occurrence in a String(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.9" data-path="../easy/35.html">
+            
+                <a href="../easy/35.html">
+            
+                    
+                    35. Search Insert Position(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.10" data-path="../easy/70.html">
+            
+                <a href="../easy/70.html">
+            
+                    
+                    70. Climbing Stairs(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.11" data-path="../easy/88.html">
+            
+                <a href="../easy/88.html">
+            
+                    
+                    88. Merge Sorted Array(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.12" data-path="../easy/101.html">
+            
+                <a href="../easy/101.html">
+            
+                    
+                    101. Symmetric Tree(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.13" data-path="../easy/104.html">
+            
+                <a href="../easy/104.html">
+            
+                    
+                    104. Maximum Depth of Binary Tree(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.14" data-path="../easy/108.html">
+            
+                <a href="../easy/108.html">
+            
+                    
+                    108. Convert Sorted Array to Binary Search Tree(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.15" data-path="../easy/118.html">
+            
+                <a href="../easy/118.html">
+            
+                    
+                    118. Pascal's Triangle(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.16" data-path="../easy/119.html">
+            
+                <a href="../easy/119.html">
+            
+                    
+                    119. Pascal's Triangle II(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.17" data-path="../easy/121.html">
+            
+                <a href="../easy/121.html">
+            
+                    
+                    121. Best Time to Buy and Sell Stock(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.18" data-path="../easy/136.html">
+            
+                <a href="../easy/136.html">
+            
+                    
+                    136. Single Number(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.19" data-path="../easy/141.html">
+            
+                <a href="../easy/141.html">
+            
+                    
+                    141. Linked List Cycle(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.20" data-path="../easy/160.html">
+            
+                <a href="../easy/160.html">
+            
+                    
+                    160. Intersection of Two Linked Lists(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.21" data-path="../easy/169.html">
+            
+                <a href="../easy/169.html">
+            
+                    
+                    169. Majority Element(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.22" data-path="../easy/191.html">
+            
+                <a href="../easy/191.html">
+            
+                    
+                    191. Number of 1 Bits(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.23" data-path="../easy/206.html">
+            
+                <a href="../easy/206.html">
+            
+                    
+                    206. Reverse Linked List(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.24" data-path="../easy/225.html">
+            
+                <a href="../easy/225.html">
+            
+                    
+                    225. Implement Stack using Queues(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.25" data-path="../easy/226.html">
+            
+                <a href="../easy/226.html">
+            
+                    
+                    226. Invert Binary Tree(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.26" data-path="../easy/234.html">
+            
+                <a href="../easy/234.html">
+            
+                    
+                    234. Palindrome Linked List(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.27" data-path="../easy/268.html">
+            
+                <a href="../easy/268.html">
+            
+                    
+                    268. Missing Number(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.28" data-path="../easy/283.html">
+            
+                <a href="../easy/283.html">
+            
+                    
+                    283. Move Zeroes(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.29" data-path="../easy/344.html">
+            
+                <a href="../easy/344.html">
+            
+                    
+                    344. Reverse String(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.30" data-path="../easy/345.html">
+            
+                <a href="../easy/345.html">
+            
+                    
+                    345. Reverse Vowels of a String(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.31" data-path="../easy/392.html">
+            
+                <a href="../easy/392.html">
+            
+                    
+                    392. Is Subsequence(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.32" data-path="../easy/543.html">
+            
+                <a href="../easy/543.html">
+            
+                    
+                    543. Diameter of Binary Tree(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.33" data-path="../easy/605.html">
+            
+                <a href="../easy/605.html">
+            
+                    
+                    605. Can Place Flowers(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.34" data-path="../easy/643.html">
+            
+                <a href="../easy/643.html">
+            
+                    
+                    643. Maximum Average Subarray I(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.35" data-path="../easy/680.html">
+            
+                <a href="../easy/680.html">
+            
+                    
+                    680. Valid Palindrome II(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.36" data-path="../easy/682.html">
+            
+                <a href="../easy/682.html">
+            
+                    
+                    682. Baseball Game(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.37" data-path="../easy/700.html">
+            
+                <a href="../easy/700.html">
+            
+                    
+                    700. Search in a Binary Search Tree(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.38" data-path="../easy/703.html">
+            
+                <a href="../easy/703.html">
+            
+                    
+                    703. Kth Largest Element in a Stream(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.39" data-path="../easy/704.html">
+            
+                <a href="../easy/704.html">
+            
+                    
+                    704. Binary Search(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.40" data-path="../easy/705.html">
+            
+                <a href="../easy/705.html">
+            
+                    
+                    705. Design HashSet(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.41" data-path="../easy/706.html">
+            
+                <a href="../easy/706.html">
+            
+                    
+                    706. Design HashMap(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.42" data-path="../easy/717.html">
+            
+                <a href="../easy/717.html">
+            
+                    
+                    717. 1-bit and 2-bit Characters(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.43" data-path="../easy/724.html">
+            
+                <a href="../easy/724.html">
+            
+                    
+                    724. Find Pivot Index(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.44" data-path="../easy/812.html">
+            
+                <a href="../easy/812.html">
+            
+                    
+                    812. Largest Triangle Area(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.45" data-path="../easy/844.html">
+            
+                <a href="../easy/844.html">
+            
+                    
+                    844. Backspace String Compare(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.46" data-path="../easy/867.html">
+            
+                <a href="../easy/867.html">
+            
+                    
+                    867. Transpose Matrix(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.47" data-path="../easy/872.html">
+            
+                <a href="../easy/872.html">
+            
+                    
+                    872. Leaf-Similar Trees(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.48" data-path="../easy/897.html">
+            
+                <a href="../easy/897.html">
+            
+                    
+                    897. Increasing Order Search Tree(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.49" data-path="../easy/905.html">
+            
+                <a href="../easy/905.html">
+            
+                    
+                    905. Sort Array By Parity(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.50" data-path="../easy/933.html">
+            
+                <a href="../easy/933.html">
+            
+                    
+                    933. Number of Recent Calls(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.51" data-path="../easy/976.html">
+            
+                <a href="../easy/976.html">
+            
+                    
+                    976. Largest Perimeter Triangle(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.52" data-path="../easy/1018.html">
+            
+                <a href="../easy/1018.html">
+            
+                    
+                    1018. Binary Prefix Divisible By 5(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.53" data-path="../easy/1046.html">
+            
+                <a href="../easy/1046.html">
+            
+                    
+                    1046. Last Stone Weight(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.54" data-path="../easy/1071.html">
+            
+                <a href="../easy/1071.html">
+            
+                    
+                    1071. Greatest Common Divisor of Strings(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.55" data-path="../easy/1207.html">
+            
+                <a href="../easy/1207.html">
+            
+                    
+                    1207. Unique Number of Occurrences(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.56" data-path="../easy/1260.html">
+            
+                <a href="../easy/1260.html">
+            
+                    
+                    1260. Shift 2D Grid(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.57" data-path="../easy/1304.html">
+            
+                <a href="../easy/1304.html">
+            
+                    
+                    1304. Find N Unique Integers Sum up to Zero(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.58" data-path="../easy/1317.html">
+            
+                <a href="../easy/1317.html">
+            
+                    
+                    1317. Convert Integer to the Sum of Two No-Zero Integers(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.59" data-path="../easy/1332.html">
+            
+                <a href="../easy/1332.html">
+            
+                    
+                    1332. Remove Palindromic Subsequences(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.60" data-path="../easy/1337.html">
+            
+                <a href="../easy/1337.html">
+            
+                    
+                    1337. The K Weakest Rows in a Matrix(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.61" data-path="../easy/1342.html">
+            
+                <a href="../easy/1342.html">
+            
+                    
+                    1342. Number of Steps to Reduce a Number to Zero(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.62" data-path="../easy/1380.html">
+            
+                <a href="../easy/1380.html">
+            
+                    
+                    1380. Lucky Numbers in a Matrix(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.63" data-path="../easy/1431.html">
+            
+                <a href="../easy/1431.html">
+            
+                    
+                    1431. Kids With the Greatest Number of Candies(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.64" data-path="../easy/1437.html">
+            
+                <a href="../easy/1437.html">
+            
+                    
+                    1437. Check If All 1's Are at Least Length K Places Away(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.65" data-path="../easy/1475.html">
+            
+                <a href="../easy/1475.html">
+            
+                    
+                    1475. Final Prices With a Special Discount in a Shop(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.66" data-path="../easy/1518.html">
+            
+                <a href="../easy/1518.html">
+            
+                    
+                    1518. Water Bottles(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.67" data-path="../easy/1598.html">
+            
+                <a href="../easy/1598.html">
+            
+                    
+                    1598. Crawler Log Folder(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.68" data-path="../easy/1636.html">
+            
+                <a href="../easy/1636.html">
+            
+                    
+                    1636. Sort Array by Increasing Frequency(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.69" data-path="../easy/1710.html">
+            
+                <a href="../easy/1710.html">
+            
+                    
+                    1710. Maximum Units on a Truck(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.70" data-path="../easy/1716.html">
+            
+                <a href="../easy/1716.html">
+            
+                    
+                    1716. Calculate Money in Leetcode Bank(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.71" data-path="../easy/1732.html">
+            
+                <a href="../easy/1732.html">
+            
+                    
+                    1732. Find the Highest Altitude(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.72" data-path="../easy/1768.html">
+            
+                <a href="../easy/1768.html">
+            
+                    
+                    1768. Merge Strings Alternately(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.73" data-path="../easy/1935.html">
+            
+                <a href="../easy/1935.html">
+            
+                    
+                    1935. Maximum Number of Words You Can Type(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.74" data-path="../easy/2011.html">
+            
+                <a href="../easy/2011.html">
+            
+                    
+                    2011. Final Value of Variable After Performing Operations(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.75" data-path="../easy/2154.html">
+            
+                <a href="../easy/2154.html">
+            
+                    
+                    2154. Keep Multiplying Found Values by Two(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.76" data-path="../easy/2169.html">
+            
+                <a href="../easy/2169.html">
+            
+                    
+                    2169. Count Operations to Obtain Zero(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.77" data-path="../easy/2215.html">
+            
+                <a href="../easy/2215.html">
+            
+                    
+                    2215. Find the Difference of Two Arrays(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.78" data-path="../easy/2273.html">
+            
+                <a href="../easy/2273.html">
+            
+                    
+                    2273. Find Resultant Array After Removing Anagrams(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.79" data-path="../easy/2418.html">
+            
+                <a href="../easy/2418.html">
+            
+                    
+                    2418. Sort the People(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.80" data-path="../easy/3005.html">
+            
+                <a href="../easy/3005.html">
+            
+                    
+                    3005. Count Elements With Maximum Frequency(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.81" data-path="../easy/3190.html">
+            
+                <a href="../easy/3190.html">
+            
+                    
+                    3190. Find Minimum Operations to Make All Elements Divisible by Three(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.82" data-path="../easy/3289.html">
+            
+                <a href="../easy/3289.html">
+            
+                    
+                    3289. The Two Sneaky Numbers of Digitville(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.83" data-path="../easy/3318.html">
+            
+                <a href="../easy/3318.html">
+            
+                    
+                    3318. Find X-Sum of All K-Long Subarrays I(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.84" data-path="../easy/3349.html">
+            
+                <a href="../easy/3349.html">
+            
+                    
+                    3349. Adjacent Increasing Subarrays Detection I(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.85" data-path="../easy/3354.html">
+            
+                <a href="../easy/3354.html">
+            
+                    
+                    3354. Make Array Elements Equal to Zero(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.86" data-path="../easy/3370.html">
+            
+                <a href="../easy/3370.html">
+            
+                    
+                    3370. Smallest Number With All Set Bits(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.87" data-path="../easy/3461.html">
+            
+                <a href="../easy/3461.html">
+            
+                    
+                    3461. Check If Digits Are Equal in String After Operations I(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.88" data-path="../easy/3512.html">
+            
+                <a href="../easy/3512.html">
+            
+                    
+                    3512. Minimum Operations to Make Array Sum Divisible by K(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.89" data-path="../easy/3516.html">
+            
+                <a href="../easy/3516.html">
+            
+                    
+                    3516. Find Closest Person(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.90" data-path="../easy/3541.html">
+            
+                <a href="../easy/3541.html">
+            
+                    
+                    3541. Find Most Frequent Vowel and Consonant(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../medium/">
+            
+                <a href="../medium/">
+            
+                    
+                    Medium
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="../medium/2.html">
+            
+                <a href="../medium/2.html">
+            
+                    
+                    2. Add Two Numbers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="../medium/3.html">
+            
+                <a href="../medium/3.html">
+            
+                    
+                    3. Longest Substring Without Repeating Characters(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="../medium/5.html">
+            
+                <a href="../medium/5.html">
+            
+                    
+                    5. Longest Palindromic Substring(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="../medium/6.html">
+            
+                <a href="../medium/6.html">
+            
+                    
+                    6. Zigzag Conversion(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" data-path="../medium/7.html">
+            
+                <a href="../medium/7.html">
+            
+                    
+                    7. Reverse Integer(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.6" data-path="../medium/8.html">
+            
+                <a href="../medium/8.html">
+            
+                    
+                    8. String to Integer (atoi)(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.7" data-path="../medium/11.html">
+            
+                <a href="../medium/11.html">
+            
+                    
+                    11. Container With Most Water(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.8" data-path="../medium/12.html">
+            
+                <a href="../medium/12.html">
+            
+                    
+                    12. Integer to Roman(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.9" data-path="../medium/15.html">
+            
+                <a href="../medium/15.html">
+            
+                    
+                    15. 3Sum(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.10" data-path="../medium/16.html">
+            
+                <a href="../medium/16.html">
+            
+                    
+                    16. 3Sum Closest(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.11" data-path="../medium/17.html">
+            
+                <a href="../medium/17.html">
+            
+                    
+                    17. Letter Combinations of a Phone Number(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.12" data-path="../medium/18.html">
+            
+                <a href="../medium/18.html">
+            
+                    
+                    18. 4Sum(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.13" data-path="../medium/19.html">
+            
+                <a href="../medium/19.html">
+            
+                    
+                    19. Remove Nth Node From End of List(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.14" data-path="../medium/22.html">
+            
+                <a href="../medium/22.html">
+            
+                    
+                    22. Generate Parentheses(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.15" data-path="../medium/24.html">
+            
+                <a href="../medium/24.html">
+            
+                    
+                    24. Swap Nodes in Pairs(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.16" data-path="../medium/29.html">
+            
+                <a href="../medium/29.html">
+            
+                    
+                    29. Divide Two Integers(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.17" data-path="../medium/31.html">
+            
+                <a href="../medium/31.html">
+            
+                    
+                    31. Next Permutation(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.18" data-path="../medium/33.html">
+            
+                <a href="../medium/33.html">
+            
+                    
+                    33. Search in Rotated Sorted Array(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.19" data-path="../medium/34.html">
+            
+                <a href="../medium/34.html">
+            
+                    
+                    34. Find First and Last Position of Element in Sorted Array(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.20" data-path="../medium/36.html">
+            
+                <a href="../medium/36.html">
+            
+                    
+                    36. Valid Sudoku(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.21" data-path="../medium/39.html">
+            
+                <a href="../medium/39.html">
+            
+                    
+                    39. Combination Sum(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.22" data-path="../medium/40.html">
+            
+                <a href="../medium/40.html">
+            
+                    
+                    40. Combination Sum II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.23" data-path="../medium/45.html">
+            
+                <a href="../medium/45.html">
+            
+                    
+                    45. Jump Game II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.24" data-path="../medium/46.html">
+            
+                <a href="../medium/46.html">
+            
+                    
+                    46. Permutations(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.25" data-path="../medium/47.html">
+            
+                <a href="../medium/47.html">
+            
+                    
+                    47. Permutations II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.26" data-path="../medium/48.html">
+            
+                <a href="../medium/48.html">
+            
+                    
+                    48. Rotate Image(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.27" data-path="../medium/49.html">
+            
+                <a href="../medium/49.html">
+            
+                    
+                    49. Group Anagrams(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.28" data-path="../medium/53.html">
+            
+                <a href="../medium/53.html">
+            
+                    
+                    53. Maximum Subarray(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.29" data-path="../medium/54.html">
+            
+                <a href="../medium/54.html">
+            
+                    
+                    54. Spiral Matrix(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.30" data-path="../medium/55.html">
+            
+                <a href="../medium/55.html">
+            
+                    
+                    55. Jump Game(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.31" data-path="../medium/56.html">
+            
+                <a href="../medium/56.html">
+            
+                    
+                    56. Merge Intervals(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.32" data-path="../medium/59.html">
+            
+                <a href="../medium/59.html">
+            
+                    
+                    59. Spiral Matrix II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.33" data-path="../medium/61.html">
+            
+                <a href="../medium/61.html">
+            
+                    
+                    61. Rotate List(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.34" data-path="../medium/62.html">
+            
+                <a href="../medium/62.html">
+            
+                    
+                    62. Unique Paths(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.35" data-path="../medium/63.html">
+            
+                <a href="../medium/63.html">
+            
+                    
+                    63. Unique Paths II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.36" data-path="../medium/64.html">
+            
+                <a href="../medium/64.html">
+            
+                    
+                    64. Minimum Path Sum(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.37" data-path="../medium/72.html">
+            
+                <a href="../medium/72.html">
+            
+                    
+                    72. Edit Distance(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.38" data-path="../medium/73.html">
+            
+                <a href="../medium/73.html">
+            
+                    
+                    73. Set Matrix Zeroes(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.39" data-path="../medium/74.html">
+            
+                <a href="../medium/74.html">
+            
+                    
+                    74. Search a 2D Matrix(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.40" data-path="../medium/75.html">
+            
+                <a href="../medium/75.html">
+            
+                    
+                    75. Sort Colors(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.41" data-path="../medium/78.html">
+            
+                <a href="../medium/78.html">
+            
+                    
+                    78. Subsets(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.42" data-path="../medium/81.html">
+            
+                <a href="../medium/81.html">
+            
+                    
+                    81. Search in Rotated Sorted Array II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.43" data-path="../medium/98.html">
+            
+                <a href="../medium/98.html">
+            
+                    
+                    98. Validate Binary Search Tree(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.44" data-path="../medium/99.html">
+            
+                <a href="../medium/99.html">
+            
+                    
+                    99. Recover Binary Search Tree(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.45" data-path="../medium/102.html">
+            
+                <a href="../medium/102.html">
+            
+                    
+                    102. Binary Tree Level Order Traversal(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.46" data-path="../medium/105.html">
+            
+                <a href="../medium/105.html">
+            
+                    
+                    105. Construct Binary Tree from Preorder and Inorder Traversal(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.47" data-path="../medium/114.html">
+            
+                <a href="../medium/114.html">
+            
+                    
+                    114. Flatten Binary Tree to Linked List(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.48" data-path="../medium/117.html">
+            
+                <a href="../medium/117.html">
+            
+                    
+                    117. Populating Next Right Pointers in Each Node II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.49" data-path="../medium/120.html">
+            
+                <a href="../medium/120.html">
+            
+                    
+                    120. Triangle(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.50" data-path="../medium/128.html">
+            
+                <a href="../medium/128.html">
+            
+                    
+                    128. Longest Consecutive Sequence(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.51" data-path="../medium/131.html">
+            
+                <a href="../medium/131.html">
+            
+                    
+                    131. Palindrome Partitioning(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.52" data-path="../medium/138.html">
+            
+                <a href="../medium/138.html">
+            
+                    
+                    138. Copy List with Random Pointer(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.53" data-path="../medium/139.html">
+            
+                <a href="../medium/139.html">
+            
+                    
+                    139. Word Break(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.54" data-path="../medium/142.html">
+            
+                <a href="../medium/142.html">
+            
+                    
+                    142. Linked List Cycle II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.55" data-path="../medium/146.html">
+            
+                <a href="../medium/146.html">
+            
+                    
+                    146. LRU Cache(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.56" data-path="../medium/151.html">
+            
+                <a href="../medium/151.html">
+            
+                    
+                    151. Reverse Words in a String(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.57" data-path="../medium/152.html">
+            
+                <a href="../medium/152.html">
+            
+                    
+                    152. Maximum Product Subarray(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.58" data-path="../medium/153.html">
+            
+                <a href="../medium/153.html">
+            
+                    
+                    153. Find Minimum in Rotated Sorted Array(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.59" data-path="../medium/155.html">
+            
+                <a href="../medium/155.html">
+            
+                    
+                    155. Min Stack(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.60" data-path="../medium/165.html">
+            
+                <a href="../medium/165.html">
+            
+                    
+                    165. Compare Version Numbers(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.61" data-path="../medium/166.html">
+            
+                <a href="../medium/166.html">
+            
+                    
+                    166. Fraction to Recurring Decimal(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.62" data-path="../medium/167.html">
+            
+                <a href="../medium/167.html">
+            
+                    
+                    167. Two Sum II - Input Array Is Sorted(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.63" data-path="../medium/173.html">
+            
+                <a href="../medium/173.html">
+            
+                    
+                    173. Binary Search Tree Iterator(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.64" data-path="../medium/189.html">
+            
+                <a href="../medium/189.html">
+            
+                    
+                    189. Rotate Array(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.65" data-path="../medium/198.html">
+            
+                <a href="../medium/198.html">
+            
+                    
+                    198. House Robber(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.66" data-path="../medium/199.html">
+            
+                <a href="../medium/199.html">
+            
+                    
+                    199. Binary Tree Right Side View(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.67" data-path="../medium/200.html">
+            
+                <a href="../medium/200.html">
+            
+                    
+                    200. Number of Islands(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.68" data-path="../medium/207.html">
+            
+                <a href="../medium/207.html">
+            
+                    
+                    207. Course Schedule(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.69" data-path="../medium/208.html">
+            
+                <a href="../medium/208.html">
+            
+                    
+                    208. Implement Trie (Prefix Tree)(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.70" data-path="../medium/215.html">
+            
+                <a href="../medium/215.html">
+            
+                    
+                    215. Kth Largest Element in an Array(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.71" data-path="../medium/216.html">
+            
+                <a href="../medium/216.html">
+            
+                    
+                    216. Combination Sum III(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.72" data-path="../medium/230.html">
+            
+                <a href="../medium/230.html">
+            
+                    
+                    230. Kth Smallest Element in a BST(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.73" data-path="../medium/236.html">
+            
+                <a href="../medium/236.html">
+            
+                    
+                    236. Lowest Common Ancestor of a Binary Tree(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.74" data-path="../medium/238.html">
+            
+                <a href="../medium/238.html">
+            
+                    
+                    238. Product of Array Except Self(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.75" data-path="../medium/240.html">
+            
+                <a href="../medium/240.html">
+            
+                    
+                    240. Search a 2D Matrix II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.76" data-path="../medium/279.html">
+            
+                <a href="../medium/279.html">
+            
+                    
+                    279. Perfect Squares(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.77" data-path="../medium/284.html">
+            
+                <a href="../medium/284.html">
+            
+                    
+                    284. Peeking Iterator(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.78" data-path="../medium/287.html">
+            
+                <a href="../medium/287.html">
+            
+                    
+                    287. Find the Duplicate Number(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.79" data-path="../medium/289.html">
+            
+                <a href="../medium/289.html">
+            
+                    
+                    289. Game of Life(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.80" data-path="../medium/300.html">
+            
+                <a href="../medium/300.html">
+            
+                    
+                    300. Longest Increasing Subsequence(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.81" data-path="../medium/304.html">
+            
+                <a href="../medium/304.html">
+            
+                    
+                    304. Range Sum Query 2D - Immutable(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.82" data-path="../medium/318.html">
+            
+                <a href="../medium/318.html">
+            
+                    
+                    318. Maximum Product of Word Lengths(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.83" data-path="../medium/322.html">
+            
+                <a href="../medium/322.html">
+            
+                    
+                    322. Coin Change(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.84" data-path="../medium/328.html">
+            
+                <a href="../medium/328.html">
+            
+                    
+                    328. Odd Even Linked List(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.85" data-path="../medium/334.html">
+            
+                <a href="../medium/334.html">
+            
+                    
+                    334. Increasing Triplet Subsequence(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.86" data-path="../medium/341.html">
+            
+                <a href="../medium/341.html">
+            
+                    
+                    341. Flatten Nested List Iterator(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.87" data-path="../medium/347.html">
+            
+                <a href="../medium/347.html">
+            
+                    
+                    347. Top K Frequent Elements(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.88" data-path="../medium/376.html">
+            
+                <a href="../medium/376.html">
+            
+                    
+                    376. Wiggle Subsequence(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.89" data-path="../medium/394.html">
+            
+                <a href="../medium/394.html">
+            
+                    
+                    394. Decode String(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.90" data-path="../medium/399.html">
+            
+                <a href="../medium/399.html">
+            
+                    
+                    399. Evaluate Division(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.91" data-path="../medium/406.html">
+            
+                <a href="../medium/406.html">
+            
+                    
+                    406. Queue Reconstruction by Height(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.92" data-path="../medium/416.html">
+            
+                <a href="../medium/416.html">
+            
+                    
+                    416. Partition Equal Subset Sum(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.93" data-path="../medium/417.html">
+            
+                <a href="../medium/417.html">
+            
+                    
+                    417. Pacific Atlantic Water Flow(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.94" data-path="../medium/429.html">
+            
+                <a href="../medium/429.html">
+            
+                    
+                    429. N-ary Tree Level Order Traversal(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.95" data-path="../medium/437.html">
+            
+                <a href="../medium/437.html">
+            
+                    
+                    437. Path Sum III(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.96" data-path="../medium/438.html">
+            
+                <a href="../medium/438.html">
+            
+                    
+                    438. Find All Anagrams in a String(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.97" data-path="../medium/443.html">
+            
+                <a href="../medium/443.html">
+            
+                    
+                    443. String Compression(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.98" data-path="../medium/450.html">
+            
+                <a href="../medium/450.html">
+            
+                    
+                    450. Delete Node in a BST(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.99" data-path="../medium/456.html">
+            
+                <a href="../medium/456.html">
+            
+                    
+                    456. 132 Pattern(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.100" data-path="../medium/462.html">
+            
+                <a href="../medium/462.html">
+            
+                    
+                    462. Minimum Moves to Equal Array Elements II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.101" data-path="../medium/474.html">
+            
+                <a href="../medium/474.html">
+            
+                    
+                    474. Ones and Zeroes(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.102" data-path="../medium/535.html">
+            
+                <a href="../medium/535.html">
+            
+                    
+                    535. Encode and Decode TinyURL(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.103" data-path="../medium/538.html">
+            
+                <a href="../medium/538.html">
+            
+                    
+                    538. Convert BST to Greater Tree(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.104" data-path="../medium/547.html">
+            
+                <a href="../medium/547.html">
+            
+                    
+                    547. Number of Provinces(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.105" data-path="../medium/560.html">
+            
+                <a href="../medium/560.html">
+            
+                    
+                    560. Subarray Sum Equals K(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.106" data-path="../medium/581.html">
+            
+                <a href="../medium/581.html">
+            
+                    
+                    581. Shortest Unsorted Continuous Subarray(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.107" data-path="../medium/583.html">
+            
+                <a href="../medium/583.html">
+            
+                    
+                    583. Delete Operation for Two Strings(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.108" data-path="../medium/611.html">
+            
+                <a href="../medium/611.html">
+            
+                    
+                    611. Valid Triangle Number(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.109" data-path="../medium/633.html">
+            
+                <a href="../medium/633.html">
+            
+                    
+                    633. Sum of Square Numbers(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.110" data-path="../medium/647.html">
+            
+                <a href="../medium/647.html">
+            
+                    
+                    647. Palindromic Substrings(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.111" data-path="../medium/649.html">
+            
+                <a href="../medium/649.html">
+            
+                    
+                    649. Dota2 Senate(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.112" data-path="../medium/665.html">
+            
+                <a href="../medium/665.html">
+            
+                    
+                    665. Non-decreasing Array(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.113" data-path="../medium/669.html">
+            
+                <a href="../medium/669.html">
+            
+                    
+                    669. Trim a Binary Search Tree(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.114" data-path="../medium/735.html">
+            
+                <a href="../medium/735.html">
+            
+                    
+                    735. Asteroid Collision(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.115" data-path="../medium/739.html">
+            
+                <a href="../medium/739.html">
+            
+                    
+                    739. Daily Temperatures(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.116" data-path="../medium/763.html">
+            
+                <a href="../medium/763.html">
+            
+                    
+                    763. Partition Labels(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.117" data-path="../medium/769.html">
+            
+                <a href="../medium/769.html">
+            
+                    
+                    769. Max Chunks To Make Sorted(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.118" data-path="../medium/785.html">
+            
+                <a href="../medium/785.html">
+            
+                    
+                    785. Is Graph Bipartite?(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.119" data-path="../medium/820.html">
+            
+                <a href="../medium/820.html">
+            
+                    
+                    820. Short Encoding of Words(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.120" data-path="../medium/826.html">
+            
+                <a href="../medium/826.html">
+            
+                    
+                    826. Most Profit Assigning Work(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.121" data-path="../medium/912.html">
+            
+                <a href="../medium/912.html">
+            
+                    
+                    912. Sort an Array(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.122" data-path="../medium/923.html">
+            
+                <a href="../medium/923.html">
+            
+                    
+                    923. 3Sum With Multiplicity(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.123" data-path="../medium/966.html">
+            
+                <a href="../medium/966.html">
+            
+                    
+                    966. Vowel Spellchecker(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.124" data-path="../medium/994.html">
+            
+                <a href="../medium/994.html">
+            
+                    
+                    994. Rotting Oranges(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.125" data-path="../medium/1004.html">
+            
+                <a href="../medium/1004.html">
+            
+                    
+                    1004. Max Consecutive Ones III(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.126" data-path="../medium/1015.html">
+            
+                <a href="../medium/1015.html">
+            
+                    
+                    1015. Smallest Integer Divisible by K(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.127" data-path="../medium/1029.html">
+            
+                <a href="../medium/1029.html">
+            
+                    
+                    1029. Two City Scheduling(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.128" data-path="../medium/1039.html">
+            
+                <a href="../medium/1039.html">
+            
+                    
+                    1039. Minimum Score Triangulation of Polygon(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.129" data-path="../medium/1048.html">
+            
+                <a href="../medium/1048.html">
+            
+                    
+                    1048. Longest String Chain(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.130" data-path="../medium/1052.html">
+            
+                <a href="../medium/1052.html">
+            
+                    
+                    1052. Grumpy Bookstore Owner(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.131" data-path="../medium/1091.html">
+            
+                <a href="../medium/1091.html">
+            
+                    
+                    1091. Shortest Path in Binary Matrix(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.132" data-path="../medium/1110.html">
+            
+                <a href="../medium/1110.html">
+            
+                    
+                    1110. Delete Nodes And Return Forest(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.133" data-path="../medium/1143.html">
+            
+                <a href="../medium/1143.html">
+            
+                    
+                    1143. Longest Common Subsequence(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.134" data-path="../medium/1161.html">
+            
+                <a href="../medium/1161.html">
+            
+                    
+                    1161. Maximum Level Sum of a Binary Tree(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.135" data-path="../medium/1190.html">
+            
+                <a href="../medium/1190.html">
+            
+                    
+                    1190. Reverse Substrings Between Each Pair of Parentheses(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.136" data-path="../medium/1202.html">
+            
+                <a href="../medium/1202.html">
+            
+                    
+                    1202. Smallest String With Swaps(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.137" data-path="../medium/1209.html">
+            
+                <a href="../medium/1209.html">
+            
+                    
+                    1209. Remove All Adjacent Duplicates in String II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.138" data-path="../medium/1262.html">
+            
+                <a href="../medium/1262.html">
+            
+                    
+                    1262. Greatest Sum Divisible by Three(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.139" data-path="../medium/1268.html">
+            
+                <a href="../medium/1268.html">
+            
+                    
+                    1268. Search Suggestions System(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.140" data-path="../medium/1302.html">
+            
+                <a href="../medium/1302.html">
+            
+                    
+                    1302. Deepest Leaves Sum(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.141" data-path="../medium/1352.html">
+            
+                <a href="../medium/1352.html">
+            
+                    
+                    1352. Product of the Last K Numbers(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.142" data-path="../medium/1372.html">
+            
+                <a href="../medium/1372.html">
+            
+                    
+                    1372. Longest ZigZag Path in a Binary Tree(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.143" data-path="../medium/1379.html">
+            
+                <a href="../medium/1379.html">
+            
+                    
+                    1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.144" data-path="../medium/1396.html">
+            
+                <a href="../medium/1396.html">
+            
+                    
+                    1396. Design Underground System(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.145" data-path="../medium/1423.html">
+            
+                <a href="../medium/1423.html">
+            
+                    
+                    1423. Maximum Points You Can Obtain from Cards(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.146" data-path="../medium/1448.html">
+            
+                <a href="../medium/1448.html">
+            
+                    
+                    1448. Count Good Nodes in Binary Tree(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.147" data-path="../medium/1456.html">
+            
+                <a href="../medium/1456.html">
+            
+                    
+                    1456. Maximum Number of Vowels in a Substring of Given Length(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.148" data-path="../medium/1461.html">
+            
+                <a href="../medium/1461.html">
+            
+                    
+                    1461. Check If a String Contains All Binary Codes of Size K(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.149" data-path="../medium/1465.html">
+            
+                <a href="../medium/1465.html">
+            
+                    
+                    1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.150" data-path="../medium/1482.html">
+            
+                <a href="../medium/1482.html">
+            
+                    
+                    1482. Minimum Number of Days to Make m Bouquets(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.151" data-path="../medium/1488.html">
+            
+                <a href="../medium/1488.html">
+            
+                    
+                    1488. Avoid Flood in The City(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.152" data-path="../medium/1493.html">
+            
+                <a href="../medium/1493.html">
+            
+                    
+                    1493. Longest Subarray of 1's After Deleting One Element(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.153" data-path="../medium/1513.html">
+            
+                <a href="../medium/1513.html">
+            
+                    
+                    1513. Number of Substrings With Only 1s(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.154" data-path="../medium/1530.html">
+            
+                <a href="../medium/1530.html">
+            
+                    
+                    1530. Number of Good Leaf Nodes Pairs(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.155" data-path="../medium/1552.html">
+            
+                <a href="../medium/1552.html">
+            
+                    
+                    1552. Magnetic Force Between Two Balls(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.156" data-path="../medium/1578.html">
+            
+                <a href="../medium/1578.html">
+            
+                    
+                    1578. Minimum Time to Make Rope Colorful(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.157" data-path="../medium/1584.html">
+            
+                <a href="../medium/1584.html">
+            
+                    
+                    1584. Min Cost to Connect All Points(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.158" data-path="../medium/1625.html">
+            
+                <a href="../medium/1625.html">
+            
+                    
+                    1625. Lexicographically Smallest String After Applying Operations(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.159" data-path="../medium/1631.html">
+            
+                <a href="../medium/1631.html">
+            
+                    
+                    1631. Path With Minimum Effort(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.160" data-path="../medium/1641.html">
+            
+                <a href="../medium/1641.html">
+            
+                    
+                    1641. Count Sorted Vowel Strings(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.161" data-path="../medium/1642.html">
+            
+                <a href="../medium/1642.html">
+            
+                    
+                    1642. Furthest Building You Can Reach(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.162" data-path="../medium/1653.html">
+            
+                <a href="../medium/1653.html">
+            
+                    
+                    1653. Minimum Deletions to Make String Balanced(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.163" data-path="../medium/1657.html">
+            
+                <a href="../medium/1657.html">
+            
+                    
+                    1657. Determine if Two Strings Are Close(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.164" data-path="../medium/1658.html">
+            
+                <a href="../medium/1658.html">
+            
+                    
+                    1658. Minimum Operations to Reduce X to Zero(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.165" data-path="../medium/1679.html">
+            
+                <a href="../medium/1679.html">
+            
+                    
+                    1679. Max Number of K-Sum Pairs(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.166" data-path="../medium/1689.html">
+            
+                <a href="../medium/1689.html">
+            
+                    
+                    1689. Partitioning Into Minimum Number Of Deci-Binary Numbers(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.167" data-path="../medium/1695.html">
+            
+                <a href="../medium/1695.html">
+            
+                    
+                    1695. Maximum Erasure Value(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.168" data-path="../medium/1717.html">
+            
+                <a href="../medium/1717.html">
+            
+                    
+                    1717. Maximum Score From Removing Substrings(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.169" data-path="../medium/1721.html">
+            
+                <a href="../medium/1721.html">
+            
+                    
+                    1721. Swapping Nodes in a Linked List(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.170" data-path="../medium/1733.html">
+            
+                <a href="../medium/1733.html">
+            
+                    
+                    1733. Minimum Number of People to Teach(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.171" data-path="../medium/1926.html">
+            
+                <a href="../medium/1926.html">
+            
+                    
+                    1926. Nearest Exit from Entrance in Maze(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.172" data-path="../medium/1930.html">
+            
+                <a href="../medium/1930.html">
+            
+                    
+                    1930. Unique Length-3 Palindromic Subsequences(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.173" data-path="../medium/2043.html">
+            
+                <a href="../medium/2043.html">
+            
+                    
+                    2043. Simple Bank System(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.174" data-path="../medium/2048.html">
+            
+                <a href="../medium/2048.html">
+            
+                    
+                    2048. Next Greater Numerically Balanced Number(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.175" data-path="../medium/2095.html">
+            
+                <a href="../medium/2095.html">
+            
+                    
+                    2095. Delete the Middle Node of a Linked List(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.176" data-path="../medium/2096.html">
+            
+                <a href="../medium/2096.html">
+            
+                    
+                    2096. Step-By-Step Directions From a Binary Tree Node to Another(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.177" data-path="../medium/2125.html">
+            
+                <a href="../medium/2125.html">
+            
+                    
+                    2125. Number of Laser Beams in a Bank(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.178" data-path="../medium/2130.html">
+            
+                <a href="../medium/2130.html">
+            
+                    
+                    2130. Maximum Twin Sum of a Linked List(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.179" data-path="../medium/2191.html">
+            
+                <a href="../medium/2191.html">
+            
+                    
+                    2191. Sort the Jumbled Numbers(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.180" data-path="../medium/2196.html">
+            
+                <a href="../medium/2196.html">
+            
+                    
+                    2196. Create Binary Tree From Descriptions(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.181" data-path="../medium/2221.html">
+            
+                <a href="../medium/2221.html">
+            
+                    
+                    2221. Find Triangular Sum of an Array(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.182" data-path="../medium/2257.html">
+            
+                <a href="../medium/2257.html">
+            
+                    
+                    2257. Count Unguarded Cells in the Grid(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.183" data-path="../medium/2300.html">
+            
+                <a href="../medium/2300.html">
+            
+                    
+                    2300. Successful Pairs of Spells and Potions(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.184" data-path="../medium/2327.html">
+            
+                <a href="../medium/2327.html">
+            
+                    
+                    2327. Number of People Aware of a Secret(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.185" data-path="../medium/2352.html">
+            
+                <a href="../medium/2352.html">
+            
+                    
+                    2352. Equal Row and Column Pairs(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.186" data-path="../medium/2353.html">
+            
+                <a href="../medium/2353.html">
+            
+                    
+                    2353. Design a Food Rating System(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.187" data-path="../medium/2390.html">
+            
+                <a href="../medium/2390.html">
+            
+                    
+                    2390. Removing Stars From a String(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.188" data-path="../medium/2415.html">
+            
+                <a href="../medium/2415.html">
+            
+                    
+                    2415. Reverse Odd Levels of Binary Tree(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.189" data-path="../medium/2471.html">
+            
+                <a href="../medium/2471.html">
+            
+                    
+                    2471. Minimum Number of Operations to Sort a Binary Tree by Level(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.190" data-path="../medium/2536.html">
+            
+                <a href="../medium/2536.html">
+            
+                    
+                    2536. Increment Submatrices by One(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.191" data-path="../medium/2598.html">
+            
+                <a href="../medium/2598.html">
+            
+                    
+                    2598. Smallest Missing Non-negative Integer After Operations(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.192" data-path="../medium/2636.html">
+            
+                <a href="../medium/2636.html">
+            
+                    
+                    2636. Promise Pool(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.193" data-path="../medium/2654.html">
+            
+                <a href="../medium/2654.html">
+            
+                    
+                    2654. Minimum Number of Operations to Make All Array Elements Equal to 1(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.194" data-path="../medium/2749.html">
+            
+                <a href="../medium/2749.html">
+            
+                    
+                    2749. Minimum Operations to Make the Integer Zero(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.195" data-path="../medium/2785.html">
+            
+                <a href="../medium/2785.html">
+            
+                    
+                    2785. Sort Vowels in a String(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.196" data-path="../medium/3025.html">
+            
+                <a href="../medium/3025.html">
+            
+                    
+                    3025. Find the Number of Ways to Place People I(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.197" data-path="../medium/3100.html">
+            
+                <a href="../medium/3100.html">
+            
+                    
+                    3100. Water Bottles II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.198" data-path="../medium/3147.html">
+            
+                <a href="../medium/3147.html">
+            
+                    
+                    3147. Taking Maximum Energy From the Mystic Dungeon(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.199" data-path="../medium/3186.html">
+            
+                <a href="../medium/3186.html">
+            
+                    
+                    3186. Maximum Total Damage With Spell Casting(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.200" data-path="../medium/3217.html">
+            
+                <a href="../medium/3217.html">
+            
+                    
+                    3217. Delete Nodes From Linked List Present in Array(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.201" data-path="../medium/3227.html">
+            
+                <a href="../medium/3227.html">
+            
+                    
+                    3227. Vowels Game in a String(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.202" data-path="../medium/3228.html">
+            
+                <a href="../medium/3228.html">
+            
+                    
+                    3228. Maximum Number of Operations to Move Ones to the End(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.203" data-path="../easy/3264.html">
+            
+                <a href="../easy/3264.html">
+            
+                    
+                    3264. Final Array State After K Multiplication Operations I(easy)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.204" data-path="../medium/3346.html">
+            
+                <a href="../medium/3346.html">
+            
+                    
+                    3346. Maximum Frequency of an Element After Performing Operations I(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.205" data-path="../medium/3350.html">
+            
+                <a href="../medium/3350.html">
+            
+                    
+                    3350. Adjacent Increasing Subarrays Detection II(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.206" data-path="../medium/3381.html">
+            
+                <a href="../medium/3381.html">
+            
+                    
+                    3381. Maximum Subarray Sum With Length Divisible by K(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.207" data-path="../medium/3397.html">
+            
+                <a href="../medium/3397.html">
+            
+                    
+                    3397. Maximum Number of Distinct Elements After Operations(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.208" data-path="../medium/3408.html">
+            
+                <a href="../medium/3408.html">
+            
+                    
+                    3408. Design Task Manager(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.209" data-path="../medium/3484.html">
+            
+                <a href="../medium/3484.html">
+            
+                    
+                    3484. Design Spreadsheet(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.210" data-path="../medium/3508.html">
+            
+                <a href="../medium/3508.html">
+            
+                    
+                    3508. Implement Router(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.211" data-path="../medium/3542.html">
+            
+                <a href="../medium/3542.html">
+            
+                    
+                    3542. Minimum Operations to Convert All Elements to Zero(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.212" data-path="../medium/3607.html">
+            
+                <a href="../medium/3607.html">
+            
+                    
+                    3607. Power Grid Maintenance(medium)
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    Hard
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="23.html">
+            
+                <a href="23.html">
+            
+                    
+                    23. Merge k Sorted Lists(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="25.html">
+            
+                <a href="25.html">
+            
+                    
+                    25. Reverse Nodes in k-Group(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="32.html">
+            
+                <a href="32.html">
+            
+                    
+                    32. Longest Valid Parentheses(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4" data-path="41.html">
+            
+                <a href="41.html">
+            
+                    
+                    41. First Missing Positive(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.5" data-path="42.html">
+            
+                <a href="42.html">
+            
+                    
+                    42. Trapping Rain Water(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.6" data-path="51.html">
+            
+                <a href="51.html">
+            
+                    
+                    51. N-Queens(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.7" data-path="52.html">
+            
+                <a href="52.html">
+            
+                    
+                    52. N-Queens II(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.8" data-path="76.html">
+            
+                <a href="76.html">
+            
+                    
+                    76. Minimum Window Substring(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.9" data-path="84.html">
+            
+                <a href="84.html">
+            
+                    
+                    84. Largest Rectangle in Histogram(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.10" data-path="124.html">
+            
+                <a href="124.html">
+            
+                    
+                    124. Binary Tree Maximum Path Sum(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11" data-path="135.html">
+            
+                <a href="135.html">
+            
+                    
+                    135. Candy(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.12" data-path="239.html">
+            
+                <a href="239.html">
+            
+                    
+                    239. Sliding Window Maximum(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.13" data-path="295.html">
+            
+                <a href="295.html">
+            
+                    
+                    295. Find Median from Data Stream(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.14" data-path="329.html">
+            
+                <a href="329.html">
+            
+                    
+                    329. Longest Increasing Path in a Matrix(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.15" data-path="330.html">
+            
+                <a href="330.html">
+            
+                    
+                    330. Patching Array(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.16" data-path="354.html">
+            
+                <a href="354.html">
+            
+                    
+                    354. Russian Doll Envelopes(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.4.17" data-path="407.html">
+            
+                <a href="407.html">
+            
+                    
+                    407. Trapping Rain Water II(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.18" data-path="410.html">
+            
+                <a href="410.html">
+            
+                    
+                    410. Split Array Largest Sum(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.19" data-path="726.html">
+            
+                <a href="726.html">
+            
+                    
+                    726. Number of Atoms(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.20" data-path="778.html">
+            
+                <a href="778.html">
+            
+                    
+                    778. Swim in Rising Water(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.21" data-path="968.html">
+            
+                <a href="968.html">
+            
+                    
+                    968. Binary Tree Cameras(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.22" data-path="1192.html">
+            
+                <a href="1192.html">
+            
+                    
+                    1192. Critical Connections in a Network(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.23" data-path="1526.html">
+            
+                <a href="1526.html">
+            
+                    
+                    1526. Minimum Number of Increments on Subarrays to Form a Target Array(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.24" data-path="1912.html">
+            
+                <a href="1912.html">
+            
+                    
+                    1912. Design Movie Rental System(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.25" data-path="2197.html">
+            
+                <a href="2197.html">
+            
+                    
+                    2197. Replace Non-Coprime Numbers in Array(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.26" data-path="2751.html">
+            
+                <a href="2751.html">
+            
+                    
+                    2751. Robot Collisions(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.27" data-path="2872.html">
+            
+                <a href="2872.html">
+            
+                    
+                    2872. Maximum Number of K-Divisible Components(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.28" data-path="3027.html">
+            
+                <a href="3027.html">
+            
+                    
+                    3027. Find the Number of Ways to Place People II(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.29" data-path="3347.html">
+            
+                <a href="3347.html">
+            
+                    
+                    3347. Maximum Frequency of an Element After Performing Operations II(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.30" data-path="3495.html">
+            
+                <a href="3495.html">
+            
+                    
+                    3495. Minimum Operations to Make Array Elements Zero(hard)
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            本书使用 GitBook 发布
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >407. Trapping Rain Water II(hard)</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div class="search-plus" id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <div id="anchor-navigation-ex-navbar"><i class="fa fa-navicon"></i><ul><li><span class="title-icon "></span><a href="#407-trapping-rain-water-ii"><b></b>407. Trapping Rain Water II</a></li><ul><li><span class="title-icon "></span><a href="#&#x9898;&#x76EE;&#x7B80;&#x4ECB;"><b></b>&#x9898;&#x76EE;&#x7B80;&#x4ECB;</a></li><li><span class="title-icon "></span><a href="#&#x89E3;&#x9898;&#x601D;&#x8DEF;"><b></b>&#x89E3;&#x9898;&#x601D;&#x8DEF;</a></li><ul><li><span class="title-icon "></span><a href="#javascript"><b></b>Javascript</a></li></ul></ul></ul></div><a href="#407-trapping-rain-water-ii" id="anchorNavigationExGoTop"><i class="fa fa-arrow-up"></i></a><h1 id="407-trapping-rain-water-ii"><a name="407-trapping-rain-water-ii" class="anchor-navigation-ex-anchor" href="#407-trapping-rain-water-ii"><i class="fa fa-link" aria-hidden="true"></i></a>407. Trapping Rain Water II</h1>
+<blockquote>
+<p><a href="https://leetcode.com/problems/trapping-rain-water-ii" target="_blank">Leetcode link</a></p>
+</blockquote>
+<h2 id="&#x9898;&#x76EE;&#x7B80;&#x4ECB;"><a name="&#x9898;&#x76EE;&#x7B80;&#x4ECB;" class="anchor-navigation-ex-anchor" href="#&#x9898;&#x76EE;&#x7B80;&#x4ECB;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x9898;&#x76EE;&#x7B80;&#x4ECB;</h2>
+<p>&#x672C;&#x9898;&#x662F;&#x4E00;&#x9053;&#x56F0;&#x96BE;&#x9898;&#xFF0C;&#x9898;&#x76EE;&#x53EA;&#x7ED9;&#x6211;&#x4EEC;&#x4E00;&#x4E2A;&#x53C2;&#x6570; <code>heightMap</code> &#x4EE3;&#x8868;&#x4E00;&#x4E2A;&#x6709; m*n &#x4E2A;&#x683C;&#x5B50;&#x7684;&#x77E9;&#x9635;&#xFF0C;&#x6BCF;&#x4E2A;&#x77E9;&#x9635;&#x4E0A;&#x6709; <code>heightMap[m][n]</code> &#x4E2A;&#x683C;&#x5B50;</p>
+<p>&#x9898;&#x76EE;&#x8981;&#x6211;&#x4EEC;&#x6C42;&#x5982;&#x679C;&#x4E0B;&#x96E8;&#x7684;&#x8BDD;&#xFF0C;&#x8FD9;&#x4E2A;&#x77E9;&#x9635;&#x4E0A;&#x9762;&#x7684;&#x683C;&#x5B50;&#x6700;&#x591A;&#x80FD;&#x7559;&#x4E0B;&#x591A;&#x5C11;&#x683C;&#x7684;&#x96E8;&#x6C34;</p>
+<h2 id="&#x89E3;&#x9898;&#x601D;&#x8DEF;"><a name="&#x89E3;&#x9898;&#x601D;&#x8DEF;" class="anchor-navigation-ex-anchor" href="#&#x89E3;&#x9898;&#x601D;&#x8DEF;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x89E3;&#x9898;&#x601D;&#x8DEF;</h2>
+<p>&#x8FD9;&#x9898;&#x6211;&#x4EEC;&#x9700;&#x8981;&#x5148;&#x4ECE;&#x683C;&#x5B50;&#x7684;&#x8FB9;&#x7F18;&#x5F00;&#x59CB;&#x5BFB;&#x627E;&#x601D;&#x8DEF;</p>
+<p>&#x6211;&#x4EEC;&#x77E5;&#x9053;&#x4E00;&#x4E2A;&#x6876;&#x6700;&#x591A;&#x80FD;&#x63A5;&#x591A;&#x5C11;&#x6C34;&#x53D6;&#x51B3;&#x4E8E;&#x6876;&#x5B50;&#x7684;&#x77ED;&#x677F;&#xFF0C;&#x6240;&#x4EE5;&#x6211;&#x4EEC;&#x7B2C;&#x4E00;&#x6B65;&#x8981;&#x5148;&#x627E;&#x5230;&#x77E9;&#x9635;&#x8FB9;&#x7F18;&#x6700;&#x4F4E;&#x7684;&#x683C;&#x5B50;&#xFF0C;&#x7136;&#x540E;&#x5C06;&#x5176;&#x4E0E;&#x76F8;&#x90BB;&#x7684;&#x683C;&#x5B50;&#x5BF9;&#x6BD4;&#x9AD8;&#x5EA6;&#xFF1A;</p>
+<ul>
+<li>&#x5982;&#x679C;&#x76F8;&#x90BB;&#x683C;&#x5B50;&#x6BD4;&#x8FB9;&#x7F18;&#x6700;&#x4F4E;&#x7684;&#x683C;&#x5B50;&#x4F4E;&#xFF0C;&#x90A3;&#x4E48;&#x76F8;&#x90BB;&#x683C;&#x5B50;&#x5C31;&#x53EF;&#x4EE5;&#x7559;&#x4E0B; <code>&#x8FB9;&#x7F18;&#x6700;&#x4F4E;&#x683C;&#x5B50;&#x9AD8;&#x5EA6; - &#x76F8;&#x90BB;&#x683C;&#x5B50;&#x9AD8;&#x5EA6;</code> &#x7684;&#x6C34;</li>
+<li>&#x5982;&#x679C;&#x76F8;&#x90BB;&#x683C;&#x5B50;&#x6BD4;&#x8FB9;&#x7F18;&#x6700;&#x4F4E;&#x7684;&#x683C;&#x5B50;&#x9AD8;&#xFF0C;&#x90A3;&#x4E48;&#x6211;&#x4EEC;&#x5C31;&#x518D;&#x627E;&#x5230;&#x8FB9;&#x7F18;&#x7B2C;&#x4E8C;&#x4F4E;&#x7684;&#x683C;&#x5B50;&#x2026;&#x2026;&#x4EE5;&#x6B64;&#x7C7B;&#x63A8;</li>
+</ul>
+<p>&#x6362;&#x6210;&#x7B97;&#x6CD5;&#x7684;&#x601D;&#x8DEF;&#x7684;&#x8BDD;&#xFF0C;&#x6211;&#x4EEC;&#x8981;&#x91CD;&#x590D;&#x5982;&#x4E0B;&#x6B65;&#x9AA4;&#xFF1A;</p>
+<ol>
+<li>&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x4E0E; <code>heightMap</code> &#x5927;&#x5C0F;&#x76F8;&#x540C;&#x7684;&#x6570;&#x7EC4; <code>visited</code> &#x6765;&#x4FDD;&#x5B58;&#x5DF2;&#x7ECF;&#x8BBF;&#x95EE;&#x8FC7;&#x7684;&#x4F4D;&#x7F6E;</li>
+<li>&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x5C0F;&#x9876;&#x5806; <code>minHeap</code> &#x5E76;&#x4E14;&#x5C06;&#x6240;&#x6709;&#x7684;&#x8FB9;&#x7F18;&#x683C;&#x5B50;&#x653E;&#x8FDB;&#x5176;&#x4E2D;&#xFF0C;&#x5C06; <code>visited</code> &#x6570;&#x7EC4;&#x4E2D;&#x8FB9;&#x7F18;&#x683C;&#x5B50;&#x7684;&#x4F4D;&#x7F6E;&#x8BBE;&#x7F6E;&#x4E3A; <code>true</code> &#x8868;&#x793A;&#x5DF2;&#x7ECF;&#x8BBF;&#x95EE;&#x8FC7;&#x4E86;&#xFF08;&#x56E0;&#x4E3A;&#x8FB9;&#x7F18;&#x7684;&#x683C;&#x5B50;&#x4E4B;&#x95F4;&#x5DF2;&#x7ECF;&#x5728;&#x5C0F;&#x9876;&#x5806;&#x4E2D;&#x6BD4;&#x8F83;&#x8FC7;&#x4E86;&#xFF0C;&#x4E0D;&#x9700;&#x8981;&#x52A0;&#x5165;&#x76F8;&#x90BB;&#x7684;&#x6BD4;&#x8F83;&#x4E2D;&#xFF09;</li>
+<li>&#x53D6;&#x51FA; <code>minHeap</code> &#x7684;&#x5806;&#x9876;&#x5143;&#x7D20;&#xFF0C;&#x5C06;&#x5176;&#x4E0E;&#x76F8;&#x90BB;&#x4E14;&#x8FD8;&#x6CA1;&#x8BBF;&#x95EE;&#x8FC7;&#x7684;&#x683C;&#x5B50;&#x6BD4;&#x8F83;</li>
+<li>&#x5982;&#x679C;&#x5F53;&#x524D;&#x683C;&#x5B50;&#x6BD4;&#x76F8;&#x90BB;&#x683C;&#x5B50;&#x9AD8;&#xFF0C;&#x628A;&#x9AD8;&#x5EA6;&#x52A0;&#x5230;&#x7ED3;&#x679C; res &#x4E2D;&#xFF0C;&#x7136;&#x540E;&#x5C06;&#x5F53;&#x524D;&#x76F8;&#x90BB;&#x683C;&#x5B50;&#x52A0;&#x5230; <code>minHeap</code> &#x4E2D;&#xFF0C;&#x5E76;&#x4E14;&#x76F8;&#x90BB;&#x683C;&#x5B50;&#x7684;&#x9AD8;&#x5EA6;&#x8981;&#x53D6;&#x5F53;&#x524D;&#x683C;&#x5B50;&#x4E0E;&#x76F8;&#x90BB;&#x683C;&#x5B50;&#x4E2D;&#x8F83;&#x9AD8;&#x7684;&#x9AD8;&#x5EA6;</li>
+<li>&#x5982;&#x679C;&#x5F53;&#x524D;&#x683C;&#x5B50;&#x6BD4;&#x76F8;&#x90BB;&#x683C;&#x5B50;&#x4F4E;&#xFF0C;&#x5219;&#x8DF3;&#x8FC7;</li>
+<li>&#x91CD;&#x590D;&#x6B65;&#x9AA4; 3&#xFF0C;&#x76F4;&#x5230; <code>minHeap</code> &#x4E3A;&#x7A7A;</li>
+<li>&#x8FD4;&#x56DE;&#x7ED3;&#x679C; res</li>
+</ol>
+<h3 id="javascript"><a name="javascript" class="anchor-navigation-ex-anchor" href="#javascript"><i class="fa fa-link" aria-hidden="true"></i></a>Javascript</h3>
+<pre class="language-"><code class="lang-javascript"><span class="token comment">/**
+ * @param {number[][]} heightMap
+ * @return {number}
+ */</span>
+<span class="token keyword">var</span> <span class="token function-variable function">trapRainWater</span> <span class="token operator">=</span> <span class="token keyword">function</span> <span class="token punctuation">(</span><span class="token parameter">heightMap</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">const</span> len <span class="token operator">=</span> heightMap<span class="token punctuation">.</span>length
+    <span class="token keyword">const</span> width <span class="token operator">=</span> heightMap<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">.</span>length
+    <span class="token keyword">const</span> visited <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Array</span><span class="token punctuation">(</span>len<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">fill</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token parameter">item</span> <span class="token operator">=&gt;</span> <span class="token keyword">new</span> <span class="token class-name">Array</span><span class="token punctuation">(</span>width<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">fill</span><span class="token punctuation">(</span><span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+    <span class="token comment">// [height, x, y]</span>
+    <span class="token keyword">const</span> minHeap <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">PriorityQueue</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token parameter">a<span class="token punctuation">,</span> b</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> a<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span> <span class="token operator">-</span> b<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">)</span>
+
+    <span class="token comment">// push all the edge to the minHeap and mark visited as true</span>
+    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">let</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> len<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        minHeap<span class="token punctuation">.</span><span class="token function">enqueue</span><span class="token punctuation">(</span><span class="token punctuation">[</span>heightMap<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">,</span> i<span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">)</span>
+        visited<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span>
+        minHeap<span class="token punctuation">.</span><span class="token function">enqueue</span><span class="token punctuation">(</span><span class="token punctuation">[</span>heightMap<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">[</span>width <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">,</span> i<span class="token punctuation">,</span> width <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">)</span>
+        visited<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">[</span>width <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span>
+    <span class="token punctuation">}</span>
+    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">let</span> j <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span> j <span class="token operator">&lt;</span> width <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">;</span> j<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        minHeap<span class="token punctuation">.</span><span class="token function">enqueue</span><span class="token punctuation">(</span><span class="token punctuation">[</span>heightMap<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">[</span>j<span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> j<span class="token punctuation">]</span><span class="token punctuation">)</span>
+        visited<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">[</span>j<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span>
+        minHeap<span class="token punctuation">.</span><span class="token function">enqueue</span><span class="token punctuation">(</span><span class="token punctuation">[</span>heightMap<span class="token punctuation">[</span>len <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">[</span>j<span class="token punctuation">]</span><span class="token punctuation">,</span> len <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">,</span> j<span class="token punctuation">]</span><span class="token punctuation">)</span>
+        visited<span class="token punctuation">[</span>len <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">[</span>j<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span>
+    <span class="token punctuation">}</span>
+
+    <span class="token keyword">let</span> res <span class="token operator">=</span> <span class="token number">0</span>
+    <span class="token keyword">const</span> directions <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">,</span> <span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token punctuation">[</span><span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">]</span>
+    <span class="token keyword">while</span> <span class="token punctuation">(</span><span class="token operator">!</span>minHeap<span class="token punctuation">.</span><span class="token function">isEmpty</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token keyword">const</span> <span class="token punctuation">[</span>height<span class="token punctuation">,</span> x<span class="token punctuation">,</span> y<span class="token punctuation">]</span> <span class="token operator">=</span> minHeap<span class="token punctuation">.</span><span class="token function">dequeue</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+
+        <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">const</span> dir <span class="token keyword">of</span> directions<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+            <span class="token keyword">const</span> nx <span class="token operator">=</span> x <span class="token operator">+</span> dir<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span>
+            <span class="token keyword">const</span> ny <span class="token operator">=</span> y <span class="token operator">+</span> dir<span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span>
+
+            <span class="token keyword">if</span> <span class="token punctuation">(</span>nx <span class="token operator">&gt;=</span> <span class="token number">0</span> <span class="token operator">&amp;&amp;</span> nx <span class="token operator">&lt;</span> len <span class="token operator">&amp;&amp;</span> ny <span class="token operator">&gt;=</span> <span class="token number">0</span> <span class="token operator">&amp;&amp;</span> ny <span class="token operator">&lt;</span> width <span class="token operator">&amp;&amp;</span> <span class="token operator">!</span>visited<span class="token punctuation">[</span>nx<span class="token punctuation">]</span><span class="token punctuation">[</span>ny<span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+                res <span class="token operator">+=</span> Math<span class="token punctuation">.</span><span class="token function">max</span><span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span> height <span class="token operator">-</span> heightMap<span class="token punctuation">[</span>nx<span class="token punctuation">]</span><span class="token punctuation">[</span>ny<span class="token punctuation">]</span><span class="token punctuation">)</span>
+                minHeap<span class="token punctuation">.</span><span class="token function">enqueue</span><span class="token punctuation">(</span><span class="token punctuation">[</span>Math<span class="token punctuation">.</span><span class="token function">max</span><span class="token punctuation">(</span>height<span class="token punctuation">,</span> heightMap<span class="token punctuation">[</span>nx<span class="token punctuation">]</span><span class="token punctuation">[</span>ny<span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">,</span> nx<span class="token punctuation">,</span> ny<span class="token punctuation">]</span><span class="token punctuation">)</span>
+                visited<span class="token punctuation">[</span>nx<span class="token punctuation">]</span><span class="token punctuation">[</span>ny<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span>
+            <span class="token punctuation">}</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+
+    <span class="token keyword">return</span> res
+<span class="token punctuation">}</span><span class="token punctuation">;</span>
+</code></pre>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="354.html" class="navigation navigation-prev " aria-label="Previous page: 354. Russian Doll Envelopes(hard)">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="410.html" class="navigation navigation-next " aria-label="Next page: 410. Split Array Largest Sum(hard)">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"407. Trapping Rain Water II(hard)","level":"1.4.17","depth":2,"next":{"title":"410. Split Array Largest Sum(hard)","level":"1.4.18","depth":2,"path":"hard/410.md","ref":"./hard/410.md","articles":[]},"previous":{"title":"354. Russian Doll Envelopes(hard)","level":"1.4.16","depth":2,"path":"hard/354.md","ref":"./hard/354.md","articles":[]},"dir":"ltr"},"config":{"plugins":["github-buttons","chapter-fold","code","prism","-highlight","search-plus","-lunr","-search","latex-codecogs","-sharing","theme-comscore","splitter","anchor-navigation-ex","-livereload"],"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"pluginsConfig":{"latex-codecogs":{"type":"gif"},"chapter-fold":{},"prism":{"lang":{"c++":"cpp"},"css":["prismjs/themes/prism-tomorrow.css"]},"splitter":{},"code":{"copyButtons":true},"fontsettings":{"theme":"white","family":"sans","size":2},"anchor-navigation-ex":{"showLevel":false,"associatedWithSummary":false,"mode":"float","showGoTop":true,"printLog":false,"multipleH1":false,"float":{"floatIcon":"fa fa-navicon","showLevelIcon":false,"level1Icon":"","level2Icon":"","level3Icon":""},"pageTop":{"showLevelIcon":false,"level1Icon":"","level2Icon":"","level3Icon":""}},"theme-comscore":{},"github-buttons":{"buttons":[{"user":"Joyee691","repo":"leetcode-daily-challenge","type":"star","size":"small"}]},"theme-default":{"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"showLevel":false},"search-plus":{}},"theme":"default","author":"Joyee691","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"LeetCode Daily Challenge","language":"zh-hans","gitbook":"3.2.3","description":"一个记录 LeetCode 每日一题的仓库"},"file":{"path":"hard/407.md","mtime":"2026-02-13T03:33:53.233Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2026-02-13T03:34:18.203Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-github-buttons/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-chapter-fold/chapter-fold.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-code/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search-plus/jquery.mark.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search-plus/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-splitter/splitter.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-theme-comscore/test.js"></script>
+        
+    
+
+    </body>
+</html>
+

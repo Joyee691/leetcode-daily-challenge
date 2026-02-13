@@ -1,17 +1,41 @@
 {
-  "name": "leetcode-daily-challenge",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:Joyee691/leetcode-daily-challenge.git",
-  "author": "joyee <jjjiii11@icloud.com>",
-  "license": "MIT",
-  "dependencies": {
-    "axios": "^1.7.9",
-    "cheerio": "^1.0.0",
-    "readline-sync": "^1.4.10"
-  },
-  "scripts": {
-    "start": "node ./scripts/start.js && node ./scripts/update.js",
-    "web": "open https://joyee691.github.io/leetcode-daily-challenge/"
-  }
+	"name": "leetcode_daily_challenge",
+	"version": "1.0.0",
+	"description": "A repo that record leetcode daily challenge",
+	"main": "book.js",
+	"dependencies": {
+		"colors": "^1.4.0",
+		"gitbook-plugin-anchor-navigation-ex": "^1.0.14",
+		"gitbook-plugin-chapter-fold": "^0.0.4",
+		"gitbook-plugin-code": "^0.1.0",
+		"gitbook-plugin-github": "^2.0.0",
+		"gitbook-plugin-github-buttons": "^3.0.0",
+		"gitbook-plugin-latex-codecogs": "^1.0.1",
+		"gitbook-plugin-livereload": "0.0.1",
+		"gitbook-plugin-prism": "^2.4.0",
+		"gitbook-plugin-search-plus": "^1.0.3",
+		"gitbook-plugin-splitter": "^0.0.8",
+		"gitbook-plugin-theme-comscore": "^0.0.3"
+	},
+	"devDependencies": {
+		"cross-env": "^7.0.3"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"serve": "cross-env NODE_ENV=dev gitbook serve",
+		"build": "gitbook build"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/Joyee691/leetcode-daily-challenge.git"
+	},
+	"keywords": [
+		"leetcode"
+	],
+	"author": "Joyee691",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Joyee691/leetcode-daily-challenge/issues"
+	},
+	"homepage": "https://github.com/Joyee691/leetcode-daily-challenge#readme"
 }
