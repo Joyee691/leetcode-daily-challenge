@@ -291,6 +291,7 @@
 - [2273. Find Resultant Array After Removing Anagrams(easy)](./easy/2273.md)
 - [2300. Successful Pairs of Spells and Potions(medium)](./medium/2300.md)
 - [2327. Number of People Aware of a Secret(medium)](./medium/2327.md)
+- [2336. Smallest Number in Infinite Set(medium)](./medium/2336.md)
 - [2352. Equal Row and Column Pairs(medium)](./medium/2352.md)
 - [2353. Design a Food Rating System(medium)](./medium/2353.md)
 - [2390. Removing Stars From a String(medium)](./medium/2390.md)
