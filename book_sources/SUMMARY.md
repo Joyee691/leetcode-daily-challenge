@@ -284,6 +284,7 @@
   - [2415. Reverse Odd Levels of Binary Tree(medium)](./medium/2415.md)
   - [2471. Minimum Number of Operations to Sort a Binary Tree by Level(medium)](./medium/2471.md)
   - [2536. Increment Submatrices by One(medium)](./medium/2536.md)
+  - [2542. Maximum Subsequence Score(medium)](./medium/2542.md)
   - [2598. Smallest Missing Non-negative Integer After Operations(medium)](./medium/2598.md)
   - [2636. Promise Pool(medium)](./medium/2636.md)
   - [2654. Minimum Number of Operations to Make All Array Elements Equal to 1(medium)](./medium/2654.md)
