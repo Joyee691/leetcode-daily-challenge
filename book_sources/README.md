@@ -297,6 +297,7 @@
 - [2390. Removing Stars From a String(medium)](./medium/2390.md)
 - [2415. Reverse Odd Levels of Binary Tree(medium)](./medium/2415.md)
 - [2418. Sort the People(easy)](./easy/2418.md)
+- [2462. Total Cost to Hire K Workers(medium)](./medium/2462.md)
 - [2471. Minimum Number of Operations to Sort a Binary Tree by Level(medium)](./medium/2471.md)
 - [2536. Increment Submatrices by One(medium)](./medium/2536.md)
 - [2542. Maximum Subsequence Score(medium)](./medium/2542.md)
