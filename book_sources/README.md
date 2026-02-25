@@ -88,6 +88,7 @@
 - [139. Word Break(medium)](./medium/139.md)
 - [141. Linked List Cycle(easy)](./easy/141.md)
 - [142. Linked List Cycle II(medium)](./medium/142.md)
+- [143. Reorder List(medium)](./medium/143.md)
 - [146. LRU Cache(medium)](./medium/146.md)
 - [151. Reverse Words in a String(medium)](./medium/151.md)
 - [152. Maximum Product Subarray(medium)](./medium/152.md)
