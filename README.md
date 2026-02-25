@@ -96,6 +96,7 @@
 - [153. Find Minimum in Rotated Sorted Array(medium)](./book_sources/medium/153.md)
 - [155. Min Stack(medium)](./book_sources/medium/155.md)
 - [160. Intersection of Two Linked Lists(easy)](./book_sources/easy/160.md)
+- [162. Find Peak Element(medium)](./book_sources/medium/162.md)
 - [165. Compare Version Numbers(medium)](./book_sources/medium/165.md)
 - [166. Fraction to Recurring Decimal(medium)](./book_sources/medium/166.md)
 - [167. Two Sum II - Input Array Is Sorted(medium)](./book_sources/medium/167.md)
