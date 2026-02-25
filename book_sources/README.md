@@ -137,6 +137,7 @@
 - [345. Reverse Vowels of a String(easy)](./easy/345.md)
 - [347. Top K Frequent Elements(medium)](./medium/347.md)
 - [354. Russian Doll Envelopes(hard)](./hard/354.md)
+- [374. Guess Number Higher or Lower(easy)](./easy/374.md)
 - [376. Wiggle Subsequence(medium)](./medium/376.md)
 - [392. Is Subsequence(easy)](./easy/392.md)
 - [394. Decode String(medium)](./medium/394.md)

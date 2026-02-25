@@ -139,6 +139,7 @@
 - [345. Reverse Vowels of a String(easy)](./book_sources/easy/345.md)
 - [347. Top K Frequent Elements(medium)](./book_sources/medium/347.md)
 - [354. Russian Doll Envelopes(hard)](./book_sources/hard/354.md)
+- [374. Guess Number Higher or Lower(easy)](./book_sources/easy/374.md)
 - [376. Wiggle Subsequence(medium)](./book_sources/medium/376.md)
 - [392. Is Subsequence(easy)](./book_sources/easy/392.md)
 - [394. Decode String(medium)](./book_sources/medium/394.md)
