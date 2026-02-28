@@ -46,6 +46,7 @@
   - [706. Design HashMap(easy)](./easy/706.md)
   - [717. 1-bit and 2-bit Characters(easy)](./easy/717.md)
   - [724. Find Pivot Index(easy)](./easy/724.md)
+  - [746. Min Cost Climbing Stairs(easy)](./easy/746.md)
   - [812. Largest Triangle Area(easy)](./easy/812.md)
   - [844. Backspace String Compare(easy)](./easy/844.md)
   - [867. Transpose Matrix(easy)](./easy/867.md)

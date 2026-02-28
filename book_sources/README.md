@@ -185,6 +185,7 @@
 - [726. Number of Atoms(hard)](./hard/726.md)
 - [735. Asteroid Collision(medium)](./medium/735.md)
 - [739. Daily Temperatures(medium)](./medium/739.md)
+- [746. Min Cost Climbing Stairs(easy)](./easy/746.md)
 - [763. Partition Labels(medium)](./medium/763.md)
 - [769. Max Chunks To Make Sorted(medium)](./medium/769.md)
 - [778. Swim in Rising Water(hard)](./hard/778.md)
