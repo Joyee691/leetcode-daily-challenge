@@ -217,6 +217,7 @@
   - [763. Partition Labels(medium)](./medium/763.md)
   - [769. Max Chunks To Make Sorted(medium)](./medium/769.md)
   - [785. Is Graph Bipartite?(medium)](./medium/785.md)
+  - [790. Domino and Tromino Tiling(medium)](./medium/790.md)
   - [820. Short Encoding of Words(medium)](./medium/820.md)
   - [826. Most Profit Assigning Work(medium)](./medium/826.md)
   - [875. Koko Eating Bananas(medium)](./medium/875.md)
