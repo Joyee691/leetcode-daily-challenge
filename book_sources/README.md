@@ -180,6 +180,7 @@
 - [704. Binary Search(easy)](./easy/704.md)
 - [705. Design HashSet(easy)](./easy/705.md)
 - [706. Design HashMap(easy)](./easy/706.md)
+- [714. Best Time to Buy and Sell Stock with Transaction Fee(medium)](./medium/714.md)
 - [717. 1-bit and 2-bit Characters(easy)](./easy/717.md)
 - [724. Find Pivot Index(easy)](./easy/724.md)
 - [726. Number of Atoms(hard)](./hard/726.md)

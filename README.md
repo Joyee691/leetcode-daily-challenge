@@ -182,6 +182,7 @@
 - [704. Binary Search(easy)](./book_sources/easy/704.md)
 - [705. Design HashSet(easy)](./book_sources/easy/705.md)
 - [706. Design HashMap(easy)](./book_sources/easy/706.md)
+- [714. Best Time to Buy and Sell Stock with Transaction Fee(medium)](./book_sources/medium/714.md)
 - [717. 1-bit and 2-bit Characters(easy)](./book_sources/easy/717.md)
 - [724. Find Pivot Index(easy)](./book_sources/easy/724.md)
 - [726. Number of Atoms(hard)](./book_sources/hard/726.md)
