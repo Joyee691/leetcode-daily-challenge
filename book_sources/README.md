@@ -233,6 +233,7 @@
 - [1302. Deepest Leaves Sum(medium)](./medium/1302.md)
 - [1304. Find N Unique Integers Sum up to Zero(easy)](./easy/1304.md)
 - [1317. Convert Integer to the Sum of Two No-Zero Integers(easy)](./easy/1317.md)
+- [1318. Minimum Flips to Make a OR b Equal to c(medium)](./medium/1318.md)
 - [1332. Remove Palindromic Subsequences(easy)](./easy/1332.md)
 - [1337. The K Weakest Rows in a Matrix(easy)](./easy/1337.md)
 - [1342. Number of Steps to Reduce a Number to Zero(easy)](./easy/1342.md)
