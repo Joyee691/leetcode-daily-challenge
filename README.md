@@ -132,6 +132,7 @@
 - [295. Find Median from Data Stream(hard)](./book_sources/hard/295.md)
 - [300. Longest Increasing Subsequence(medium)](./book_sources/medium/300.md)
 - [304. Range Sum Query 2D - Immutable(medium)](./book_sources/medium/304.md)
+- [316. Remove Duplicate Letters(medium)](./book_sources/medium/316.md)
 - [318. Maximum Product of Word Lengths(medium)](./book_sources/medium/318.md)
 - [322. Coin Change(medium)](./book_sources/medium/322.md)
 - [328. Odd Even Linked List(medium)](./book_sources/medium/328.md)
