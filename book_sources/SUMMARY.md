@@ -57,6 +57,7 @@
   - [976. Largest Perimeter Triangle(easy)](./easy/976.md)
   - [1018. Binary Prefix Divisible By 5(easy)](./easy/1018.md)
   - [1046. Last Stone Weight(easy)](./easy/1046.md)
+  - [1047. Remove All Adjacent Duplicates In String(easy)](./easy/1047.md)
   - [1071. Greatest Common Divisor of Strings(easy)](./easy/1071.md)
   - [1137. N-th Tribonacci Number(easy)](./easy/1137.md)
   - [1207. Unique Number of Occurrences(easy)](./easy/1207.md)

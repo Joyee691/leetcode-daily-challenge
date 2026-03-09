@@ -221,6 +221,7 @@
 - [1029. Two City Scheduling(medium)](./book_sources/medium/1029.md)
 - [1039. Minimum Score Triangulation of Polygon(medium)](./book_sources/medium/1039.md)
 - [1046. Last Stone Weight(easy)](./book_sources/easy/1046.md)
+- [1047. Remove All Adjacent Duplicates In String(easy)](./book_sources/easy/1047.md)
 - [1048. Longest String Chain(medium)](./book_sources/medium/1048.md)
 - [1052. Grumpy Bookstore Owner(medium)](./book_sources/medium/1052.md)
 - [1071. Greatest Common Divisor of Strings(easy)](./book_sources/easy/1071.md)
