@@ -40,6 +40,7 @@
 - [40. Combination Sum II(medium)](./medium/40.md)
 - [41. First Missing Positive(hard)](./hard/41.md)
 - [42. Trapping Rain Water(hard)](./hard/42.md)
+- [43. Multiply Strings(medium)](./medium/43.md)
 - [45. Jump Game II(medium)](./medium/45.md)
 - [46. Permutations(medium)](./medium/46.md)
 - [47. Permutations II(medium)](./medium/47.md)
