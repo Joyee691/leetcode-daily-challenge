@@ -46,6 +46,7 @@
 - [47. Permutations II(medium)](./medium/47.md)
 - [48. Rotate Image(medium)](./medium/48.md)
 - [49. Group Anagrams(medium)](./medium/49.md)
+- [50. Pow(x, n)(medium)](./medium/50.md)
 - [51. N-Queens(hard)](./hard/51.md)
 - [52. N-Queens II(hard)](./hard/52.md)
 - [53. Maximum Subarray(medium)](./medium/53.md)

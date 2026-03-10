@@ -125,6 +125,7 @@
   - [47. Permutations II(medium)](./medium/47.md)
   - [48. Rotate Image(medium)](./medium/48.md)
   - [49. Group Anagrams(medium)](./medium/49.md)
+  - [50. Pow(x, n)(medium)](./medium/50.md)
   - [53. Maximum Subarray(medium)](./medium/53.md)
   - [54. Spiral Matrix(medium)](./medium/54.md)
   - [55. Jump Game(medium)](./medium/55.md)

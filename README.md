@@ -48,6 +48,7 @@
 - [47. Permutations II(medium)](./book_sources/medium/47.md)
 - [48. Rotate Image(medium)](./book_sources/medium/48.md)
 - [49. Group Anagrams(medium)](./book_sources/medium/49.md)
+- [50. Pow(x, n)(medium)](./book_sources/medium/50.md)
 - [51. N-Queens(hard)](./book_sources/hard/51.md)
 - [52. N-Queens II(hard)](./book_sources/hard/52.md)
 - [53. Maximum Subarray(medium)](./book_sources/medium/53.md)
