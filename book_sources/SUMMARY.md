@@ -55,6 +55,7 @@
   - [905. Sort Array By Parity(easy)](./easy/905.md)
   - [933. Number of Recent Calls(easy)](./easy/933.md)
   - [976. Largest Perimeter Triangle(easy)](./easy/976.md)
+  - [1009. Complement of Base 10 Integer(easy)](./easy/1009.md)
   - [1018. Binary Prefix Divisible By 5(easy)](./easy/1018.md)
   - [1046. Last Stone Weight(easy)](./easy/1046.md)
   - [1047. Remove All Adjacent Duplicates In String(easy)](./easy/1047.md)
