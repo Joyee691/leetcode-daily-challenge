@@ -55,6 +55,7 @@
 - [54. Spiral Matrix(medium)](./book_sources/medium/54.md)
 - [55. Jump Game(medium)](./book_sources/medium/55.md)
 - [56. Merge Intervals(medium)](./book_sources/medium/56.md)
+- [57. Insert Interval(medium)](./book_sources/medium/57.md)
 - [59. Spiral Matrix II(medium)](./book_sources/medium/59.md)
 - [61. Rotate List(medium)](./book_sources/medium/61.md)
 - [62. Unique Paths(medium)](./book_sources/medium/62.md)
