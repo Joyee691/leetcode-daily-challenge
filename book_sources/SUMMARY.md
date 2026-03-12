@@ -12,6 +12,7 @@
   - [28. Find the Index of the First Occurrence in a String(easy)](./easy/28.md)
   - [35. Search Insert Position(easy)](./easy/35.md)
   - [58. Length of Last Word(easy)](./easy/58.md)
+  - [66. Plus One(easy)](./easy/66.md)
   - [70. Climbing Stairs(easy)](./easy/70.md)
   - [88. Merge Sorted Array(easy)](./easy/88.md)
   - [101. Symmetric Tree(easy)](./easy/101.md)
