@@ -62,6 +62,7 @@
 - [64. Minimum Path Sum(medium)](./medium/64.md)
 - [66. Plus One(easy)](./easy/66.md)
 - [67. Add Binary(easy)](./easy/67.md)
+- [69. Sqrt(x)(easy)](./easy/69.md)
 - [70. Climbing Stairs(easy)](./easy/70.md)
 - [72. Edit Distance(medium)](./medium/72.md)
 - [73. Set Matrix Zeroes(medium)](./medium/73.md)

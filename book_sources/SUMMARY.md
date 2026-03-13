@@ -14,6 +14,7 @@
   - [58. Length of Last Word(easy)](./easy/58.md)
   - [66. Plus One(easy)](./easy/66.md)
   - [67. Add Binary(easy)](./easy/67.md)
+  - [69. Sqrt(x)(easy)](./easy/69.md)
   - [70. Climbing Stairs(easy)](./easy/70.md)
   - [88. Merge Sorted Array(easy)](./easy/88.md)
   - [101. Symmetric Tree(easy)](./easy/101.md)
