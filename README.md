@@ -63,6 +63,7 @@
 - [63. Unique Paths II(medium)](./book_sources/medium/63.md)
 - [64. Minimum Path Sum(medium)](./book_sources/medium/64.md)
 - [66. Plus One(easy)](./book_sources/easy/66.md)
+- [67. Add Binary(easy)](./book_sources/easy/67.md)
 - [70. Climbing Stairs(easy)](./book_sources/easy/70.md)
 - [72. Edit Distance(medium)](./book_sources/medium/72.md)
 - [73. Set Matrix Zeroes(medium)](./book_sources/medium/73.md)
