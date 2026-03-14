@@ -141,6 +141,7 @@
   - [62. Unique Paths(medium)](./medium/62.md)
   - [63. Unique Paths II(medium)](./medium/63.md)
   - [64. Minimum Path Sum(medium)](./medium/64.md)
+  - [71. Simplify Path(medium)](./medium/71.md)
   - [72. Edit Distance(medium)](./medium/72.md)
   - [73. Set Matrix Zeroes(medium)](./medium/73.md)
   - [74. Search a 2D Matrix(medium)](./medium/74.md)

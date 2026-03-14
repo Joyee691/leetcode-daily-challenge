@@ -64,6 +64,7 @@
 - [67. Add Binary(easy)](./easy/67.md)
 - [69. Sqrt(x)(easy)](./easy/69.md)
 - [70. Climbing Stairs(easy)](./easy/70.md)
+- [71. Simplify Path(medium)](./medium/71.md)
 - [72. Edit Distance(medium)](./medium/72.md)
 - [73. Set Matrix Zeroes(medium)](./medium/73.md)
 - [74. Search a 2D Matrix(medium)](./medium/74.md)
