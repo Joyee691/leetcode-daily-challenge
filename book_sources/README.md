@@ -70,6 +70,7 @@
 - [74. Search a 2D Matrix(medium)](./medium/74.md)
 - [75. Sort Colors(medium)](./medium/75.md)
 - [76. Minimum Window Substring(hard)](./hard/76.md)
+- [77. Combinations(medium)](./medium/77.md)
 - [78. Subsets(medium)](./medium/78.md)
 - [81. Search in Rotated Sorted Array II(medium)](./medium/81.md)
 - [84. Largest Rectangle in Histogram(hard)](./hard/84.md)

@@ -146,6 +146,7 @@
   - [73. Set Matrix Zeroes(medium)](./medium/73.md)
   - [74. Search a 2D Matrix(medium)](./medium/74.md)
   - [75. Sort Colors(medium)](./medium/75.md)
+  - [77. Combinations(medium)](./medium/77.md)
   - [78. Subsets(medium)](./medium/78.md)
   - [81. Search in Rotated Sorted Array II(medium)](./medium/81.md)
   - [92. Reverse Linked List II(medium)](./medium/92.md)
