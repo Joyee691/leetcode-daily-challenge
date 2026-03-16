@@ -77,6 +77,7 @@
 - [81. Search in Rotated Sorted Array II(medium)](./book_sources/medium/81.md)
 - [83. Remove Duplicates from Sorted List(easy)](./book_sources/easy/83.md)
 - [84. Largest Rectangle in Histogram(hard)](./book_sources/hard/84.md)
+- [86. Partition List(medium)](./book_sources/medium/86.md)
 - [88. Merge Sorted Array(easy)](./book_sources/easy/88.md)
 - [92. Reverse Linked List II(medium)](./book_sources/medium/92.md)
 - [98. Validate Binary Search Tree(medium)](./book_sources/medium/98.md)
