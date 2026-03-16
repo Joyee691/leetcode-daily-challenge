@@ -16,6 +16,7 @@
   - [67. Add Binary(easy)](./easy/67.md)
   - [69. Sqrt(x)(easy)](./easy/69.md)
   - [70. Climbing Stairs(easy)](./easy/70.md)
+  - [83. Remove Duplicates from Sorted List(easy)](./easy/83.md)
   - [88. Merge Sorted Array(easy)](./easy/88.md)
   - [101. Symmetric Tree(easy)](./easy/101.md)
   - [104. Maximum Depth of Binary Tree(easy)](./easy/104.md)

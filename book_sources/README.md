@@ -73,6 +73,7 @@
 - [77. Combinations(medium)](./medium/77.md)
 - [78. Subsets(medium)](./medium/78.md)
 - [81. Search in Rotated Sorted Array II(medium)](./medium/81.md)
+- [83. Remove Duplicates from Sorted List(easy)](./easy/83.md)
 - [84. Largest Rectangle in Histogram(hard)](./hard/84.md)
 - [88. Merge Sorted Array(easy)](./easy/88.md)
 - [92. Reverse Linked List II(medium)](./medium/92.md)
