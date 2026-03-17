@@ -77,6 +77,7 @@
 - [84. Largest Rectangle in Histogram(hard)](./hard/84.md)
 - [86. Partition List(medium)](./medium/86.md)
 - [88. Merge Sorted Array(easy)](./easy/88.md)
+- [89. Gray Code(medium)](./medium/89.md)
 - [92. Reverse Linked List II(medium)](./medium/92.md)
 - [98. Validate Binary Search Tree(medium)](./medium/98.md)
 - [99. Recover Binary Search Tree(medium)](./medium/99.md)
