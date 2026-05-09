@@ -37,6 +37,7 @@
   - [234. Palindrome Linked List(easy)](./easy/234.md)
   - [268. Missing Number(easy)](./easy/268.md)
   - [283. Move Zeroes(easy)](./easy/283.md)
+  - [290. Word Pattern(easy)](./easy/290.md)
   - [344. Reverse String(easy)](./easy/344.md)
   - [345. Reverse Vowels of a String(easy)](./easy/345.md)
   - [374. Guess Number Higher or Lower(easy)](./easy/374.md)
