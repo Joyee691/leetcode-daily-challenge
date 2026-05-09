@@ -127,6 +127,7 @@
 - [198. House Robber(medium)](./book_sources/medium/198.md)
 - [199. Binary Tree Right Side View(medium)](./book_sources/medium/199.md)
 - [200. Number of Islands(medium)](./book_sources/medium/200.md)
+- [205. Isomorphic Strings(easy)](./book_sources/easy/205.md)
 - [206. Reverse Linked List(easy)](./book_sources/easy/206.md)
 - [207. Course Schedule(medium)](./book_sources/medium/207.md)
 - [208. Implement Trie (Prefix Tree)(medium)](./book_sources/medium/208.md)
