@@ -99,6 +99,7 @@
 - [121. Best Time to Buy and Sell Stock(easy)](./book_sources/easy/121.md)
 - [122. Best Time to Buy and Sell Stock II(medium)](./book_sources/medium/122.md)
 - [124. Binary Tree Maximum Path Sum(hard)](./book_sources/hard/124.md)
+- [125. Valid Palindrome(easy)](./book_sources/easy/125.md)
 - [128. Longest Consecutive Sequence(medium)](./book_sources/medium/128.md)
 - [131. Palindrome Partitioning(medium)](./book_sources/medium/131.md)
 - [134. Gas Station(medium)](./book_sources/medium/134.md)
