@@ -134,6 +134,7 @@
 - [216. Combination Sum III(medium)](./medium/216.md)
 - [225. Implement Stack using Queues(easy)](./easy/225.md)
 - [226. Invert Binary Tree(easy)](./easy/226.md)
+- [228. Summary Ranges(easy)](./easy/228.md)
 - [230. Kth Smallest Element in a BST(medium)](./medium/230.md)
 - [234. Palindrome Linked List(easy)](./easy/234.md)
 - [236. Lowest Common Ancestor of a Binary Tree(medium)](./medium/236.md)
