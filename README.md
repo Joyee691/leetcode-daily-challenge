@@ -165,6 +165,7 @@
 - [374. Guess Number Higher or Lower(easy)](./book_sources/easy/374.md)
 - [376. Wiggle Subsequence(medium)](./book_sources/medium/376.md)
 - [380. Insert Delete GetRandom O(1)(medium)](./book_sources/medium/380.md)
+- [383. Ransom Note(easy)](./book_sources/easy/383.md)
 - [392. Is Subsequence(easy)](./book_sources/easy/392.md)
 - [394. Decode String(medium)](./book_sources/medium/394.md)
 - [399. Evaluate Division(medium)](./book_sources/medium/399.md)

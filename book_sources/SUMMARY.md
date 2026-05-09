@@ -39,6 +39,7 @@
   - [344. Reverse String(easy)](./easy/344.md)
   - [345. Reverse Vowels of a String(easy)](./easy/345.md)
   - [374. Guess Number Higher or Lower(easy)](./easy/374.md)
+  - [383. Ransom Note(easy)](./easy/383.md)
   - [392. Is Subsequence(easy)](./easy/392.md)
   - [543. Diameter of Binary Tree(easy)](./easy/543.md)
   - [605. Can Place Flowers(easy)](./easy/605.md)
