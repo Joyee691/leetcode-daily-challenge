@@ -86,6 +86,7 @@
 - [93. Restore IP Addresses(medium)](./book_sources/medium/93.md)
 - [98. Validate Binary Search Tree(medium)](./book_sources/medium/98.md)
 - [99. Recover Binary Search Tree(medium)](./book_sources/medium/99.md)
+- [100. Same Tree(easy)](./book_sources/easy/100.md)
 - [101. Symmetric Tree(easy)](./book_sources/easy/101.md)
 - [102. Binary Tree Level Order Traversal(medium)](./book_sources/medium/102.md)
 - [104. Maximum Depth of Binary Tree(easy)](./book_sources/easy/104.md)

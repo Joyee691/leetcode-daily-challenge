@@ -18,6 +18,7 @@
   - [70. Climbing Stairs(easy)](./easy/70.md)
   - [83. Remove Duplicates from Sorted List(easy)](./easy/83.md)
   - [88. Merge Sorted Array(easy)](./easy/88.md)
+  - [100. Same Tree(easy)](./easy/100.md)
   - [101. Symmetric Tree(easy)](./easy/101.md)
   - [104. Maximum Depth of Binary Tree(easy)](./easy/104.md)
   - [108. Convert Sorted Array to Binary Search Tree(easy)](./easy/108.md)
