@@ -166,6 +166,7 @@
   - [99. Recover Binary Search Tree(medium)](./medium/99.md)
   - [102. Binary Tree Level Order Traversal(medium)](./medium/102.md)
   - [105. Construct Binary Tree from Preorder and Inorder Traversal(medium)](./medium/105.md)
+  - [106. Construct Binary Tree from Inorder and Postorder Traversal(medium)](./medium/106.md)
   - [114. Flatten Binary Tree to Linked List(medium)](./medium/114.md)
   - [117. Populating Next Right Pointers in Each Node II(medium)](./medium/117.md)
   - [120. Triangle(medium)](./medium/120.md)

@@ -91,6 +91,7 @@
 - [102. Binary Tree Level Order Traversal(medium)](./book_sources/medium/102.md)
 - [104. Maximum Depth of Binary Tree(easy)](./book_sources/easy/104.md)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal(medium)](./book_sources/medium/105.md)
+- [106. Construct Binary Tree from Inorder and Postorder Traversal(medium)](./book_sources/medium/106.md)
 - [108. Convert Sorted Array to Binary Search Tree(easy)](./book_sources/easy/108.md)
 - [114. Flatten Binary Tree to Linked List(medium)](./book_sources/medium/114.md)
 - [117. Populating Next Right Pointers in Each Node II(medium)](./book_sources/medium/117.md)
