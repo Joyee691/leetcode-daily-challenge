@@ -172,6 +172,7 @@
   - [120. Triangle(medium)](./medium/120.md)
   - [122. Best Time to Buy and Sell Stock II(medium)](./medium/122.md)
   - [128. Longest Consecutive Sequence(medium)](./medium/128.md)
+  - [129. Sum Root to Leaf Numbers(medium)](./medium/129.md)
   - [131. Palindrome Partitioning(medium)](./medium/131.md)
   - [134. Gas Station(medium)](./medium/134.md)
   - [138. Copy List with Random Pointer(medium)](./medium/138.md)
